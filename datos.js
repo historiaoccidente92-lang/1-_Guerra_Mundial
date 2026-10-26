@@ -247,4 +247,3 @@ const YEAR_DETAIL={
 "Las Potencias Centrales colapsaron una tras otra: Bulgaria (29 de septiembre), el Imperio otomano (30 de octubre), Austria-Hungría (3 de noviembre) y finalmente Alemania, que firmó el armisticio el 11 de noviembre a las 11 de la mañana.",
 "La guerra dejó entre 9 y 10 millones de militares muertos y varios millones de civiles. La gripe de 1918 causó decenas de millones de muertes más. Cayeron cuatro imperios: el alemán, el austrohúngaro, el ruso y el otomano. En 1919, la Conferencia de París y el Tratado de Versalles redefinieron Europa y crearon la Sociedad de Naciones."]
 };
-/* ============ FIN DEL CONTENIDO ============ */
