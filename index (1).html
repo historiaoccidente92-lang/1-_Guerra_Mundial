@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>La Primera Guerra Mundial, 1914–1918</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="globe" aria-label="Globo terráqueo 3D interactivo"></div>
+<div id="map" aria-label="Mapa mundial 2D interactivo"></div>
+
+<div class="bar">
+  <h1>La Primera Guerra Mundial<small>Arrastra el globo y haz clic en un país</small></h1>
+  <label>Año
+    <select id="year" aria-label="Seleccionar año"></select>
+  </label>
+  <button id="view">Vista 2D</button>
+  <button id="infl" aria-pressed="false">Colorear por influencia</button>
+</div>
+
+<div class="legend" id="legend">
+  <span><i style="background:var(--hi)"></i>Muy influyente</span>
+  <span><i style="background:var(--mid)"></i>Influencia media</span>
+  <span><i style="background:var(--lo)"></i>Poco influyente</span>
+</div>
+
+<aside class="card" id="events">
+  <h2 id="evTitle"></h2>
+  <p id="evSub"></p>
+  <button id="evOpen">Ver el año en detalle</button>
+</aside>
+
+<aside class="card" id="info" aria-live="polite">
+  <h2>Selecciona un país</h2>
+  <p>Haz clic en cualquier país del globo para ver qué ocurrió allí en el año elegido.</p>
+</aside>
+
+<div class="modal" id="modal" hidden role="dialog" aria-modal="true" aria-labelledby="mTitle">
+ <div class="mbox">
+  <header>
+   <div><h2 id="mTitle"></h2><span class="tag" id="mTag"></span></div>
+   <div class="tabs" id="mYears" role="group" aria-label="Año"></div>
+   <button id="mClose" aria-label="Cerrar">Cerrar ✕</button>
+  </header>
+  <div class="mbody">
+   <section>
+    <p id="mNote" style="color:var(--mid)"></p><h3 id="mYearH"></h3><p id="mText"></p><div id="mExtra"></div>
+    <button id="mToYear"></button>
+   </section>
+   <section><h3>Videos</h3><div id="mVideos"></div></section>
+  </div>
+ </div>
+</div>
+
+<div class="modal" id="ymodal" hidden role="dialog" aria-modal="true" aria-labelledby="yTitle">
+ <div class="mbox">
+  <header>
+   <div><h2 id="yTitle"></h2></div>
+   <div class="tabs" id="yYears" role="group" aria-label="Año"></div>
+   <button id="yClose" aria-label="Cerrar">Cerrar ✕</button>
+  </header>
+  <div class="mbody">
+   <section>
+    <h3 id="yWorldH"></h3><div id="yWorld"></div>
+    <h3>Hechos clave del año</h3><ul id="yList"></ul>
+   </section>
+   <section><h3>Videos</h3><div id="yVideos"></div></section>
+  </div>
+ </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/globe.gl@2.27.2/dist/globe.gl.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<script src="datos.js"></script>
+<script src="mapa.js"></script>
+</body>
+</html>
