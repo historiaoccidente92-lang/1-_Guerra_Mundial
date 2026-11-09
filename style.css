@@ -1,4 +1,4 @@
-/* ESTILOS: diseño de la página, el mapa y las ventanas */
+
 :root{--bg:#10161c;--panel:#1a232b;--line:#2c3945;--text:#e9e4d6;--muted:#9aa5ad;--hi:#c0392b;--mid:#d89b2b;--lo:#4f8a5b;--non:#56636d}
 *{box-sizing:border-box}
 html,body{margin:0;height:100%;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",sans-serif;overflow:hidden}
@@ -52,7 +52,7 @@ button[aria-pressed=true]{background:var(--hi);border-color:var(--hi)}
 @media(max-width:800px){.mbody{grid-template-columns:1fr}.mbox{width:100vw;height:100vh;border-radius:0}}
 @media(max-width:760px){#info,#events{left:10px;right:10px;width:auto;max-width:none}#info{bottom:150px;max-height:30vh;overflow:auto}#events{bottom:10px}}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
-
+ 
 /* Encuesta */
 .mbox.sm{width:min(560px,95vw);height:auto;max-height:90vh}
 .mbox.sm .mbody{display:block}
@@ -63,3 +63,8 @@ button[aria-pressed=true]{background:var(--hi);border-color:var(--hi)}
 #sEnviar:disabled{opacity:.6;cursor:wait}
 #sMsg{margin:10px 0 0;min-height:1.3em}
 #sMsg.ok{color:#7fc48f}#sMsg.err{color:#f08a7e}
+ 
+/* Mapa 2D con la imagen base */
+#map{background:#b6dcf3}
+body.is2d .bar{background:linear-gradient(rgba(16,22,28,.94),rgba(16,22,28,0))}
+.legend{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 12px;color:var(--text)}
