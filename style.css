@@ -64,7 +64,5 @@ button[aria-pressed=true]{background:var(--hi);border-color:var(--hi)}
 #sMsg{margin:10px 0 0;min-height:1.3em}
 #sMsg.ok{color:#7fc48f}#sMsg.err{color:#f08a7e}
 
-/* Mapa 2D con la imagen base */
-#map{background:#b6dcf3}
-body.is2d .bar{background:linear-gradient(rgba(16,22,28,.94),rgba(16,22,28,0))}
+/* Leyenda */
 .legend{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 12px;color:var(--text)}
