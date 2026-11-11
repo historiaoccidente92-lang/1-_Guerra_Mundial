@@ -178,6 +178,16 @@ const EXTRA={
 "La situación también generó tensiones entre las autoridades coloniales y los colonos europeos. Estos últimos necesitaban trabajadores para sus explotaciones agrícolas y temían que el reclutamiento militar redujera la mano de obra disponible. Como consecuencia, las autoridades intentaron organizar el reclutamiento de manera que no perjudicara demasiado la producción de las propiedades agrícolas europeas.",
 "En el ámbito económico, algunos sectores agrícolas comenzaron a beneficiarse de la demanda relacionada con la guerra. La producción de cereales y ganado encontró nuevos mercados, mientras que cultivos comerciales como el café y el sisal continuaron desarrollándose. Esto favoreció principalmente a los colonos europeos, mientras que gran parte de la población africana enfrentaba mayores exigencias laborales.",
 "Por tanto, 1915 fue un año en el que la participación de la África Oriental Británica se hizo más intensa, especialmente mediante la movilización de trabajadores africanos para sostener las operaciones militares británicas. (Savage & Munro, 1966; Overton, 1986)."
+],
+1916: [
+"Durante 1916, la campaña militar en África oriental se intensificó considerablemente. Las fuerzas británicas organizaron una ofensiva de mayor escala contra el África Oriental Alemana, con el objetivo de ocupar sus principales ciudades, ferrocarriles y centros de comunicación.",
+"El general sudafricano Jan Christiaan Smuts asumió el mando de las principales fuerzas británicas en febrero de 1916. Bajo su dirección, las tropas aliadas avanzaron desde diferentes territorios hacia las posiciones alemanas.",
+"La África Oriental Británica funcionó como una de las principales bases de abastecimiento para estas operaciones. Desde su territorio se organizaron movimientos de soldados, alimentos, armas y materiales necesarios para mantener el avance militar.",
+"Uno de los mayores problemas fue el transporte. Las tropas tenían que desplazarse por regiones con temperaturas elevadas, lluvias, vegetación densa y caminos difíciles. Además, las enfermedades tropicales afectaban constantemente a los soldados y trabajadores.",
+"Por este motivo, el Cuerpo de Porteadores adquirió todavía más importancia. Miles de africanos fueron utilizados para transportar suministros, muchas veces en condiciones físicas muy difíciles. La movilización de trabajadores también provocó problemas en las actividades agrícolas, ya que numerosas comunidades perdieron parte de su población masculina en edad de trabajar.",
+"En septiembre de 1916, las fuerzas británicas habían ocupado gran parte del África Oriental Alemana, incluyendo importantes ciudades, puertos y líneas ferroviarias. Sin embargo, el comandante alemán Paul von Lettow-Vorbeck logró evitar una derrota definitiva y mantuvo sus fuerzas en movimiento.",
+"La situación económica de la África Oriental Británica tuvo un comportamiento desigual. Los sectores agrícolas vinculados a los colonos europeos consiguieron aumentar algunas exportaciones gracias a la demanda militar. Sin embargo, las comunidades africanas soportaron dificultades por la reducción de trabajadores, las exigencias de abastecimiento y las alteraciones de la producción agrícola.",
+"En consecuencia, 1916 representó un momento de mayor participación militar y económica para el territorio, pero también un aumento considerable de las exigencias sobre su población. (Anderson, 2001; Overton, 1986)."
 ]
 },
 "United Kingdom":X([
@@ -341,10 +351,12 @@ egipto:{n:"Egipto británico",cont:"África",l:2,c:["Egypt"],t:T3(
   "Es protectorado británico desde diciembre de 1914; el Canal de Suez es clave y los británicos lo defienden de un ataque otomano (1915).",
   "Egipto es la base de las fuerzas británicas que combaten a los otomanos; miles de egipcios trabajan para el ejército.",
   "Tras el armisticio crece el nacionalismo y en 1919 estalla la revolución egipcia.")},
-aob:{n:"África oriental británica",cont:"África",l:1,c:["Kenya","Uganda"],x:"aob",t:T3(
-  "Colonias británicas de Kenia y Uganda: sirven de base para combatir a los alemanes en África oriental alemana.",
-  "Cientos de miles de africanos sirven como cargadores; las enfermedades y el hambre causan muchas muertes.",
-  "La campaña continúa hasta el final: el general alemán von Lettow-Vorbeck se rinde después del armisticio.")},
+aob:{n:"África oriental británica",cont:"África",l:1,c:["Kenya","Uganda"],x:"aob",t:T(
+  "Inicio de la Primera Guerra Mundial",
+  "Organización militar y reclutamiento obligatorio",
+  "Intensificación de las operaciones militares",
+  "Un año decisivo para la campaña en África oriental",
+  "Final de la guerra")},
 tanzania:{n:"Tanzania alemana",cont:"África",l:2,c:["Tanzania","Rwanda","Burundi"],t:T3(
   "Es la mayor colonia alemana de África. Von Lettow-Vorbeck vence a los británicos en Tanga (1914) y libra una guerra de guerrillas con tropas africanas (askaris).",
   "Los Aliados avanzan; Lettow-Vorbeck se retira hacia el sur y entra en el Mozambique portugués.",
