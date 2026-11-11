@@ -332,7 +332,7 @@ egipto:{n:"Egipto británico",cont:"África",l:2,c:["Egypt"],t:T3(
   "Es protectorado británico desde diciembre de 1914; el Canal de Suez es clave y los británicos lo defienden de un ataque otomano (1915).",
   "Egipto es la base de las fuerzas británicas que combaten a los otomanos; miles de egipcios trabajan para el ejército.",
   "Tras el armisticio crece el nacionalismo y en 1919 estalla la revolución egipcia.")},
-aob:{n:"África oriental británica",cont:"África",l:1,c:["Kenya","Uganda"]x:"aob",t:T3(
+aob:{n:"África oriental británica",cont:"África",l:1,c:["Kenya","Uganda"],x:"aob",t:T3(
   "Colonias británicas de Kenia y Uganda: sirven de base para combatir a los alemanes en África oriental alemana.",
   "Cientos de miles de africanos sirven como cargadores; las enfermedades y el hambre causan muchas muertes.",
   "La campaña continúa hasta el final: el general alemán von Lettow-Vorbeck se rinde después del armisticio.")},
