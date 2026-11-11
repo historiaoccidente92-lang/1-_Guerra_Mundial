@@ -488,7 +488,7 @@ aob:{n:"África oriental británica",cont:"África",l:1,c:["Kenya","Uganda"],x:"
   "Intensificación de las operaciones militares",
   "Un año decisivo para la campaña en África oriental",
   "Final de la guerra"]},
-tanzania:{n:"Tanzania alemana",cont:"África",l:2,c:["Tanzania","Rwanda","Burundi"],x:"tanzania",t:[
+tanzania:{n:"Tanzania alemana",cont:"África",l:2,c:["Tanzania","Rwanda","Burundi"],x:"Tanzania",t:[
   "Inicio de la Primera Guerra Mundial",
    "Continuación de los enfrentamientos y resistencia alemana",
    "Ofensiva aliada y pérdida de los principales territorios",
