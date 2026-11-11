@@ -160,6 +160,17 @@ const EXTRA={
 "El jefe del estado mayor, Falkenhayn, lanzó Verdún en febrero con la idea de «desangrar» al ejército francés. La batalla duró unos diez meses y costó cientos de miles de bajas sin un resultado decisivo. Luego tuvo que defenderse en el Somme y la flota combatió en Jutlandia sin romper el bloqueo británico. En agosto Hindenburg y Ludendorff asumieron el mando militar.",
 "Por el bloqueo británico la población sufrió escasez grave; el invierno de 1916-17 se recuerda como el «invierno del nabo». Para forzar la paz, Alemania reanudó en febrero la guerra submarina sin restricciones, lo que junto al telegrama Zimmermann llevó a EE. UU. a la guerra. En el este, el colapso de Rusia le permitió trasladar tropas hacia el oeste.",
 "En marzo lanzó la ofensiva de primavera con tropas liberadas del este; avanzó mucho pero no logró un golpe decisivo y quedó agotada. Desde el 8 de agosto, el «día negro» del ejército alemán, retrocedió ante los Aliados. Estallaron el motín naval de Kiel y revueltas en varias ciudades; el Káiser Guillermo II abdicó el 9 de noviembre y el nuevo gobierno firmó el armisticio dos días después."]),
+"aob":{
+ 1914:[
+  "Cuando comenzó la Primera Guerra Mundial en agosto de 1914, la África Oriental Británica se encontraba bajo administración colonial británica. Debido a que Gran Bretaña declaró la guerra a Alemania el 4 de agosto, el territorio quedó involucrado automáticamente en el conflicto.",
+  "La cercanía con el África Oriental Alemana provocó que la región se convirtiera rápidamente en una zona de enfrentamientos. Los británicos debían proteger sus territorios y evitar que las fuerzas alemanas utilizaran sus posiciones para realizar ataques contra las colonias británicas.",
+  "Uno de los primeros acontecimientos militares importantes ocurrió el 15 de agosto de 1914, cuando tropas alemanas procedentes de su colonia atacaron la zona fronteriza de Taveta, en territorio británico. Este avance demostró que la guerra no se limitaría a Europa y que también afectaría directamente a las poblaciones africanas.",
+  "Durante los primeros meses, las fuerzas británicas tuvieron dificultades para organizar una defensa adecuada. El territorio no contaba con suficientes unidades militares ni con una estructura de transporte preparada para una guerra de grandes dimensiones. Por esa razón, comenzaron a organizarse tropas y servicios de apoyo para enfrentar las operaciones alemanas.",
+  "La población africana empezó a ser reclutada para trabajar como porteadores. Su función consistía en transportar suministros militares a través de caminos, montañas y zonas donde los vehículos no podían circular. En ese momento todavía no existía una organización de transporte suficientemente desarrollada, por lo que las autoridades tuvieron que improvisar sistemas de reclutamiento.",
+  "La situación económica también comenzó a cambiar. El comercio marítimo sufrió dificultades debido a la guerra y algunas actividades comerciales se vieron afectadas. Sin embargo, la demanda de alimentos y productos agrícolas para abastecer a las tropas comenzó a generar nuevas oportunidades para los agricultores y comerciantes europeos establecidos en el territorio.",
+  "En el aspecto social, la guerra comenzó a aumentar las exigencias de trabajo sobre la población africana. Aunque inicialmente se recurrió al reclutamiento voluntario, pronto surgieron problemas relacionados con la falta de trabajadores y la resistencia de los habitantes a participar en una guerra que no habían elegido. (Savage & Munro, 1966; Gobierno británico, 2014)."
+ ]
+},
 "United Kingdom":X([
 "El Reino Unido entró el 4 de agosto al violarse la neutralidad de Bélgica, que había garantizado. Envió la Fuerza Expedicionaria Británica a Francia, que combatió en Mons y el Marne y sufrió grandes bajas en la primera batalla de Ypres. Su imperio aportó soldados y recursos desde India, Canadá, Australia y otros territorios, y Kitchener empezó a reclutar voluntarios.",
 "Churchill impulsó la campaña de Galípoli para abrir los Dardanelos; fracasó y fue evacuada entre diciembre de 1915 y enero de 1916. Por primera vez el país sufrió bombardeos de zepelines y el hundimiento del Lusitania despertó indignación. La falta de municiones (la «crisis de los obuses») provocó un gobierno de coalición.",
@@ -192,17 +203,6 @@ const EXTRA={
 "El 24 de octubre una ofensiva austro-alemana rompió el frente en Caporetto; los italianos retrocedieron más de cien kilómetros hasta el río Piave y perdieron cientos de miles de prisioneros. Cadorna fue reemplazado por Diaz y el país se unió ante la amenaza de invasión.",
 "Italia resistió en el Piave en junio y a fines de octubre lanzó la batalla de Vittorio Veneto, que desintegró al ejército austrohúngaro. El armisticio se firmó el 3 de noviembre. Pese a la victoria hubo descontento por no recibir todos los territorios prometidos, lo que se llamó la «victoria mutilada»."])
 };
-"aob":{
-   1914:[const EXTRA= {
-   "aob":{
-      1914:["Cuando comenzó la Primera Guerra Mundial en agosto de 1914, la África Oriental Británica se encontraba bajo administración colonial británica. Debido a que Gran Bretaña declaró la guerra a Alemania el 4 de agosto, el territorio quedó involucrado automáticamente en el conflicto.",
-"La cercanía con el África Oriental Alemana provocó que la región se convirtiera rápidamente en una zona de enfrentamientos. Los británicos debían proteger sus territorios y evitar que las fuerzas alemanas utilizaran sus posiciones para realizar ataques contra las colonias británicas.",
-"Uno de los primeros acontecimientos militares importantes ocurrió el 15 de agosto de 1914, cuando tropas alemanas procedentes de su colonia atacaron la zona fronteriza de Taveta, en territorio británico. Este avance demostró que la guerra no se limitaría a Europa y que también afectaría directamente a las poblaciones africanas.",
-"Durante los primeros meses, las fuerzas británicas tuvieron dificultades para organizar una defensa adecuada. El territorio no contaba con suficientes unidades militares ni con una estructura de transporte preparada para una guerra de grandes dimensiones. Por esa razón, comenzaron a organizarse tropas y servicios de apoyo para enfrentar las operaciones alemanas.",
-"La población africana empezó a ser reclutada para trabajar como porteadores. Su función consistía en transportar suministros militares a través de caminos, montañas y zonas donde los vehículos no podían circular. En ese momento todavía no existía una organización de transporte suficientemente desarrollada, por lo que las autoridades tuvieron que improvisar sistemas de reclutamiento.",
-"La situación económica también comenzó a cambiar. El comercio marítimo sufrió dificultades debido a la guerra y algunas actividades comerciales se vieron afectadas. Sin embargo, la demanda de alimentos y productos agrícolas para abastecer a las tropas comenzó a generar nuevas oportunidades para los agricultores y comerciantes europeos establecidos en el territorio.",
-"En el aspecto social, la guerra comenzó a aumentar las exigencias de trabajo sobre la población africana. Aunque inicialmente se recurrió al reclutamiento voluntario, pronto surgieron problemas relacionados con la falta de trabajadores y la resistencia de los habitantes a participar en una guerra que no habían elegido. (Savage & Munro, 1966; Gobierno británico, 2014)."
-],
 const YEAR_DETAIL={
 1914:[
 "Europa estaba dividida en dos bloques: la Triple Entente (Francia, Rusia y Reino Unido) y la Triple Alianza (Alemania, Austria-Hungría e Italia). Años de carrera armamentista, rivalidades coloniales, conflictos en los Balcanes y un fuerte nacionalismo habían creado un ambiente explosivo.",
@@ -332,7 +332,7 @@ egipto:{n:"Egipto británico",cont:"África",l:2,c:["Egypt"],t:T3(
   "Es protectorado británico desde diciembre de 1914; el Canal de Suez es clave y los británicos lo defienden de un ataque otomano (1915).",
   "Egipto es la base de las fuerzas británicas que combaten a los otomanos; miles de egipcios trabajan para el ejército.",
   "Tras el armisticio crece el nacionalismo y en 1919 estalla la revolución egipcia.")},
-aob:{n:"África oriental británica",cont:"África",l:1,c:["Kenya","Uganda"],t:T3(
+aob:{n:"África oriental británica",cont:"África",l:1,c:["Kenya","Uganda"]x:"aob",t:T3(
   "Colonias británicas de Kenia y Uganda: sirven de base para combatir a los alemanes en África oriental alemana.",
   "Cientos de miles de africanos sirven como cargadores; las enfermedades y el hambre causan muchas muertes.",
   "La campaña continúa hasta el final: el general alemán von Lettow-Vorbeck se rinde después del armisticio.")},
