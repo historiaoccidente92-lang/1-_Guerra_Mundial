@@ -413,6 +413,67 @@ Camerun: {
 "4. Gobierno de Estados Unidos, Office of the Historian. (1919). The disposition of German colonies. Foreign Relations of the United States, Paris Peace Conference. <a href='https://history.state.gov/historicaldocuments/frus1919Parisv13/ch10subch1' target='_blank' rel='noopener'>https://history.state.gov/historicaldocuments/frus1919Parisv13/ch10subch1</a>",
 "5. Neill, D. (2026). Working through a war: The traders of John Holt & Co. in Cameroon during the First World War. The Journal of Imperial and Commonwealth History, 54(1), 150–177. <a href='https://doi.org/10.1080/03086534.2025.2593548' target='_blank' rel='noopener'>https://doi.org/10.1080/03086534.2025.2593548</a>"
 ]},
+Etiopía: {
+   1914: [
+"Cuando comenzó la Primera Guerra Mundial en agosto de 1914, el gobierno etíope intentó mantener una posición neutral. Su objetivo era evitar involucrarse directamente en un conflicto que podía poner en peligro su independencia y provocar enfrentamientos con los países vecinos.",
+"En ese momento, Lij Iyasu tenía el control político del país, aunque debía enfrentar la oposición de importantes sectores de la nobleza. La muerte de Menelik II, en 1913, había dejado una situación política complicada, debido a las disputas por el poder y a las diferencias entre los grupos que rodeaban al gobernante.",
+"La guerra también despertó el interés de algunos dirigentes etíopes en aprovechar la situación internacional para recuperar territorios que estaban bajo dominio italiano. Una posibilidad que se llegó a considerar era atacar Eritrea si Italia entraba en guerra contra Etiopía. Sin embargo, esta idea no se convirtió en una intervención militar.",
+"Desde agosto de 1914, los representantes británicos y franceses presionaron al gobierno etíope para que limitara las comunicaciones de los ciudadanos de las Potencias Centrales que vivían en el país. Entre las medidas que querían imponer estaban las restricciones al uso del correo, el telégrafo y el ferrocarril que conectaba Addis Abeba con Yibuti.",
+"A pesar de estas presiones, Etiopía intentó mantener relaciones diplomáticas con ambos grupos de países y evitar una ruptura con Alemania y sus aliados. "
+],
+   1915: [
+"Durante 1915, la situación internacional comenzó a influir todavía más en la política etíope. En abril de ese año, Italia entró en la guerra del lado de los Aliados, lo que aumentó las tensiones alrededor de Etiopía.",
+"Alemania y el Imperio otomano intentaron acercarse al gobierno de Lij Iyasu. Su interés era conseguir apoyo etíope para debilitar las posiciones británicas en el noreste de África, especialmente en Sudán y Somalia.",
+"Las Potencias Centrales consideraban que Etiopía podía ayudarlas mediante el suministro de armas y el apoyo a movimientos contrarios al dominio colonial europeo. También ofrecieron la posibilidad de que Etiopía consiguiera una salida al mar si colaboraba militarmente y las Potencias Centrales ganaban la guerra.",
+"Estas propuestas resultaban atractivas para algunos sectores etíopes porque existía interés en recuperar territorios controlados por Italia. Sin embargo, el gobierno no declaró la guerra ni se incorporó oficialmente a las Potencias Centrales.",
+"Al mismo tiempo, los representantes británicos y franceses observaban con preocupación las relaciones entre Lij Iyasu y los representantes otomanos. Temían que Etiopía terminara apoyando a Alemania y Turquía, lo que podía afectar sus intereses coloniales en África. "
+],
+ 1916: [
+"El año 1916 fue el más importante para Etiopía durante la Primera Guerra Mundial, debido a los conflictos políticos relacionados con la posición internacional del país.",
+"Lij Iyasu mantuvo contactos con representantes otomanos y con dirigentes musulmanes de la región. En junio de 1916, el cónsul otomano Ahmed Mazhar Bey distribuyó propaganda en Addis Abeba para promover la cooperación entre los musulmanes y el gobierno etíope.",
+"Estas relaciones preocuparon a los británicos y franceses. También aumentaron las tensiones con sectores de la nobleza etíope y de la Iglesia ortodoxa, que se oponían a las decisiones del gobernante.",
+"Uno de los argumentos utilizados contra Lij Iyasu fue la acusación de que se había convertido al islam. Sin embargo, los estudios históricos señalan que no existen pruebas suficientes para confirmar que hubiera abandonado formalmente el cristianismo. La acusación también fue utilizada como instrumento político para justificar su destitución.",
+"El 26 de septiembre de 1916 se produjo el golpe de Estado organizado por sectores de la nobleza, con el apoyo de los intereses aliados. Lij Iyasu fue apartado del poder y posteriormente quedó bajo custodia.",
+"Después de su derrocamiento, fue proclamada emperatriz Zewditu, hija de Menelik II. Tafari Makonnen, primo de Lij Iyasu, fue nombrado heredero al trono y regente.",
+"Este cambio político fue importante porque permitió que los sectores favorables a mantener buenas relaciones con los Aliados aumentaran su influencia. Sin embargo, Etiopía continuó siendo neutral y no entró oficialmente en la guerra. "
+],
+   1917: [
+"El 11 de febrero de 1917, Zewditu fue coronada oficialmente emperatriz de Etiopía. Tafari Makonnen asumió el cargo de regente y heredero al trono. A partir de ese momento comenzó un periodo de gobierno compartido, caracterizado por las diferencias políticas entre ambos sectores.",
+"Zewditu representaba una posición más conservadora y tradicional, mientras que Tafari defendía una mayor apertura hacia las relaciones internacionales y ciertas reformas para modernizar el país.",
+"En relación con la guerra, Etiopía mantuvo su neutralidad. El gobierno incluso prohibió el reclutamiento de ciudadanos etíopes para incorporarse a los ejércitos aliados durante 1917.",
+"En junio de ese año, el gobierno de Tafari ofreció a los representantes aliados romper todas las relaciones con las Potencias Centrales a cambio de recibir 16.000 fusiles modernos. La propuesta buscaba mejorar las relaciones con los Aliados y obtener armamento para fortalecer al Estado etíope.",
+"Sin embargo, la propuesta fue rechazada. Italia y otros países aliados consideraban que era más conveniente mantener a Etiopía como un país neutral y amistoso que incorporarla a la guerra y tener que atender sus posibles reclamaciones territoriales después del conflicto.",
+"También se produjo un incidente diplomático en mayo de 1917, cuando un pequeño grupo alemán intentó atravesar el mar Rojo para llevar mensajes al ejército otomano. Los integrantes del grupo fueron detenidos en Yibuti, y Francia acusó al gobierno etíope de no respetar completamente su neutralidad. "
+],
+   1918: [
+"Durante 1918, Etiopía continuó manteniendo su neutralidad y no participó directamente en los combates de la Primera Guerra Mundial.",
+"En el interior del país continuaron las diferencias políticas entre la emperatriz Zewditu y el regente Tafari Makonnen. Ambos representaban sectores distintos de la nobleza y tenían diferentes ideas sobre el futuro político del Estado.",
+"En el ámbito internacional, el gobierno etíope observó el desarrollo de los últimos acontecimientos militares. Cuando los Aliados consiguieron la victoria a finales de 1918, Etiopía envió felicitaciones por el resultado de la guerra.",
+"A pesar de ello, el gobierno no rompió inmediatamente sus relaciones con Alemania. La representación diplomática alemana permaneció abierta en Addis Abeba, lo que demuestra que Etiopía intentaba conservar cierta independencia en sus relaciones exteriores.",
+"El final de la guerra abrió una nueva etapa diplomática para el país. Etiopía buscó que las potencias europeas reconocieran plenamente su soberanía y su posición como Estado independiente. Sin embargo, este reconocimiento todavía encontró obstáculos en los años posteriores. ",
+"Encyclopedia 1914-1918 Online+1",
+"3. Consecuencias de la Primera Guerra Mundial",
+"La Primera Guerra Mundial tuvo consecuencias importantes para Etiopía, especialmente en su política interna y sus relaciones internacionales.",
+"Mantenimiento de la independencia: a diferencia de muchos territorios africanos, Etiopía no fue convertida en colonia durante la guerra y conservó su soberanía.",
+"Cambio de gobierno: el derrocamiento de Lij Iyasu en 1916 permitió que Zewditu asumiera el trono y que Tafari Makonnen aumentara su influencia política.",
+"Influencia de las potencias extranjeras: Gran Bretaña, Francia e Italia intervinieron diplomáticamente en los asuntos internos de Etiopía porque buscaban impedir que el país apoyara a Alemania y al Imperio otomano.",
+"Continuidad de la neutralidad: Etiopía no participó oficialmente como combatiente, aunque recibió presiones y propuestas de ambos grupos enfrentados.",
+"Dificultades diplomáticas: después de la guerra, el país tuvo que seguir defendiendo su independencia y buscando reconocimiento internacional. Finalmente, fue admitido en la Sociedad de Naciones en 1923.",
+"Cambios políticos internos: el gobierno compartido entre Zewditu y Tafari abrió una etapa de disputas entre los sectores conservadores y los partidarios de la modernización del Estado.",
+"En general, la guerra no provocó la pérdida de independencia de Etiopía, pero sí influyó en sus decisiones políticas y aumentó la presión de las potencias europeas sobre su gobierno. ",
+"Encyclopedia 1914-1918 Online+2",
+"4. Conclusión",
+"La participación de Etiopía en la Primera Guerra Mundial fue diferente a la de otros territorios africanos, porque el país era independiente y no estaba bajo dominio colonial europeo.",
+"Aunque recibió presiones de Alemania, el Imperio otomano y los países aliados, el gobierno etíope intentó mantener una posición neutral. Sin embargo, la guerra influyó directamente en sus conflictos internos y contribuyó al derrocamiento de Lij Iyasu en 1916.",
+"La llegada de Zewditu al trono y el nombramiento de Tafari Makonnen como regente marcaron una nueva etapa política. Finalmente, Etiopía consiguió mantenerse fuera del conflicto militar y conservar su independencia. Por eso, su experiencia durante la Primera Guerra Mundial demuestra que la guerra también afectó a los países africanos que no participaron directamente en los combates.",
+"5. Fuentes bibliográficas (formato APA 7.ª edición)",
+"1. Kaplan, S. (2015). The exaltation of Holy Cross and the deposition of the Emperor of Ethiopia: Lïj Iyasu and a Mäsqäl Drama. State, Religion and Church in Russia and Worldwide, 33(2), 182–197. https://cris.huji.ac.il/en/publications/the-exaltation-of-holy-cross-and-the-deposition-of-the-emperor-of-2/",
+"2. Omer, A. H. (2013). The coup d'état of September 26, 1916: Different perspectives. Journal of Ethiopian Studies, 46, 99–120. https://www.jstor.org/stable/44326316",
+"3. Pankhurst, R. (s. f.). Empress Zawditu, and the Tafari Makonnen Regency. Together We Learn Ethiopia. https://twlethiopia.org/article/5-empress-zawditu-and-the-tafari-makonnen-regency/",
+"4. Zollmann, J. (2019). Ethiopia, international law and the First World War: Considerations of neutrality and foreign policy by the European powers, 1840–1919. En S. Bekele, U. C. Dirar, A. Volterra et al. (Eds.), The First World War from Tripoli to Addis Ababa (1911–1924) (pp. 115–152). Centre français des études éthiopiennes.",
+"5. Zollmann, J. (2020). Ethiopia. En U. Daniel, P. Gatrell, O. Janz, H. Jones, J. Keene, A. Kramer y B. Nasson (Eds.), 1914–1918-online: International Encyclopedia of the First World War. Freie Universität Berlin. https://doi.org/10.15463/ie1418.11479",
+"6. Záhořík, J. (2013). Iyasu V of Ethiopia (1913–1916): Perilous traitor or a true modernizer? Akta Fakulty filozofické Západočeské univerzity v Plzni, (2), 124–136. http://hdl.handle.net/11025/11847"
+]},
 "United Kingdom":X([
 "El Reino Unido entró el 4 de agosto al violarse la neutralidad de Bélgica, que había garantizado. Envió la Fuerza Expedicionaria Británica a Francia, que combatió en Mons y el Marne y sufrió grandes bajas en la primera batalla de Ypres. Su imperio aportó soldados y recursos desde India, Canadá, Australia y otros territorios, y Kitchener empezó a reclutar voluntarios.",
 "Churchill impulsó la campaña de Galípoli para abrir los Dardanelos; fracasó y fue evacuada entre diciembre de 1915 y enero de 1916. Por primera vez el país sufrió bombardeos de zepelines y el hundimiento del Lusitania despertó indignación. La falta de municiones (la «crisis de los obuses») provocó un gobierno de coalición.",
@@ -597,10 +658,12 @@ namibia:{n:"Namibia alemana",cont:"África",l:1,c:["Namibia"],t:T3(
   "Colonia alemana atacada por fuerzas de Sudáfrica, que toman sus puertos y la hacen rendirse en julio de 1915.",
   "Sudáfrica administra el territorio ocupado.",
   "Tras la guerra, Sudáfrica recibe un mandato sobre la antigua colonia alemana.")},
-etiopia:{n:"Etiopía",cont:"África",l:1,c:["Ethiopia"],t:T3(
-  "Imperio independiente. El heredero Iyasu simpatiza con los otomanos y las Potencias Centrales; es depuesto en septiembre de 1916 y gobierna Zauditu con Ras Tafari (el futuro Haile Selassie) como regente.",
-  "Se mantiene neutral, rodeada de colonias británicas, francesas e italianas.",
-  "Termina la guerra sin participar y sin perder territorio; ingresará en la Sociedad de Naciones en 1923.")},
+etiopia:{n:"Etiopía",cont:"África",l:1,c:["Ethiopia"],x:"Etiopía",t:[
+  " Inicio de la guerra y neutralidad etíope",
+  "Crecimiento de las tensiones internacionales",
+   "Derrocamiento de Lij Iyasu y cambio político",
+   "Coronación de Zewditu y continuidad de la neutralidad",
+  " Final de la guerra y posición internacional de Etiopía."]},
 /* ---- América ---- */
 canada:{n:"Canadá británico",cont:"América",l:2,c:["Canada"],t:T3(
   "Entra en guerra con el Imperio británico. Envía una primera fuerza de unos 30.000 hombres en 1914 y sufre graves bajas en Ypres (1915).",
