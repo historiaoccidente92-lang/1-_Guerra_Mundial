@@ -363,7 +363,7 @@ Camerun: {
 "En el aspecto económico, la ocupación modificó las actividades comerciales. Las empresas alemanas perdieron sus propiedades y fueron sustituidas progresivamente por intereses comerciales británicos y franceses. Algunas redes comerciales anteriores continuaron funcionando, pero bajo nuevas autoridades coloniales.",
 "La población africana también tuvo que adaptarse a una nueva administración. Los cambios de autoridad afectaron al comercio, los impuestos, las actividades agrícolas y las relaciones laborales.",
 "Por lo tanto, 1916 fue el año decisivo para Camerún: terminó la resistencia militar alemana y comenzó una nueva etapa de control colonial británico y francés. (National Army Museum, s. f.; Elango, 2015; Naciones Unidas, 1946)."
-];
+],
    1917: [
 "Durante 1917, Camerún ya no se encontraba bajo control alemán. La campaña militar había terminado en febrero de 1916 y el territorio estaba administrado por las fuerzas británicas y francesas.",
 "La situación política estuvo marcada por la consolidación de la ocupación aliada. Francia controlaba la mayor parte del antiguo territorio alemán, mientras que Gran Bretaña administraba una región occidental que se encontraba junto a su colonia de Nigeria.",
