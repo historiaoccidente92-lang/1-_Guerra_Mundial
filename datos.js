@@ -351,7 +351,7 @@ egipto:{n:"Egipto británico",cont:"África",l:2,c:["Egypt"],t:T3(
   "Es protectorado británico desde diciembre de 1914; el Canal de Suez es clave y los británicos lo defienden de un ataque otomano (1915).",
   "Egipto es la base de las fuerzas británicas que combaten a los otomanos; miles de egipcios trabajan para el ejército.",
   "Tras el armisticio crece el nacionalismo y en 1919 estalla la revolución egipcia.")},
-aob:{n:"África oriental británica",cont:"África",l:1,c:["Kenya","Uganda"],x:"aob",t:(
+aob:{n:"África oriental británica",cont:"África",l:1,c:["Kenya","Uganda"],x:"aob",t:[
   "Inicio de la Primera Guerra Mundial",
   "Organización militar y reclutamiento obligatorio",
   "Intensificación de las operaciones militares",
