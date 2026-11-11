@@ -356,7 +356,7 @@ aob:{n:"África oriental británica",cont:"África",l:1,c:["Kenya","Uganda"],x:"
   "Organización militar y reclutamiento obligatorio",
   "Intensificación de las operaciones militares",
   "Un año decisivo para la campaña en África oriental",
-  "Final de la guerra")},
+  "Final de la guerra"]},
 tanzania:{n:"Tanzania alemana",cont:"África",l:2,c:["Tanzania","Rwanda","Burundi"],t:T3(
   "Es la mayor colonia alemana de África. Von Lettow-Vorbeck vence a los británicos en Tanga (1914) y libra una guerra de guerrillas con tropas africanas (askaris).",
   "Los Aliados avanzan; Lettow-Vorbeck se retira hacia el sur y entra en el Mozambique portugués.",
