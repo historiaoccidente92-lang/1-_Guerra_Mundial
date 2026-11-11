@@ -66,3 +66,8 @@ button[aria-pressed=true]{background:var(--hi);border-color:var(--hi)}
 
 /* Leyenda */
 .legend{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 12px;color:var(--text)}
+
+/* Enlaces dentro de las ventanas */
+.mbody a{color:#8ec1e6;text-decoration:underline;overflow-wrap:anywhere;word-break:break-word}
+.mbody a:hover{color:#bcdcf2}
+.mbody a:focus-visible{outline:2px solid var(--mid);outline-offset:2px}
