@@ -226,10 +226,10 @@ const EXTRA={
 "Entre 1914 y 1918, el territorio fortaleció su importancia estratégica para Gran Bretaña, pero también aumentó el control colonial sobre sus habitantes. En conclusión, la Primera Guerra Mundial fue un acontecimiento que transformó la sociedad y la economía de la África Oriental Británica, aunque no modificó directamente su condición de territorio colonial.",
 "5. Fuentes bibliográficas",
 "Las siguientes referencias corresponden a investigaciones académicas y publicaciones institucionales utilizadas para elaborar esta investigación. Se presentan en formato APA 7.ª edición.",
-"1. Anderson, R. (2001). World War I in East Africa 1916–1918 [Tesis doctoral, University of Glasgow]. Enlighten Theses. https://theses.gla.ac.uk/5195/",
-"2. Gobierno británico. (2014, 25 de julio). When two bulls clash: The grass suffers: World War 1 in East Africa. GOV.UK. https://www.gov.uk/government/news/when-two-bulls-clash-the-grass-suffers-world-war-1-in-east-africa",
-"3. Hodges, G. W. T. (1978). African manpower statistics for the British forces in East Africa, 1914–1918. The Journal of African History, 19(1), 101–116. https://www.jstor.org/stable/180615",
-"4. National Army Museum. (s. f.). East Africa campaign. https://www.nam.ac.uk/explore/east-africa-campaign"
+"1. Anderson, R. (2001). World War I in East Africa 1916–1918 [Tesis doctoral, University of Glasgow]. Enlighten Theses.<a href='https://theses.gla.ac.uk/5195/' target='_blank' rel='noopener'>https://theses.gla.ac.uk/5195/</a>",,
+"2. Gobierno británico. (2014, 25 de julio). When two bulls clash: The grass suffers: World War 1 in East Africa. GOV.UK. <a href='https://www.gov.uk/government/news/when-two-bulls-clash-the-grass-suffers-world-war-1-in-east-africa' target='_blank' rel='noopener'>https://www.gov.uk/government/news/when-two-bulls-clash-the-grass-suffers-world-war-1-in-east-africa</a>",
+"3. Hodges, G. W. T. (1978). African manpower statistics for the British forces in East Africa, 1914–1918. The Journal of African History, 19(1), 101–116. <a href='https://www.jstor.org/stable/180615' target='_blank' rel='noopener'>https://www.jstor.org/stable/180615</a>",",
+"4. National Army Museum. (s. f.). East Africa campaign.<a href='https://www.nam.ac.uk/explore/east-africa-campaign' target='_blank' rel='noopener'>https://www.nam.ac.uk/explore/east-africa-campaign</a>""
 ]},
 "United Kingdom":X([
 "El Reino Unido entró el 4 de agosto al violarse la neutralidad de Bélgica, que había garantizado. Envió la Fuerza Expedicionaria Británica a Francia, que combatió en Mons y el Marne y sufrió grandes bajas en la primera batalla de Ypres. Su imperio aportó soldados y recursos desde India, Canadá, Australia y otros territorios, y Kitchener empezó a reclutar voluntarios.",
