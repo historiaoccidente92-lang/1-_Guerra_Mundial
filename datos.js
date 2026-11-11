@@ -320,7 +320,7 @@ const EXTRA={
 "2. Deutsches Historisches Museum. (2017, 11 de marzo). Der Krieg in Deutsch-Ostafrika 1914–1918. LeMO. <a href='https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/krieg-in-deutsch-ostafrika-1914-1918' target='_blank' rel='noopener'>https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/krieg-in-deutsch-ostafrika-1914-1918</a>",
 "3. Maddox, G. H. (1990). Mtunya: Famine in Central Tanzania, 1917–20. The Journal of African History, 31(2), 181–197. <a href='https://doi.org/10.1017/S0021853700024993' target='_blank' rel='noopener'>https://doi.org/10.1017/S0021853700024993</a>",
 "4. Moyse-Bartlett, H. (1956). The King's African Rifles: A study in the military history of East and Central Africa, 1890–1945. Gale & Polden."
-]}
+]},
 "United Kingdom":X([
 "El Reino Unido entró el 4 de agosto al violarse la neutralidad de Bélgica, que había garantizado. Envió la Fuerza Expedicionaria Británica a Francia, que combatió en Mons y el Marne y sufrió grandes bajas en la primera batalla de Ypres. Su imperio aportó soldados y recursos desde India, Canadá, Australia y otros territorios, y Kitchener empezó a reclutar voluntarios.",
 "Churchill impulsó la campaña de Galípoli para abrir los Dardanelos; fracasó y fue evacuada entre diciembre de 1915 y enero de 1916. Por primera vez el país sufrió bombardeos de zepelines y el hundimiento del Lusitania despertó indignación. La falta de municiones (la «crisis de los obuses») provocó un gobierno de coalición.",
