@@ -729,7 +729,7 @@ etiopia:{n:"Etiopía",cont:"África",l:1,c:["Ethiopia"],x:"Etiopía",t:[
    "Coronación de Zewditu y continuidad de la neutralidad",
   " Final de la guerra y posición internacional de Etiopía."]},
 /* ---- América ---- */
-canada:{n:"Canadá británico",cont:"América",l:2,c:["Canada"],x"canada",t:[
+canada:{n:"Canadá británico",cont:"América",l:2,c:["Canada"],x:"canada",t:[
   "Neutralidad frente al conflicto europeo",
   "Hundimiento del Lusitania y aumento de las tensiones",
   "Preparación militar y continuidad de la neutralidad",
