@@ -467,13 +467,77 @@ Etiopía: {
 "Aunque recibió presiones de Alemania, el Imperio otomano y los países aliados, el gobierno etíope intentó mantener una posición neutral. Sin embargo, la guerra influyó directamente en sus conflictos internos y contribuyó al derrocamiento de Lij Iyasu en 1916.",
 "La llegada de Zewditu al trono y el nombramiento de Tafari Makonnen como regente marcaron una nueva etapa política. Finalmente, Etiopía consiguió mantenerse fuera del conflicto militar y conservar su independencia. Por eso, su experiencia durante la Primera Guerra Mundial demuestra que la guerra también afectó a los países africanos que no participaron directamente en los combates.",
 "5. Fuentes bibliográficas (formato APA 7.ª edición)",
-"1. Kaplan, S. (2015). The exaltation of Holy Cross and the deposition of the Emperor of Ethiopia: Lïj Iyasu and a Mäsqäl Drama. State, Religion and Church in Russia and Worldwide, 33(2), 182–197. https://cris.huji.ac.il/en/publications/the-exaltation-of-holy-cross-and-the-deposition-of-the-emperor-of-2/",
-"2. Omer, A. H. (2013). The coup d'état of September 26, 1916: Different perspectives. Journal of Ethiopian Studies, 46, 99–120. https://www.jstor.org/stable/44326316",
-"3. Pankhurst, R. (s. f.). Empress Zawditu, and the Tafari Makonnen Regency. Together We Learn Ethiopia. https://twlethiopia.org/article/5-empress-zawditu-and-the-tafari-makonnen-regency/",
+"1. Kaplan, S. (2015). The exaltation of Holy Cross and the deposition of the Emperor of Ethiopia: Lïj Iyasu and a Mäsqäl Drama. State, Religion and Church in Russia and Worldwide, 33(2), 182–197. <a href='https://cris.huji.ac.il/en/publications/the-exaltation-of-holy-cross-and-the-deposition-of-the-emperor-of-2/' target='_blank' rel='noopener'>https://cris.huji.ac.il/en/publications/the-exaltation-of-holy-cross-and-the-deposition-of-the-emperor-of-2/</a>",
+"2. Omer, A. H. (2013). The coup d'état of September 26, 1916: Different perspectives. Journal of Ethiopian Studies, 46, 99–120. <a href='https://www.jstor.org/stable/44326316' target='_blank' rel='noopener'>https://www.jstor.org/stable/44326316</a>",
+"3. Pankhurst, R. (s. f.). Empress Zawditu, and the Tafari Makonnen Regency. Together We Learn Ethiopia. <a href='https://twlethiopia.org/article/5-empress-zawditu-and-the-tafari-makonnen-regency/' target='_blank' rel='noopener'>https://twlethiopia.org/article/5-empress-zawditu-and-the-tafari-makonnen-regency/</a>",
 "4. Zollmann, J. (2019). Ethiopia, international law and the First World War: Considerations of neutrality and foreign policy by the European powers, 1840–1919. En S. Bekele, U. C. Dirar, A. Volterra et al. (Eds.), The First World War from Tripoli to Addis Ababa (1911–1924) (pp. 115–152). Centre français des études éthiopiennes.",
-"5. Zollmann, J. (2020). Ethiopia. En U. Daniel, P. Gatrell, O. Janz, H. Jones, J. Keene, A. Kramer y B. Nasson (Eds.), 1914–1918-online: International Encyclopedia of the First World War. Freie Universität Berlin. https://doi.org/10.15463/ie1418.11479",
-"6. Záhořík, J. (2013). Iyasu V of Ethiopia (1913–1916): Perilous traitor or a true modernizer? Akta Fakulty filozofické Západočeské univerzity v Plzni, (2), 124–136. http://hdl.handle.net/11025/11847"
+"5. Zollmann, J. (2020). Ethiopia. En U. Daniel, P. Gatrell, O. Janz, H. Jones, J. Keene, A. Kramer y B. Nasson (Eds.), 1914–1918-online: International Encyclopedia of the First World War. Freie Universität Berlin. <a href='https://doi.org/10.15463/ie1418.11479' target='_blank' rel='noopener'>https://doi.org/10.15463/ie1418.11479</a>",
+"6. Záhořík, J. (2013). Iyasu V of Ethiopia (1913–1916): Perilous traitor or a true modernizer? Akta Fakulty filozofické Západočeské univerzity v Plzni, (2), 124–136. <a href='http://hdl.handle.net/11025/11847' target='_blank' rel='noopener'>http://hdl.handle.net/11025/11847</a>"
 ]},
+  canada: {
+     1914: [
+"El 4 de agosto de 1914, cuando Gran Bretaña declaró la guerra a Alemania, Canadá quedó involucrado en el conflicto debido a su condición de dominio del Imperio británico. Aunque el gobierno canadiense tenía autonomía para decidir cómo contribuir, no podía mantenerse neutral frente a la declaración británica.",
+"El primer ministro Robert Borden anunció el apoyo de Canadá a Gran Bretaña y organizó el reclutamiento de voluntarios. Miles de hombres se presentaron para formar parte de la Fuerza Expedicionaria Canadiense. La mayoría eran ciudadanos de origen británico o tenían vínculos familiares y culturales con Gran Bretaña, aunque también participaron personas de otros orígenes.",
+"En agosto de ese año se aprobó la Ley de Medidas de Guerra (War Measures Act), que otorgó al gobierno poderes extraordinarios para controlar la seguridad interna. Entre otras medidas, permitió aplicar censura, detener a personas consideradas peligrosas y controlar determinados bienes.",
+"En octubre de 1914, el primer contingente canadiense llegó a Gran Bretaña para recibir entrenamiento antes de trasladarse al frente occidental. Sin embargo, durante ese año las tropas canadienses todavía no participaron en grandes batallas.",
+"La entrada en la guerra también provocó cambios económicos. El gobierno comenzó a organizar la producción industrial para abastecer a los Aliados, mientras que las empresas canadienses recibieron pedidos de alimentos, municiones, armas y otros materiales necesarios para el conflicto."
+],
+    1915: [
+"En 1915, las tropas canadienses participaron por primera vez en una gran batalla en el frente occidental. Su intervención más importante ocurrió durante la Segunda Batalla de Ypres, en Bélgica, iniciada el 22 de abril.",
+"Durante esta batalla, las fuerzas alemanas utilizaron gas cloro contra las posiciones aliadas. El ataque provocó confusión y obligó a retroceder a algunas unidades francesas. Los soldados canadienses tuvieron que defender sus posiciones en condiciones muy difíciles y contribuyeron a impedir que los alemanes consiguieran una ruptura decisiva del frente.",
+"Aunque sufrieron numerosas bajas, su resistencia aumentó su reputación militar entre los Aliados. La experiencia también mostró la importancia de mejorar la preparación de las tropas frente a nuevas armas químicas.",
+"En septiembre de 1915 se creó el Cuerpo Canadiense, una organización que reunió a las principales unidades de combate y apoyo de Canadá. Al principio estaba formado por dos divisiones y posteriormente aumentó su tamaño.",
+"Mientras tanto, en Canadá continuó el reclutamiento voluntario. Miles de hombres se incorporaron al ejército, aunque las numerosas bajas y la duración de la guerra empezaron a generar preocupación sobre la disponibilidad de nuevos soldados."
+],
+     1916: [
+"Durante 1916, las tropas canadienses participaron en la batalla del Somme, una de las ofensivas más sangrientas de la Primera Guerra Mundial. La campaña comenzó el 1 de julio y se prolongó hasta noviembre.",
+"Los canadienses participaron especialmente durante la segunda mitad de la ofensiva. En septiembre combatieron en Courcelette, donde lograron avanzar y ocupar posiciones alemanas. En estas operaciones se utilizaron nuevas tácticas y armamento, incluidos los primeros tanques británicos en el frente occidental.",
+"La batalla tuvo un costo humano muy elevado. Las trincheras, la artillería, las ametralladoras y las dificultades del terreno provocaron numerosas muertes y heridos. Los soldados canadienses experimentaron las consecuencias de una guerra de desgaste, en la que conseguir pequeños avances podía costar miles de vidas.",
+"Por otra parte, el 1 de julio de 1916, el Regimiento de Terranova sufrió pérdidas devastadoras durante el ataque en Beaumont-Hamel. Es importante aclarar que Terranova era entonces un dominio británico separado de Canadá, aunque su participación suele estudiarse junto con la experiencia canadiense de la guerra.",
+"En el frente interno, el número de voluntarios comenzó a disminuir mientras aumentaban las bajas. Esto hizo que el gobierno de Robert Borden empezara a considerar el reclutamiento obligatorio como una forma de mantener el envío de soldados a Europa. "
+],
+     1917: [
+"El año 1917 fue especialmente importante para Canadá, tanto por sus éxitos militares como por los conflictos políticos internos.",
+"El 9 de abril comenzó la batalla de Vimy Ridge, en Francia. Las cuatro divisiones canadienses participaron juntas por primera vez en una operación militar. Después de una preparación detallada, que incluyó bombardeos de artillería, reconocimiento y entrenamiento, lograron capturar una posición alemana fuertemente defendida.",
+"La victoria de Vimy Ridge se convirtió en uno de los acontecimientos más importantes de la historia militar canadiense. Demostró la capacidad de sus tropas para actuar como una fuerza organizada y fortaleció el sentimiento de identidad nacional.",
+"En junio de 1917, el general canadiense Arthur Currie asumió el mando del Cuerpo Canadiense, reemplazando a los comandantes británicos que habían dirigido anteriormente la formación. Esto reflejó el creciente reconocimiento de la capacidad militar canadiense.
+"Entre el 15 y el 25 de agosto, los soldados canadienses participaron en la batalla de Hill 70, donde capturaron una posición estratégica cerca de Lens. Posteriormente, entre octubre y noviembre, combatieron en Passchendaele, Bélgica. El terreno estaba lleno de barro debido a las lluvias y los bombardeos, lo que dificultó el movimiento de los soldados y el transporte de suministros. A pesar de las pérdidas, consiguieron tomar la localidad.",
+"Al mismo tiempo, Canadá enfrentó una grave división política por el reclutamiento obligatorio. Debido a la disminución de voluntarios y a las elevadas bajas, el gobierno de Borden aprobó la Ley del Servicio Militar de 1917, que estableció el servicio militar obligatorio para determinados hombres.",
+"La medida provocó fuertes protestas, especialmente entre los francocanadienses de Quebec, muchos de los cuales no consideraban que debían ser obligados a combatir en una guerra europea. También hubo oposición de agricultores y otros grupos que necesitaban trabajadores.",
+"En las elecciones federales de diciembre de 1917, el tema del reclutamiento fue uno de los principales motivos de división. Ese mismo mes, algunas mujeres canadienses pudieron votar por primera vez en unas elecciones federales, especialmente aquellas que tenían familiares en el servicio militar y cumplían los requisitos establecidos por la legislación. "
+],
+   1918: [
+"Durante 1918, Canadá desempeñó un papel destacado en las ofensivas finales de los Aliados. Después de que Alemania lanzara una serie de ataques en primavera, las fuerzas aliadas consiguieron detener su avance y comenzaron una contraofensiva.",
+"El 8 de agosto de 1918 comenzó la batalla de Amiens, considerada el inicio de la Ofensiva de los Cien Días. El Cuerpo Canadiense participó como una de las principales fuerzas de ataque. Mediante un avance coordinado con artillería, tanques y aviación, los soldados lograron romper las defensas alemanas y avanzar rápidamente.",
+"Durante los meses siguientes, las tropas canadienses participaron en diferentes operaciones:",
+"•	Agosto: combatieron en Amiens y avanzaron hacia las posiciones alemanas.",
+"•	Agosto y septiembre: participaron en las batallas de Arras y en la ruptura de la línea Drocourt-Quéant.",
+"•	Septiembre y octubre: combatieron en el Canal del Norte y contribuyeron al avance aliado hacia Cambrai.",
+"•	Octubre: participaron en la captura de Cambrai, una importante posición alemana.",
+"•	Noviembre: avanzaron hacia Mons, en Bélgica, que fue capturada el 11 de noviembre, el mismo día en que entró en vigor el armisticio.",
+"Estas operaciones permitieron que los Aliados recuperaran territorios y obligaran a las fuerzas alemanas a retroceder. Sin embargo, la victoria tuvo un costo humano elevado: durante la Ofensiva de los Cien Días, el Cuerpo Canadiense sufrió más de 45.000 bajas entre muertos y heridos.",
+"El 11 de noviembre de 1918 terminó oficialmente la guerra mediante el armisticio. Para Canadá, este acontecimiento significó el final de cuatro años de participación militar, aunque todavía quedaban importantes consecuencias económicas, sociales y políticas que enfrentar. ",
+"Veterans Affairs Canada+2",
+"3. Consecuencias de la Primera Guerra Mundial",
+"La Primera Guerra Mundial produjo transformaciones importantes en Canadá:",
+"•	Pérdidas humanas: aproximadamente 650.000 canadienses y habitantes de Terranova prestaron servicio durante la guerra. Más de 66.000 murieron y alrededor de 170.000 resultaron heridos. Estas cifras reflejan el enorme costo humano del conflicto.",
+"•	Mayor autonomía política: la participación militar permitió que Canadá ganara reconocimiento internacional. Su presencia en las negociaciones de paz y su firma separada del Tratado de Versalles en 1919 fueron pasos importantes en el desarrollo de su autonomía.",
+"•	Crecimiento industrial: la producción de municiones, armas, alimentos y otros materiales aumentó para responder a las necesidades militares. Esto impulsó determinados sectores industriales, aunque también provocó inflación y dificultades económicas para muchas familias.",
+"•	Cambios en el papel de las mujeres: miles de mujeres trabajaron en fábricas, oficinas, hospitales y actividades agrícolas para reemplazar a los hombres enviados al frente. Además, el derecho al voto federal se amplió a la mayoría de las mujeres en 1918, aunque algunas ya habían podido votar en 1917.",
+"•	División política y social: el reclutamiento obligatorio provocó enfrentamientos entre sectores francocanadienses y anglocanadienses. La crisis de 1917 y los disturbios de Quebec en 1918 dejaron profundas divisiones.",
+"•	Consecuencias para los pueblos indígenas: algunos hombres indígenas participaron en el ejército canadiense, aunque enfrentaron discriminación y desigualdades. Su servicio no significó que desaparecieran las restricciones y dificultades que afectaban a sus comunidades.",
+"•	Mayor identidad nacional: las victorias militares, especialmente Vimy Ridge y la Ofensiva de los Cien Días, fortalecieron el sentimiento de identidad canadiense y la percepción de que el país podía actuar con mayor independencia de Gran Bretaña. ",
+"Veterans Affairs Canada+3",
+"4. Conclusión",
+"La participación de Canadá en la Primera Guerra Mundial fue fundamental para el desarrollo de su historia militar y política. Aunque entró en el conflicto debido a su relación con el Imperio británico, sus fuerzas armadas adquirieron una identidad propia y consiguieron importantes victorias en Europa.",
+"Batallas como Ypres, el Somme, Vimy Ridge y Passchendaele demostraron la capacidad de los soldados canadienses. Además, durante la Ofensiva de los Cien Días, sus tropas tuvieron un papel destacado en la derrota de las fuerzas alemanas.",
+"Sin embargo, la guerra también provocó numerosas pérdidas humanas, dificultades económicas y conflictos internos, especialmente por el reclutamiento obligatorio. Finalmente, la participación canadiense contribuyó a fortalecer su identidad nacional y a conseguir un mayor reconocimiento internacional, convirtiéndose en un paso importante hacia una mayor independencia política.",
+"5. Fuentes bibliográficas (formato APA 7.ª edición)",
+"1. Canadian War Museum. (s. f.). The Canadian Expeditionary Force. Canada and the First World War. <a href='https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/military-structure/the-canadian-expeditionary-force/' target='_blank' rel='noopener'>https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/military-structure/the-canadian-expeditionary-force/</a>",
+"2. Canadian War Museum. (s. f.). Conscription, 1917. Canada and the First World War. <a href='https://www.warmuseum.ca/firstworldwar/history/life-at-home-during-the-war/recruitment-and-conscription/conscription-1917/' target='_blank' rel='noopener'>https://www.warmuseum.ca/firstworldwar/history/life-at-home-during-the-war/recruitment-and-conscription/conscription-1917/</a>",
+"3. Canada’s History. (2018). The Great War: Hundred Days Campaign. <a href='https://www.canadashistory.ca/explore/military-war/the-great-war-hundred-days-campaign' target='_blank' rel='noopener'>https://www.canadashistory.ca/explore/military-war/the-great-war-hundred-days-campaign</a>",
+"4. Department of National Defence. (s. f.). Official history of the Canadian Army in the First World War: Canadian Expeditionary Force, 1914–1919. Government of Canada. <a href='https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/official-histories/book-1964-expeditionary.html' target='_blank' rel='noopener'>https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/official-histories/book-1964-expeditionary.html</a>"
+]},   
 "United Kingdom":X([
 "El Reino Unido entró el 4 de agosto al violarse la neutralidad de Bélgica, que había garantizado. Envió la Fuerza Expedicionaria Británica a Francia, que combatió en Mons y el Marne y sufrió grandes bajas en la primera batalla de Ypres. Su imperio aportó soldados y recursos desde India, Canadá, Australia y otros territorios, y Kitchener empezó a reclutar voluntarios.",
 "Churchill impulsó la campaña de Galípoli para abrir los Dardanelos; fracasó y fue evacuada entre diciembre de 1915 y enero de 1916. Por primera vez el país sufrió bombardeos de zepelines y el hundimiento del Lusitania despertó indignación. La falta de municiones (la «crisis de los obuses») provocó un gobierno de coalición.",
@@ -665,10 +729,12 @@ etiopia:{n:"Etiopía",cont:"África",l:1,c:["Ethiopia"],x:"Etiopía",t:[
    "Coronación de Zewditu y continuidad de la neutralidad",
   " Final de la guerra y posición internacional de Etiopía."]},
 /* ---- América ---- */
-canada:{n:"Canadá británico",cont:"América",l:2,c:["Canada"],t:T3(
-  "Entra en guerra con el Imperio británico. Envía una primera fuerza de unos 30.000 hombres en 1914 y sufre graves bajas en Ypres (1915).",
-  "El Cuerpo Canadiense toma la cresta de Vimy (abril); la crisis del servicio militar obligatorio divide al país.",
-  "Participa en los Cien Días con victorias como Amiens; más de 60.000 canadienses murieron en la guerra.")},
+canada:{n:"Canadá británico",cont:"América",l:2,c:["Canada"],x"canada",t:[
+  "Neutralidad frente al conflicto europeo",
+  "Hundimiento del Lusitania y aumento de las tensiones",
+  "Preparación militar y continuidad de la neutralidad",
+  "Entrada de Estados Unidos en la guerra",
+  "Grandes ofensivas y victoria de los Aliados"]},
 eeuu:{n:"Estados Unidos",cont:"América",l:2,c:["United States of America"],t:DATA["United States of America"].t,x:"United States of America"},
 mexico:{n:"México",cont:"América",l:1,c:["Mexico"],t:tl("Mexico")},
 peru:{n:"Perú",cont:"América",l:1,c:["Peru"],t:tl("Peru")},
