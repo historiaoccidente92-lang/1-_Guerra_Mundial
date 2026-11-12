@@ -573,7 +573,7 @@ Etiopía: {
    1918: [
 "Durante 1918, Estados Unidos aumentó considerablemente el envío de soldados, armas, alimentos y suministros hacia Europa. Su participación fue especialmente importante porque permitió reforzar a los Aliados en un momento en que Alemania había iniciado grandes ofensivas en el frente occidental.",
 "En marzo de 1918, Alemania lanzó una ofensiva contra las posiciones británicas y francesas. El objetivo era conseguir una victoria antes de que llegaran más tropas estadounidenses. Sin embargo, los Aliados lograron resistir y posteriormente organizaron contraataques.",
-"Entre las principales operaciones en las que participaron las tropas estadounidenses destacan:",",
+"Entre las principales operaciones en las que participaron las tropas estadounidenses destacan:",
 "•	Batalla de Cantigny (28 de mayo): fue una de las primeras operaciones ofensivas importantes realizadas por soldados estadounidenses. Las tropas consiguieron capturar la localidad de Cantigny, en Francia.",",
 "•	Batalla de Château-Thierry (junio): los estadounidenses participaron en la defensa de las posiciones aliadas y ayudaron a detener el avance alemán hacia París",",
 "•	Batalla de Saint-Mihiel (12–16 de septiembre): fue una de las primeras grandes ofensivas organizadas principalmente por el ejército estadounidense. Las fuerzas de Pershing consiguieron recuperar una zona que estaba bajo control alemán.",",
