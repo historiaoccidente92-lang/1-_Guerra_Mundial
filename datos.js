@@ -552,6 +552,7 @@ Etiopía: {
 "Wilson protestó diplomáticamente y exigió que Alemania respetara los derechos de los países neutrales y protegiera la vida de los pasajeros civiles. Como resultado de las protestas estadounidenses, Alemania anunció ciertas restricciones a sus ataques submarinos contra barcos de pasajeros.",
 "En agosto de ese mismo año, otro ataque submarino contra el barco Arabic provocó nuevas tensiones. Posteriormente, Alemania ofreció garantías de que no atacaría determinados barcos de pasajeros sin advertencia previa.",
 "A pesar de estos compromisos, Estados Unidos continuó preocupado por la guerra submarina. Sin embargo, Wilson todavía intentó evitar una intervención militar directa y resolver el conflicto mediante la diplomacia. "
+],
    1916: [
 "Durante 1916, Estados Unidos continuó oficialmente neutral, aunque comenzó a prepararse para una posible participación militar. El gobierno aumentó el presupuesto destinado a la defensa y promovió el fortalecimiento de sus fuerzas armadas.",
 "Uno de los principales motivos de preocupación fue el desarrollo de la guerra submarina alemana. Estados Unidos consideraba que los ataques contra barcos comerciales y de pasajeros podían poner en peligro su seguridad y sus relaciones económicas.",
