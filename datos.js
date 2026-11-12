@@ -413,7 +413,7 @@ Camerun: {
 "4. Gobierno de Estados Unidos, Office of the Historian. (1919). The disposition of German colonies. Foreign Relations of the United States, Paris Peace Conference. <a href='https://history.state.gov/historicaldocuments/frus1919Parisv13/ch10subch1' target='_blank' rel='noopener'>https://history.state.gov/historicaldocuments/frus1919Parisv13/ch10subch1</a>",
 "5. Neill, D. (2026). Working through a war: The traders of John Holt & Co. in Cameroon during the First World War. The Journal of Imperial and Commonwealth History, 54(1), 150–177. <a href='https://doi.org/10.1080/03086534.2025.2593548' target='_blank' rel='noopener'>https://doi.org/10.1080/03086534.2025.2593548</a>"
 ]},
-Etiopía: {
+Etiopia: {
    1914: [
 "Cuando comenzó la Primera Guerra Mundial en agosto de 1914, el gobierno etíope intentó mantener una posición neutral. Su objetivo era evitar involucrarse directamente en un conflicto que podía poner en peligro su independencia y provocar enfrentamientos con los países vecinos.",
 "En ese momento, Lij Iyasu tenía el control político del país, aunque debía enfrentar la oposición de importantes sectores de la nobleza. La muerte de Menelik II, en 1913, había dejado una situación política complicada, debido a las disputas por el poder y a las diferencias entre los grupos que rodeaban al gobernante.",
@@ -621,6 +621,7 @@ Etiopía: {
 "En marzo, protestas por pan y la deserción de soldados provocaron la abdicación del zar y un Gobierno Provisional que continuó la guerra. La ofensiva Kérenski (julio) fracasó. Lenin y los bolcheviques, con el lema «paz, pan y tierra», tomaron el poder en octubre y pidieron un armisticio.",
 "El gobierno bolchevique firmó la paz de Brest-Litovsk (3 de marzo) y cedió grandes territorios, como Polonia, los países bálticos y Ucrania. Rusia quedó sumida en una guerra civil entre rojos y blancos, con intervención extranjera."]),
 "Austria":AHX,"Hungary":AHX,"Turkey":OTX,
+};
 const YEAR_DETAIL={
 1914:[
 "Europa estaba dividida en dos bloques: la Triple Entente (Francia, Rusia y Reino Unido) y la Triple Alianza (Alemania, Austria-Hungría e Italia). Años de carrera armamentista, rivalidades coloniales, conflictos en los Balcanes y un fuerte nacionalismo habían creado un ambiente explosivo.",
@@ -773,7 +774,7 @@ namibia:{n:"Namibia alemana",cont:"África",l:1,c:["Namibia"],t:T3(
   "Colonia alemana atacada por fuerzas de Sudáfrica, que toman sus puertos y la hacen rendirse en julio de 1915.",
   "Sudáfrica administra el territorio ocupado.",
   "Tras la guerra, Sudáfrica recibe un mandato sobre la antigua colonia alemana.")},
-etiopia:{n:"Etiopía",cont:"África",l:1,c:["Ethiopia"],x:"Etiopía",t:[
+etiopia:{n:"Etiopía",cont:"África",l:1,c:["Ethiopia"],x:"Etiopia",t:[
   " Inicio de la guerra y neutralidad etíope",
   "Crecimiento de las tensiones internacionales",
    "Derrocamiento de Lij Iyasu y cambio político",
