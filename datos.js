@@ -537,7 +537,70 @@ Etiopía: {
 "2. Canadian War Museum. (s. f.). Conscription, 1917. Canada and the First World War. <a href='https://www.warmuseum.ca/firstworldwar/history/life-at-home-during-the-war/recruitment-and-conscription/conscription-1917/' target='_blank' rel='noopener'>https://www.warmuseum.ca/firstworldwar/history/life-at-home-during-the-war/recruitment-and-conscription/conscription-1917/</a>",
 "3. Canada’s History. (2018). The Great War: Hundred Days Campaign. <a href='https://www.canadashistory.ca/explore/military-war/the-great-war-hundred-days-campaign' target='_blank' rel='noopener'>https://www.canadashistory.ca/explore/military-war/the-great-war-hundred-days-campaign</a>",
 "4. Department of National Defence. (s. f.). Official history of the Canadian Army in the First World War: Canadian Expeditionary Force, 1914–1919. Government of Canada. <a href='https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/official-histories/book-1964-expeditionary.html' target='_blank' rel='noopener'>https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/official-histories/book-1964-expeditionary.html</a>"
-]},   
+]},  
+   eeuu: {
+   1914: [
+"Cuando estalló la guerra en Europa, en agosto de 1914, el presidente Woodrow Wilson anunció que Estados Unidos mantendría una posición neutral. Su gobierno pidió a la población que evitara apoyar públicamente a cualquiera de los bandos para no provocar conflictos internos ni involucrar al país en la guerra.",
+"Esta decisión respondía a diferentes factores. Una parte importante de la población estadounidense tenía raíces familiares alemanas, británicas o de otros países europeos, por lo que existían opiniones distintas sobre el conflicto. Además, Estados Unidos tenía intereses comerciales con ambos grupos enfrentados.",
+"A pesar de su neutralidad política y militar, el comercio estadounidense comenzó a relacionarse cada vez más con la guerra. Las empresas vendían alimentos, materias primas, armas y otros productos a los países europeos, especialmente a los Aliados.",
+"Gran Bretaña estableció un bloqueo naval contra las Potencias Centrales, lo que dificultó el comercio estadounidense con Alemania y sus aliados. Al mismo tiempo, Alemania utilizó submarinos para atacar barcos que consideraba relacionados con el abastecimiento de sus enemigos.",
+"Por lo tanto, aunque Estados Unidos no participó directamente en los combates durante 1914, la guerra comenzó a afectar sus relaciones económicas y diplomáticas."
+],
+   1915: [
+"Durante 1915, la neutralidad estadounidense comenzó a debilitarse debido a los ataques de los submarinos alemanes. Alemania buscaba impedir que los barcos comerciales abastecieran a Gran Bretaña y sus aliados, por lo que intensificó sus operaciones en el océano Atlántico.",
+"El acontecimiento más importante ocurrió el 7 de mayo de 1915, cuando un submarino alemán hundió el transatlántico británico Lusitania. En el ataque murieron cerca de 1.200 personas, entre ellas 128 ciudadanos estadounidenses. El hecho provocó indignación en Estados Unidos y aumentó la presión sobre el gobierno para que respondiera ante Alemania.",
+"Wilson protestó diplomáticamente y exigió que Alemania respetara los derechos de los países neutrales y protegiera la vida de los pasajeros civiles. Como resultado de las protestas estadounidenses, Alemania anunció ciertas restricciones a sus ataques submarinos contra barcos de pasajeros.",
+"En agosto de ese mismo año, otro ataque submarino contra el barco Arabic provocó nuevas tensiones. Posteriormente, Alemania ofreció garantías de que no atacaría determinados barcos de pasajeros sin advertencia previa.",
+"A pesar de estos compromisos, Estados Unidos continuó preocupado por la guerra submarina. Sin embargo, Wilson todavía intentó evitar una intervención militar directa y resolver el conflicto mediante la diplomacia. "
+   1916: [
+"Durante 1916, Estados Unidos continuó oficialmente neutral, aunque comenzó a prepararse para una posible participación militar. El gobierno aumentó el presupuesto destinado a la defensa y promovió el fortalecimiento de sus fuerzas armadas.",
+"Uno de los principales motivos de preocupación fue el desarrollo de la guerra submarina alemana. Estados Unidos consideraba que los ataques contra barcos comerciales y de pasajeros podían poner en peligro su seguridad y sus relaciones económicas.",
+"En mayo de 1916, después del hundimiento del barco Sussex, Alemania anunció nuevas garantías para limitar los ataques submarinos contra barcos de países neutrales y de pasajeros. Este compromiso fue conocido como la promesa de Sussex.",
+"En el ámbito político, Woodrow Wilson consiguió la reelección presidencial en noviembre de 1916. Su campaña utilizó la idea de que había conseguido mantener al país fuera de la guerra, aunque la situación internacional hacía cada vez más difícil conservar esa posición.",
+"Al mismo tiempo, la industria estadounidense continuó creciendo gracias a la demanda europea de alimentos, materias primas y productos industriales. Por ello, la economía del país comenzó a beneficiarse del abastecimiento de los Aliados, aunque todavía no participaba oficialmente en el conflicto. "
+],
+   1917: [
+"El año 1917 marcó un cambio decisivo en la política exterior estadounidense. El 31 de enero, Alemania anunció que reanudaría la guerra submarina sin restricciones a partir del 1 de febrero. Esto significaba que sus submarinos podrían atacar barcos comerciales y neutrales que se dirigieran a los puertos enemigos, sin las garantías anteriores.",
+"La decisión provocó una fuerte reacción del gobierno de Wilson, que consideró que Alemania estaba poniendo en peligro los derechos de los países neutrales. Como consecuencia, Estados Unidos rompió sus relaciones diplomáticas con Alemania el 3 de febrero.",
+"Otro acontecimiento importante fue el Telegrama Zimmermann, un mensaje secreto enviado por el ministro alemán de Asuntos Exteriores, Arthur Zimmermann, al gobierno mexicano. En él, Alemania proponía una alianza militar con México en caso de que Estados Unidos entrara en la guerra. A cambio, Alemania prometía apoyar las reclamaciones mexicanas sobre territorios que había perdido frente a Estados Unidos, como Texas, Nuevo México y Arizona.",
+"Cuando el contenido del telegrama fue publicado en marzo de 1917, provocó una gran indignación en la opinión pública estadounidense. Aunque México no aceptó la propuesta, el mensaje aumentó la desconfianza hacia Alemania.",
+"El 2 de abril de 1917, Wilson solicitó al Congreso una declaración de guerra. Finalmente, el 6 de abril de 1917, Estados Unidos declaró oficialmente la guerra a Alemania y se incorporó al bando de los Aliados.",
+"Después de la declaración, el gobierno organizó una movilización militar a gran escala. En mayo se aprobó la Ley del Servicio Selectivo (Selective Service Act), que estableció el reclutamiento obligatorio de hombres para las fuerzas armadas. Millones de ciudadanos se registraron para el servicio militar.",
+"En junio comenzaron a llegar a Francia los primeros contingentes de la Fuerza Expedicionaria Estadounidense, dirigida por el general John J. Pershing. Sin embargo, la mayoría de las tropas necesitó entrenamiento antes de participar en operaciones importantes.",
+"En diciembre de 1917, Estados Unidos también declaró la guerra a Austria-Hungría, aliada de Alemania. "
+],
+   1918: [
+"Durante 1918, Estados Unidos aumentó considerablemente el envío de soldados, armas, alimentos y suministros hacia Europa. Su participación fue especialmente importante porque permitió reforzar a los Aliados en un momento en que Alemania había iniciado grandes ofensivas en el frente occidental.",
+"En marzo de 1918, Alemania lanzó una ofensiva contra las posiciones británicas y francesas. El objetivo era conseguir una victoria antes de que llegaran más tropas estadounidenses. Sin embargo, los Aliados lograron resistir y posteriormente organizaron contraataques.",
+"Entre las principales operaciones en las que participaron las tropas estadounidenses destacan:",",
+"•	Batalla de Cantigny (28 de mayo): fue una de las primeras operaciones ofensivas importantes realizadas por soldados estadounidenses. Las tropas consiguieron capturar la localidad de Cantigny, en Francia.",",
+"•	Batalla de Château-Thierry (junio): los estadounidenses participaron en la defensa de las posiciones aliadas y ayudaron a detener el avance alemán hacia París",",
+"•	Batalla de Saint-Mihiel (12–16 de septiembre): fue una de las primeras grandes ofensivas organizadas principalmente por el ejército estadounidense. Las fuerzas de Pershing consiguieron recuperar una zona que estaba bajo control alemán.",",
+"•	Ofensiva de Meuse-Argonne (26 de septiembre–11 de noviembre): fue la operación militar estadounidense más importante de la guerra. Participaron cientos de miles de soldados en una ofensiva destinada a romper las defensas alemanas y avanzar hacia importantes líneas de comunicación enemigas.",",
+"La campaña de Meuse-Argonne fue especialmente difícil debido a las trincheras, las ametralladoras, la artillería y las condiciones del terreno. Las tropas estadounidenses sufrieron numerosas bajas, pero consiguieron avanzar y contribuir al debilitamiento del ejército alemán.",
+"El 11 de noviembre de 1918 entró en vigor el armisticio que puso fin a los combates. La participación estadounidense había sido fundamental para reforzar a los Aliados durante las operaciones finales y aumentar la presión militar sobre Alemania. ",
+"Army History+2",
+"3. Consecuencias de la Primera Guerra Mundial",
+"La Primera Guerra Mundial produjo importantes transformaciones en Estados Unidos:",
+"•	Pérdidas humanas: aproximadamente 4,7 millones de estadounidenses prestaron servicio en las fuerzas armadas. Más de 116.000 murieron durante el periodo de guerra, aunque no todos fallecieron en combate, ya que también hubo numerosas muertes por enfermedades, especialmente por la pandemia de gripe de 1918.",
+"•	Crecimiento económico: la producción industrial aumentó considerablemente debido a la fabricación de armas, municiones, barcos y otros materiales. Estados Unidos también fortaleció su posición como uno de los principales acreedores internacionales.",
+"•	Mayor influencia internacional: su participación militar y económica fortaleció su posición entre las principales potencias mundiales. El presidente Wilson tuvo un papel destacado en las negociaciones de paz y presentó sus Catorce Puntos como propuesta para organizar el nuevo orden internacional.",
+"•	Cambios sociales: las mujeres ocuparon puestos de trabajo en fábricas y otras actividades económicas que anteriormente estaban desempeñadas principalmente por hombres. En 1920 se aprobó la Decimonovena Enmienda, que reconoció el derecho al voto de las mujeres en todo el país.",
+"•	Discriminación racial: miles de afroamericanos participaron en las fuerzas armadas, pero continuaron enfrentando segregación y discriminación. Algunos combatieron en unidades separadas y otros trabajaron en tareas de apoyo.",
+"•	Restricciones políticas y sociales: durante la guerra se aprobaron leyes como la Ley de Espionaje de 1917 y la Ley de Sedición de 1918, que permitieron perseguir determinadas actividades consideradas contrarias al esfuerzo bélico. Estas medidas limitaron la libertad de expresión y provocaron conflictos internos.",
+"•	Debate sobre el orden internacional: Wilson defendió la creación de la Sociedad de Naciones para evitar nuevas guerras. Sin embargo, el Senado estadounidense rechazó el Tratado de Versalles en 1919 y Estados Unidos nunca ingresó en dicha organización.",
+"En general, la guerra fortaleció económica y militarmente a Estados Unidos, pero también dejó problemas sociales, discriminación y debates sobre su participación en los asuntos internacionales. ",
+"Library of Congress+4",
+"4. Conclusión",
+"La participación de Estados Unidos en la Primera Guerra Mundial fue decisiva para el desarrollo de la etapa final del conflicto. Aunque inicialmente mantuvo una posición neutral, los ataques submarinos alemanes, el hundimiento del Lusitania y el Telegrama Zimmermann aumentaron las tensiones hasta provocar su entrada en la guerra en abril de 1917.",
+"Durante 1918, sus tropas participaron en importantes operaciones militares, especialmente en Saint-Mihiel y Meuse-Argonne, contribuyendo a la derrota de Alemania.",
+"La guerra también transformó la economía y la sociedad estadounidense. El país aumentó su producción industrial, fortaleció sus fuerzas armadas y consiguió mayor influencia internacional. Sin embargo, también sufrió numerosas pérdidas humanas, conflictos sociales y dificultades políticas. En conclusión, la Primera Guerra Mundial marcó el comienzo de una etapa en la que Estados Unidos se convirtió en una de las principales potencias del mundo.",
+"5. Fuentes bibliográficas (formato APA 7.ª edición)",
+"1. American Battle Monuments Commission. (s. f.). World War I. <a href='https://www.abmc.gov/education/wwi' target='_blank' rel='noopener'>https://www.abmc.gov/education/wwi</a>",
+"2. Library of Congress. (s. f.). U.S. participation in the Great War (World War I). <a href='https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/progressive-era-to-new-era-1900-1929/united-states-participation-in-world-war-i/' target='_blank' rel='noopener'>https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/progressive-era-to-new-era-1900-1929/united-states-participation-in-world-war-i/</a>",
+"3. National Archives. (1917). Joint address to Congress leading to a declaration of war against Germany. <a href='https://www.archives.gov/milestone-documents/address-to-congress-declaration-of-war-against-germany' target='_blank' rel='noopener'>https://www.archives.gov/milestone-documents/address-to-congress-declaration-of-war-against-germany</a>",
+"4. National Archives. (2017). National Archives special display commemorates 100th anniversary of the U.S. entry into World War I. <a href='https://www.archives.gov/press/press-releases/2017/nr17-44' target='_blank' rel='noopener'>https://www.archives.gov/press/press-releases/2017/nr17-44</a>"
+]},
 "United Kingdom":X([
 "El Reino Unido entró el 4 de agosto al violarse la neutralidad de Bélgica, que había garantizado. Envió la Fuerza Expedicionaria Británica a Francia, que combatió en Mons y el Marne y sufrió grandes bajas en la primera batalla de Ypres. Su imperio aportó soldados y recursos desde India, Canadá, Australia y otros territorios, y Kitchener empezó a reclutar voluntarios.",
 "Churchill impulsó la campaña de Galípoli para abrir los Dardanelos; fracasó y fue evacuada entre diciembre de 1915 y enero de 1916. Por primera vez el país sufrió bombardeos de zepelines y el hundimiento del Lusitania despertó indignación. La falta de municiones (la «crisis de los obuses») provocó un gobierno de coalición.",
@@ -557,19 +620,6 @@ Etiopía: {
 "En marzo, protestas por pan y la deserción de soldados provocaron la abdicación del zar y un Gobierno Provisional que continuó la guerra. La ofensiva Kérenski (julio) fracasó. Lenin y los bolcheviques, con el lema «paz, pan y tierra», tomaron el poder en octubre y pidieron un armisticio.",
 "El gobierno bolchevique firmó la paz de Brest-Litovsk (3 de marzo) y cedió grandes territorios, como Polonia, los países bálticos y Ucrania. Rusia quedó sumida en una guerra civil entre rojos y blancos, con intervención extranjera."]),
 "Austria":AHX,"Hungary":AHX,"Turkey":OTX,
-"United States of America":X([
-"El presidente Wilson proclamó la neutralidad y pidió a los estadounidenses ser «imparciales de pensamiento y acción». El país tenía muchos inmigrantes de ambos bandos y su economía empezó a beneficiarse comerciando con los Aliados.",
-"El hundimiento del Lusitania por un submarino alemán (7 de mayo) mató a 128 estadounidenses entre más de mil víctimas. Wilson protestó con firmeza y Alemania moderó temporalmente su guerra submarina, pero creció el debate sobre la «preparación» militar.",
-"Wilson ganó la reelección con el lema «Nos mantuvo fuera de la guerra». Se aprobó la Ley de Defensa Nacional, que amplió el ejército y la armada, y los bancos estadounidenses prestaron grandes sumas a los Aliados.",
-"Alemania reanudó la guerra submarina sin restricciones y se conoció el telegrama Zimmermann, en que proponía a México una alianza. El 6 de abril el Congreso declaró la guerra. Se aprobó el servicio militar obligatorio y en junio llegaron a Francia los primeros soldados, al mando del general Pershing.",
-"Wilson presentó los Catorce Puntos en enero. Más de dos millones de soldados llegaron a Europa y combatieron en Cantigny, Belleau Wood y la ofensiva Meuse-Argonne. Murieron cerca de 116.000 estadounidenses, muchos de ellos por enfermedad, sobre todo la gripe de 1918."]),
-"Italy":X([
-"Pese a pertenecer a la Triple Alianza, Italia se declaró neutral alegando que la alianza era defensiva y que Austria-Hungría no la había consultado. En el país se enfrentaron los neutralistas y los intervencionistas, que querían recuperar territorios «irredentos» como Trento y Trieste.",
-"Con el secreto Tratado de Londres (abril), los Aliados le prometieron territorios como el Trentino, el Tirol del Sur, Trieste y parte de Dalmacia. Italia declaró la guerra a Austria-Hungría el 23 de mayo. El frente se centró en el Isonzo y los Alpes, con una guerra de montaña durísima.",
-"El ejército italiano tomó Gorizia en agosto y libró repetidas batallas del Isonzo con enormes bajas. En mayo, Austria-Hungría lanzó una ofensiva de castigo en el Trentino que no logró romper el frente.",
-"El 24 de octubre una ofensiva austro-alemana rompió el frente en Caporetto; los italianos retrocedieron más de cien kilómetros hasta el río Piave y perdieron cientos de miles de prisioneros. Cadorna fue reemplazado por Diaz y el país se unió ante la amenaza de invasión.",
-"Italia resistió en el Piave en junio y a fines de octubre lanzó la batalla de Vittorio Veneto, que desintegró al ejército austrohúngaro. El armisticio se firmó el 3 de noviembre. Pese a la victoria hubo descontento por no recibir todos los territorios prometidos, lo que se llamó la «victoria mutilada»."])
-};
 const YEAR_DETAIL={
 1914:[
 "Europa estaba dividida en dos bloques: la Triple Entente (Francia, Rusia y Reino Unido) y la Triple Alianza (Alemania, Austria-Hungría e Italia). Años de carrera armamentista, rivalidades coloniales, conflictos en los Balcanes y un fuerte nacionalismo habían creado un ambiente explosivo.",
@@ -735,7 +785,12 @@ canada:{n:"Canadá británico",cont:"América",l:2,c:["Canada"],x:"canada",t:[
   "Preparación militar y continuidad de la neutralidad",
   "Entrada de Estados Unidos en la guerra",
   "Grandes ofensivas y victoria de los Aliados"]},
-eeuu:{n:"Estados Unidos",cont:"América",l:2,c:["United States of America"],t:DATA["United States of America"].t,x:"United States of America"},
+eeuu:{n:"Estados Unidos",cont:"América",l:2,c:["United States of America"],x:"eeuu",t:[
+   "Neutralidad frente al conflicto europeo",
+   "Hundimiento del Lusitania y aumento de las tensiones",
+   "Preparación militar y continuidad de la neutralidad",
+   "Entrada de Estados Unidos en la guerra",
+   "Grandes ofensivas y victoria de los Aliados"]},
 mexico:{n:"México",cont:"América",l:1,c:["Mexico"],t:tl("Mexico")},
 peru:{n:"Perú",cont:"América",l:1,c:["Peru"],t:tl("Peru")},
 brasil:{n:"Brasil",cont:"América",l:1,c:["Brazil"],t:tl("Brazil")},
