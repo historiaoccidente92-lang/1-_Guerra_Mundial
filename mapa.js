@@ -3,20 +3,30 @@
 
 const COL={3:"#c0392b",2:"#d89b2b",1:"#4f8a5b"};
 const LBL={3:"Muy influyente",2:"Influencia media",1:"Poco influyente"};
-let year=1914,byInfluence=false,selected=null,hover=null,svg=null,g=null,is2D=false;
+let year=1914,byInfluence=false,byBando=false,selected=null,hover=null,svg=null,g=null,is2D=false;
 const $=id=>document.getElementById(id);
 const entOf=f=>C2E[f.properties.name]||null;     // entidad histórica de un país actual
-const baseCol=id=>byInfluence?COL[ENT[id].l]:"#3b5a6b";   // un solo color para todos los países de la lista
+const BCOL={A:"#2f6fb5",C:"#c4572a",N:"#8a8f94"};      // colores de los bandos
+const bandoDe=(id,y)=>((BANDO[id]||"NNNNN")[(y||year)-1914])||"N";
+const baseCol=id=>byBando?BCOL[bandoDe(id)]:byInfluence?COL[ENT[id].l]:"#3b5a6b";   // un solo color para todos los países de la lista
 
 /* selector de años */
 YEARS.forEach(y=>{const o=document.createElement("option");o.value=y;o.textContent=y;$("year").appendChild(o)});
 $("year").onchange=e=>{year=+e.target.value;refresh()};
 function renderLegend(){
   const L=$("legend");
-  L.innerHTML=[3,2,1].map(l=>`<span><i style="background:${COL[l]}"></i>${LBL[l]}</span>`).join("");
-  L.classList.toggle("on",byInfluence);
+  const items=byBando?["A","C","N"].map(k=>[BCOL[k],BANDO_NOM[k]]):[3,2,1].map(l=>[COL[l],LBL[l]]);
+  L.innerHTML=items.map(([col,t])=>`<span><i style="background:${col}"></i>${t}</span>`).join("")+(byBando?`<span style="margin-top:6px">Año: ${year}</span>`:"");
+  L.classList.toggle("on",byInfluence||byBando);
 }
-$("infl").onclick=e=>{byInfluence=!byInfluence;e.target.setAttribute("aria-pressed",byInfluence);renderLegend();paint()};
+function setMode(m){
+  byInfluence=m==="infl"?!byInfluence:false;
+  byBando=m==="bando"?!byBando:false;
+  $("infl").setAttribute("aria-pressed",byInfluence);$("bando").setAttribute("aria-pressed",byBando);
+  renderLegend();paint();
+}
+$("bando").onclick=()=>setMode("bando");
+$("infl").onclick=()=>setMode("infl");
 
 function renderEvents(){const ev=EVENTS[year];$("evTitle").textContent=ev.title;$("evSub").textContent=ev.items[0]}
 function vids(ids,txt){return ids.length?ids.map(id=>`<iframe class="vid" src="https://www.youtube-nocookie.com/embed/${id}" title="Video" allowfullscreen loading="lazy"></iframe>`).join(""):`<div class="ph">${txt}</div>`}
@@ -38,9 +48,11 @@ function renderInfo(){if(selected&&!$("modal").hidden)renderModal()}
 function renderModal(){
   const id=selected,d=ENT[id],i=year-1914;
   $("mTitle").textContent=d.n;
-  const tg=$("mTag");tg.textContent=LBL[d.l];tg.style.background=COL[d.l];
+  const tg=$("mTag");tg.textContent=LBL[d.l]+" · "+BANDO_NOM[bandoDe(id)]+" en "+year;tg.style.background=COL[d.l];
   yearTabs($("mYears"));
-  $("mNote").textContent=d.note||"";
+  const bs=BANDO[id]||"NNNNN",pri=[...bs].findIndex(c=>c!=="N");
+  const une=pri>0?"Se unió a "+BANDO_UNE[bs[pri]]+" en "+(1914+pri)+".":"";
+  $("mNote").textContent=[d.note,une].filter(Boolean).join(" ");
   $("mYearH").textContent="Qué ocurrió en "+year;
   $("mText").textContent=d.t[i];
   $("mExtra").innerHTML=((EXTRA[d.x]||{})[year]||[]).map(t=>`<p>${t}</p>`).join("");
@@ -96,7 +108,7 @@ $("view").onclick=()=>{
   if(is2D)world.pauseAnimation();else world.resumeAnimation();
   paint();
 };
-function refresh(){renderEvents();renderInfo();if(!$("ymodal").hidden)renderYear();paint()}
+function refresh(){renderEvents();renderInfo();renderLegend();if(!$("ymodal").hidden)renderYear();paint()}
 
 const world=Globe()(document.getElementById("globe"))
   .backgroundColor("#10161c")
