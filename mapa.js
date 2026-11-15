@@ -7,7 +7,8 @@ let year=1914,byInfluence=false,byBando=false,selected=null,hover=null,svg=null,
 const $=id=>document.getElementById(id);
 const entOf=f=>C2E[f.properties.name]||null;     // entidad histórica de un país actual
 const BCOL={A:"#2f6fb5",C:"#c4572a",N:"#8a8f94"};      // colores de los bandos
-const bandoDe=(id,y)=>((BANDO[id]||"NNNNN")[(y||year)-1914])||"N";
+const TB=typeof BANDO!=="undefined";     // false si falta bando.js
+const bandoDe=(id,y)=>(((TB&&BANDO[id])||"NNNNN")[(y||year)-1914])||"N";
 const baseCol=id=>byBando?BCOL[bandoDe(id)]:byInfluence?COL[ENT[id].l]:"#3b5a6b";   // un solo color para todos los países de la lista
 
 /* selector de años */
@@ -20,12 +21,13 @@ function renderLegend(){
   L.classList.toggle("on",byInfluence||byBando);
 }
 function setMode(m){
+  if(m==="bando"&&!TB){alert("Falta el archivo bando.js en tu repositorio de GitHub (debe estar junto a index.html).");return}
   byInfluence=m==="infl"?!byInfluence:false;
   byBando=m==="bando"?!byBando:false;
-  $("infl").setAttribute("aria-pressed",byInfluence);$("bando").setAttribute("aria-pressed",byBando);
+  $("infl").setAttribute("aria-pressed",byInfluence);if($("bando"))$("bando").setAttribute("aria-pressed",byBando);
   renderLegend();paint();
 }
-$("bando").onclick=()=>setMode("bando");
+if($("bando"))$("bando").onclick=()=>setMode("bando");
 $("infl").onclick=()=>setMode("infl");
 
 function renderEvents(){const ev=EVENTS[year];$("evTitle").textContent=ev.title;$("evSub").textContent=ev.items[0]}
@@ -48,9 +50,9 @@ function renderInfo(){if(selected&&!$("modal").hidden)renderModal()}
 function renderModal(){
   const id=selected,d=ENT[id],i=year-1914;
   $("mTitle").textContent=d.n;
-  const tg=$("mTag");tg.textContent=LBL[d.l]+" · "+BANDO_NOM[bandoDe(id)]+" en "+year;tg.style.background=COL[d.l];
+  const tg=$("mTag");tg.textContent=LBL[d.l]+(TB?" · "+BANDO_NOM[bandoDe(id)]+" en "+year:"");tg.style.background=COL[d.l];
   yearTabs($("mYears"));
-  const bs=BANDO[id]||"NNNNN",pri=[...bs].findIndex(c=>c!=="N");
+  const bs=(TB&&BANDO[id])||"NNNNN",pri=[...bs].findIndex(c=>c!=="N");
   const une=pri>0?"Se unió a "+BANDO_UNE[bs[pri]]+" en "+(1914+pri)+".":"";
   $("mNote").textContent=[d.note,une].filter(Boolean).join(" ");
   $("mYearH").textContent="Qué ocurrió en "+year;
@@ -59,21 +61,21 @@ function renderModal(){
   $("mToYear").textContent="Ver "+year+" en el mundo";
   $("mVideos").innerHTML=vids([...((VIDEOS[id]||{})[year]||[]),...(VIDEOS_YEAR[year]||[])],"Aquí irá el video de "+d.n+" en "+year+". Agrega su ID de YouTube en la sección VIDEOS del código.");
 }
-function openModal(id){selected=id;$("modal").hidden=false;renderModal();paint();$("mClose").focus()}
-function closeModal(){$("modal").hidden=true;selected=null;paint()}
+function openModal(id){selected=id;$("modal").hidden=false;renderModal();if(is2D)paint2D();$("mClose").focus()}
+function closeModal(){$("modal").hidden=true;selected=null;if(is2D)paint2D()}
 $("mClose").onclick=closeModal;
 $("modal").onclick=e=>{if(e.target.id==="modal")closeModal()};
 addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("modal").hidden)closeModal()});
 const colorId=id=>!id?"#26323c":id===selected?"#f4efe0":id===hover?"#9fb3c0":baseCol(id);
-const color3D=f=>colorId(entOf(f));
+const color3D=f=>{const id=entOf(f);return !id?"#26323c":id===selected?"#f4efe0":baseCol(id)};   // el globo no resalta al pasar el mouse (evita lentitud)
 function setHover(id){
-  if(id===hover)return;               // solo repinta si cambió el país bajo el mouse
-  hover=id;document.body.style.cursor=id?"pointer":"default";paint();
+  if(id===hover)return;               // solo actúa si cambió el país bajo el mouse
+  hover=id;document.body.style.cursor=id?"pointer":"default";
+  if(is2D)paint2D();                  // el mapa 2D es ligero; el globo solo muestra la etiqueta
 }
-function paint(){
-  world.polygonCapColor(color3D);
-  if(g)g.selectAll("path.land").attr("fill",d=>colorId(d.id));
-}
+function paint2D(){if(g)g.selectAll("path.land").attr("fill",d=>colorId(d.id))}
+function paint3D(){world.polygonCapColor(color3D)}
+function paint(){if(is2D)paint2D();else paint3D()}
 /* Mapa 2D plano (sin imagen): se dibuja con los mismos países del globo */
 function build2D(features){
   svg=d3.select("#map").append("svg");g=svg.append("g");
@@ -113,7 +115,7 @@ function refresh(){renderEvents();renderInfo();renderLegend();if(!$("ymodal").hi
 const world=Globe()(document.getElementById("globe"))
   .backgroundColor("#10161c")
   .showAtmosphere(true).atmosphereColor("#6f9bb5")
-  .polygonAltitude(0.01).polygonSideColor(()=>"rgba(20,30,40,.5)")
+  .polygonAltitude(0.01).polygonsTransitionDuration(0).polygonSideColor(()=>"rgba(20,30,40,.5)")
   .polygonStrokeColor(()=>"#10161c")
   .polygonLabel(f=>{const id=entOf(f);return id?`<div style="background:#1a232b;color:#e9e4d6;padding:4px 8px;border-radius:5px;font:13px system-ui">${ENT[id].n}</div>`:""})
   .onPolygonHover(f=>setHover(f?entOf(f):null))
