@@ -38,7 +38,6 @@
   <p>Haz clic en cualquier país del globo para ver qué ocurrió allí en el año elegido.</p>
 </aside>
 
-<!-- Ventana del país -->
 <div class="modal" id="modal" hidden role="dialog" aria-modal="true" aria-labelledby="mTitle">
  <div class="mbox">
   <header>
@@ -56,7 +55,6 @@
  </div>
 </div>
 
-<!-- Ventana del año -->
 <div class="modal" id="ymodal" hidden role="dialog" aria-modal="true" aria-labelledby="yTitle">
  <div class="mbox">
   <header>
@@ -74,13 +72,12 @@
  </div>
 </div>
 
-<!-- Ventana de la encuesta -->
 <div class="modal" id="smodal" hidden role="dialog" aria-modal="true" aria-labelledby="sTitle">
  <div class="mbox sm">
   <header><h2 id="sTitle">Encuesta</h2><button id="sClose" aria-label="Cerrar">Cerrar ✕</button></header>
   <div class="mbody">
    <form id="sForm" novalidate>
-    <label>Tu nombre (opcional)<input id="sNombre" maxlength="80" autocomplete="name"></label>
+    <label class="full">Tu nombre (opcional)<input id="sNombre" maxlength="80" autocomplete="name"></label>
     <label>¿Cuál fue el principal problema estructural que contribuyó al estallido de la Primera Guerra Mundial?
       <select id="p1" required><option value="">Elige…</option><option value="A">La expansión del comunismo en Europa</option><option value="B">La rivalidad imperialista y el sistema de alianzas militares</option><option value="C">La crisis económica de Estados Unidos</option><option value="D">La desaparición del Imperio otomano</option><option value="E">La independencia de las colonias africanas</option></select></label>
     <label>¿Qué acontecimiento desencadenó directamente la Primera Guerra Mundial?
@@ -89,15 +86,14 @@
       <select id="p3" required><option value="">Elige…</option><option value="A">Invadir Rusia antes que Francia</option><option value="B">Derrotar rápidamente a Francia atravesando Bélgica y luego concentrarse en Rusia</option><option value="C">Conquistar los territorios británicos en África</option><option value="D">Bloquear los puertos británicos con submarinos</option></select></label>
     <label>¿Qué importancia tuvo la batalla del Marne de 1914?
       <select id="p4" required><option value="">Elige…</option><option value="A">Permitió la rendición de Rusia</option><option value="B">Marcó la derrota definitiva de Alemania</option><option value="C">Detuvo el avance alemán hacia París</option><option value="D">Provocó la entrada de Estados Unidos</option><option value="E">Terminó con la guerra de trincheras</option></select></label>
-    <label>Pregunta general (opcional)<textarea id="sComent" maxlength="500"></textarea></label>
-    <button type="submit" id="sEnviar">Enviar respuestas</button>
-    <p id="sMsg" role="status"></p>
+    <label class="full">Pregunta general (opcional)<textarea id="sComent" maxlength="500"></textarea></label>
+    <button type="submit" id="sEnviar" class="full">Enviar respuestas</button>
+    <p id="sMsg" class="full" role="status"></p>
    </form>
   </div>
  </div>
 </div>
 
-<!-- Librerías externas y tus archivos (el orden importa) -->
 <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/globe.gl@2.27.2/dist/globe.gl.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
