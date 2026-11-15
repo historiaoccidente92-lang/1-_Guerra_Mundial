@@ -18,6 +18,7 @@
   <button id="surveyOpen">Encuesta</button>
   <button id="view">Vista 2D</button>
   <button id="infl" aria-pressed="false">Colorear por influencia</button>
+  <button id="bando" aria-pressed="false">Colorear por bando</button>
 </div>
 
 <div class="legend" id="legend">
@@ -37,6 +38,7 @@
   <p>Haz clic en cualquier país del globo para ver qué ocurrió allí en el año elegido.</p>
 </aside>
 
+<!-- Ventana del país -->
 <div class="modal" id="modal" hidden role="dialog" aria-modal="true" aria-labelledby="mTitle">
  <div class="mbox">
   <header>
@@ -54,6 +56,7 @@
  </div>
 </div>
 
+<!-- Ventana del año -->
 <div class="modal" id="ymodal" hidden role="dialog" aria-modal="true" aria-labelledby="yTitle">
  <div class="mbox">
   <header>
@@ -71,6 +74,7 @@
  </div>
 </div>
 
+<!-- Ventana de la encuesta -->
 <div class="modal" id="smodal" hidden role="dialog" aria-modal="true" aria-labelledby="sTitle">
  <div class="mbox sm">
   <header><h2 id="sTitle">Encuesta</h2><button id="sClose" aria-label="Cerrar">Cerrar ✕</button></header>
@@ -93,10 +97,12 @@
  </div>
 </div>
 
+<!-- Librerías externas y tus archivos (el orden importa) -->
 <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/globe.gl@2.27.2/dist/globe.gl.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
 <script src="datos.js"></script>
+<script src="bando.js"></script>
 <script src="mapa.js"></script>
 <script src="encuesta.js"></script>
 </body>
