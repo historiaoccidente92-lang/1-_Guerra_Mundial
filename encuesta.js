@@ -1,10 +1,9 @@
 /* ENCUESTA: envía las respuestas a una hoja de Google Sheets (vía Google Apps Script).
    Pega aquí la URL de tu aplicación web (termina en /exec). */
-const API_URL = "https://script.google.com/macros/s/AKfycbw-vlmyLD5amxhjpyk6ptFNV8fOlhBvCnAwQFQoY9rPlwJ8p7yYADqEBCFckiwJ6-WV/exec";
+const API_URL = "PEGA_AQUI_LA_URL_DE_APPS_SCRIPT";
 
 (function () {
   const $ = id => document.getElementById(id);
-  const PREGUNTAS = ["p1", "p2", "p3", "p4"];   // ids de los selectores del index.html
 
   const abrir = () => { $("smodal").hidden = false; $("sMsg").textContent = ""; $("sMsg").className = ""; };
   const cerrar = () => { $("smodal").hidden = true; };
@@ -16,9 +15,9 @@ const API_URL = "https://script.google.com/macros/s/AKfycbw-vlmyLD5amxhjpyk6ptFN
   $("sForm").addEventListener("submit", async e => {
     e.preventDefault();
     const msg = $("sMsg"), btn = $("sEnviar");
-    const sel = PREGUNTAS.map($);
+    const sel = [...document.querySelectorAll("#sForm select")];   // todas las preguntas del formulario (cualquier cantidad)
     if (sel.some(s => !s.value)) {
-      msg.className = "err"; msg.textContent = "Responde las " + PREGUNTAS.length + " preguntas."; return;
+      msg.className = "err"; msg.textContent = "Responde las " + sel.length + " preguntas."; return;
     }
     if (!API_URL.startsWith("https://script.google.com/")) {
       msg.className = "err"; msg.textContent = "Falta configurar la URL de Google Sheets en encuesta.js."; return;
