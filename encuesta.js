@@ -1,6 +1,6 @@
 /* ENCUESTA: envía las respuestas a una hoja de Google Sheets (vía Google Apps Script).
    Pega aquí la URL de tu aplicación web (termina en /exec). */
-const API_URL = "https://script.google.com/macros/s/AKfycbzutDBOZeTTvDN2CVS2IQMpWoQsAlZTaUETRi-EGGN9ywMpM_IGr7mmpV-inhskND1c/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbxcBIsI4KJbTM3I37Nd5IHh4caBAKSDvZasSqnbVfL36UVski2hVDDMoOFeV6VIqeKY/exec";
 
 (function () {
   const $ = id => document.getElementById(id);
