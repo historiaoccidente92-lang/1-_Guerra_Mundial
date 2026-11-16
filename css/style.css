@@ -77,3 +77,35 @@ button[aria-pressed=true]{background:var(--hi);border-color:var(--hi)}
 #sForm .full{grid-column:1/-1}
 #sEnviar.full{justify-self:start;padding:11px 24px}
 @media(max-width:800px){#sForm{grid-template-columns:1fr}}
+
+/* Botones de lectura en voz alta */
+.tts{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+.tts button{padding:7px 12px;font-size:.88rem}
+
+/* ===== Pregunta central ===== */
+.bar{--gold:#f2c94c}
+.central{flex-basis:100%;display:flex;align-items:center;gap:12px;text-align:left;padding:10px 16px;border:1px solid rgba(242,201,76,.55);border-left:5px solid var(--gold);border-radius:10px;background:linear-gradient(90deg,rgba(242,201,76,.16),rgba(26,35,43,.92) 55%);cursor:pointer;line-height:1.35}
+.central:hover{border-color:var(--gold);background:linear-gradient(90deg,rgba(242,201,76,.26),rgba(26,35,43,.95) 55%)}
+.central .q{flex:none;display:grid;place-items:center;width:30px;height:30px;border-radius:50%;background:var(--gold);color:#10161c;font:700 1.15rem Georgia,serif;animation:pulso 2.4s ease-out infinite}
+.central .txt{font:400 .95rem Georgia,"Times New Roman",serif;color:var(--text)}
+.central b{color:var(--gold);font-family:system-ui,sans-serif;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;margin-right:4px}
+mark{background:none;color:var(--gold);font-weight:700;box-shadow:inset 0 -.35em rgba(242,201,76,.22)}
+@keyframes pulso{0%{box-shadow:0 0 0 0 rgba(242,201,76,.6)}70%,100%{box-shadow:0 0 0 12px rgba(242,201,76,0)}}
+.legend{top:calc(var(--bar-h,74px) + 8px)}
+
+/* Ventana de inicio */
+.modal.wel{z-index:30;background:radial-gradient(ellipse at 50% 35%,rgba(242,201,76,.14),rgba(5,9,12,.9) 62%)}
+.wbox{--gold:#f2c94c;position:relative;width:min(820px,92vw);padding:clamp(28px,6vw,56px);text-align:center;overflow:hidden;border:1px solid rgba(242,201,76,.5);border-radius:16px;background:var(--panel);box-shadow:0 20px 60px rgba(0,0,0,.55);animation:entra .6s cubic-bezier(.2,.8,.2,1)}
+.wbox .bigq{position:absolute;right:-.05em;top:-.28em;font:700 clamp(12rem,34vw,22rem)/1 Georgia,serif;color:rgba(242,201,76,.07);pointer-events:none}
+.wbox .eyebrow{position:relative;margin:0 0 14px;font:600 .78rem system-ui,sans-serif;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
+.wbox h2{position:relative;font:700 clamp(1.45rem,3.8vw,2.35rem)/1.25 Georgia,"Times New Roman",serif;margin:0 0 18px;color:var(--text)}
+.wbox .wsub{position:relative;margin:0 0 26px;color:var(--muted)}
+.wbox mark{color:var(--gold)}
+#wGo{position:relative;background:var(--gold);border-color:var(--gold);color:#10161c;font-weight:700;font-size:1rem;padding:13px 28px;border-radius:999px}
+#wGo:hover{background:#f7d978}
+@keyframes entra{from{opacity:0;transform:translateY(18px) scale(.97)}to{opacity:1;transform:none}}
+@media(prefers-reduced-motion:reduce){.central .q,.wbox{animation:none}}
+@media(max-width:700px){.central .txt{font-size:.85rem}.central{padding:8px 12px}}
+
+/* En el celular se oculta la tarjeta de ayuda para que no tape la del año (el aviso de error sí se muestra) */
+@media(max-width:760px){#info:not(.err){display:none}}
