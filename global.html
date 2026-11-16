@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>La Primera Guerra Mundial, 1914–1918</title>
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div id="globe" aria-label="Globo terráqueo 3D interactivo"></div>
@@ -19,10 +19,10 @@
   <button id="view">Vista 2D</button>
   <button id="infl" aria-pressed="false">Colorear por influencia</button>
   <button id="bando" aria-pressed="false">Colorear por bando</button>
-  <button id="pregBtn" class="central" type="button" aria-label="Ver la pregunta central de la página">
+  <div id="pregBtn" class="central">
     <span class="q" aria-hidden="true">?</span>
-    <span class="txt"><b>Pregunta central:</b> ¿De qué manera la rivalidad entre imperios y el sistema de alianzas militares convirtió un <mark>conflicto regional</mark> en una <mark>guerra mundial?</span>
-  </button>
+    <span class="txt"><b>Pregunta central:</b> ¿Cómo se convirtió un conflicto en los Balcanes en una <mark>guerra mundial</mark>, y qué papel y consecuencias tuvo para los países y colonias que participaron entre 1914 y 1918?</span>
+  </div>
 </div>
 
 <div class="legend" id="legend">
@@ -41,7 +41,6 @@
   <h2>Selecciona un país</h2>
   <p>Haz clic en cualquier país del globo para ver qué ocurrió allí en el año elegido.</p>
 </aside>
-
 
 <div class="modal" id="modal" hidden role="dialog" aria-modal="true" aria-labelledby="mTitle">
  <div class="mbox">
@@ -106,7 +105,6 @@
   </div>
  </div>
 </div>
-
 <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/globe.gl@2.27.2/dist/globe.gl.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
@@ -115,6 +113,5 @@
 <script src="mapa.js"></script>
 <script src="lectura.js"></script>
 <script src="encuesta.js"></script>
-<script src="inicio.js"></script>
 </body>
 </html>
