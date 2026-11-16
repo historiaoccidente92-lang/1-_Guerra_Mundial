@@ -84,8 +84,7 @@ button[aria-pressed=true]{background:var(--hi);border-color:var(--hi)}
 
 /* ===== Pregunta central ===== */
 .bar{--gold:#f2c94c}
-.central{flex-basis:100%;display:flex;align-items:center;gap:12px;text-align:left;padding:10px 16px;border:1px solid rgba(242,201,76,.55);border-left:5px solid var(--gold);border-radius:10px;background:linear-gradient(90deg,rgba(242,201,76,.16),rgba(26,35,43,.92) 55%);cursor:pointer;line-height:1.35}
-.central:hover{border-color:var(--gold);background:linear-gradient(90deg,rgba(242,201,76,.26),rgba(26,35,43,.95) 55%)}
+.central{flex-basis:100%;display:flex;align-items:center;gap:12px;text-align:left;padding:10px 16px;border:1px solid rgba(242,201,76,.55);border-left:5px solid var(--gold);border-radius:10px;background:linear-gradient(90deg,rgba(242,201,76,.16),rgba(26,35,43,.92) 55%);cursor:default;line-height:1.35}
 .central .q{flex:none;display:grid;place-items:center;width:30px;height:30px;border-radius:50%;background:var(--gold);color:#10161c;font:700 1.15rem Georgia,serif;animation:pulso 2.4s ease-out infinite}
 .central .txt{font:400 .95rem Georgia,"Times New Roman",serif;color:var(--text)}
 .central b{color:var(--gold);font-family:system-ui,sans-serif;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;margin-right:4px}
@@ -93,19 +92,66 @@ mark{background:none;color:var(--gold);font-weight:700;box-shadow:inset 0 -.35em
 @keyframes pulso{0%{box-shadow:0 0 0 0 rgba(242,201,76,.6)}70%,100%{box-shadow:0 0 0 12px rgba(242,201,76,0)}}
 .legend{top:calc(var(--bar-h,74px) + 8px)}
 
-/* Ventana de inicio */
-.modal.wel{z-index:30;background:radial-gradient(ellipse at 50% 35%,rgba(242,201,76,.14),rgba(5,9,12,.9) 62%)}
-.wbox{--gold:#f2c94c;position:relative;width:min(820px,92vw);padding:clamp(28px,6vw,56px);text-align:center;overflow:hidden;border:1px solid rgba(242,201,76,.5);border-radius:16px;background:var(--panel);box-shadow:0 20px 60px rgba(0,0,0,.55);animation:entra .6s cubic-bezier(.2,.8,.2,1)}
-.wbox .bigq{position:absolute;right:-.05em;top:-.28em;font:700 clamp(12rem,34vw,22rem)/1 Georgia,serif;color:rgba(242,201,76,.07);pointer-events:none}
-.wbox .eyebrow{position:relative;margin:0 0 14px;font:600 .78rem system-ui,sans-serif;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
-.wbox h2{position:relative;font:700 clamp(1.45rem,3.8vw,2.35rem)/1.25 Georgia,"Times New Roman",serif;margin:0 0 18px;color:var(--text)}
-.wbox .wsub{position:relative;margin:0 0 26px;color:var(--muted)}
-.wbox mark{color:var(--gold)}
-#wGo{position:relative;background:var(--gold);border-color:var(--gold);color:#10161c;font-weight:700;font-size:1rem;padding:13px 28px;border-radius:999px}
-#wGo:hover{background:#f7d978}
-@keyframes entra{from{opacity:0;transform:translateY(18px) scale(.97)}to{opacity:1;transform:none}}
-@media(prefers-reduced-motion:reduce){.central .q,.wbox{animation:none}}
 @media(max-width:700px){.central .txt{font-size:.85rem}.central{padding:8px 12px}}
 
 /* En el celular se oculta la tarjeta de ayuda para que no tape la del año (el aviso de error sí se muestra) */
 @media(max-width:760px){#info:not(.err){display:none}}
+
+/* ===================== MÁS COLOR ===================== */
+:root{--bg:#0a1424;--panel:#14213a;--line:#2b4068;--text:#f4f1e8;--muted:#a9b8d4;--gold:#f2c94c;--teal:#2dd4bf;--coral:#ff8f6b;--blue:#7aa7ff;--violet:#c4a8ff}
+html,body{background:radial-gradient(1100px 700px at 15% 8%,#1b3a6b 0%,transparent 62%),radial-gradient(900px 650px at 92% 88%,#3d2060 0%,transparent 58%),var(--bg)}
+#map{background:linear-gradient(180deg,#14507f,#0c2f52)}
+h1{background:linear-gradient(90deg,var(--gold),var(--coral));-webkit-background-clip:text;background-clip:text;color:transparent;-webkit-text-fill-color:transparent}
+h1 small{color:var(--muted);-webkit-text-fill-color:var(--muted)}
+button,select{transition:transform .15s,background .2s,border-color .2s,box-shadow .2s}
+button:hover{transform:translateY(-2px);box-shadow:0 6px 16px rgba(0,0,0,.35)}
+#surveyOpen{border-color:var(--violet);color:#e6dcff}
+#view{border-color:var(--teal);color:#a8f5e8}
+#infl{border-color:var(--coral);color:#ffd0c0}
+#bando{border-color:var(--blue);color:#cfdcff}
+#view:hover{background:rgba(45,212,191,.18)}#infl:hover{background:rgba(255,143,107,.18)}#bando:hover{background:rgba(122,167,255,.18)}#surveyOpen:hover{background:rgba(196,168,255,.18)}
+#infl[aria-pressed=true]{background:#ff6b4a;border-color:#ff6b4a;color:#fff}
+#bando[aria-pressed=true]{background:#3b82f6;border-color:#3b82f6;color:#fff}
+.card{border-top:3px solid var(--gold);box-shadow:0 10px 30px rgba(0,0,0,.35);background:linear-gradient(180deg,rgba(255,255,255,.04),transparent 40%),var(--panel)}
+#info{border-top-color:var(--teal)}
+#events h2,#info h2{color:var(--gold)}
+#evOpen{border-color:var(--gold);color:#ffe9a8}
+.legend{box-shadow:0 8px 24px rgba(0,0,0,.35);border-top:3px solid var(--teal)}
+.mbox{background:linear-gradient(180deg,rgba(255,255,255,.035),transparent 30%),var(--panel);border-color:var(--acc,var(--line));box-shadow:0 24px 70px rgba(0,0,0,.6),0 0 0 1px rgba(255,255,255,.04)}
+.mbox header{background:linear-gradient(90deg,var(--acc-soft,rgba(242,201,76,.28)),transparent 75%);border-bottom:3px solid var(--acc,var(--gold))}
+.mbox h2{color:#fff}
+.mbody h3{color:var(--gold);padding-bottom:4px;border-bottom:1px solid rgba(242,201,76,.25)}
+.mbody a{color:#8fd3ff}
+.tabs button[aria-pressed=true]{background:linear-gradient(135deg,#f2c94c,#ff9f43);border-color:transparent;color:#10161c;font-weight:700}
+.tabs button:hover{background:rgba(242,201,76,.2)}
+#mToYear{border-color:var(--teal);color:#a8f5e8}
+#sEnviar{background:linear-gradient(135deg,#ff6b4a,#ff9f43);border-color:transparent;color:#fff;font-weight:700}
+.tts button{border-color:var(--blue);color:#cfdcff}
+.ph{border-color:rgba(242,201,76,.35);background:rgba(242,201,76,.05)}
+
+/* ===================== ANIMACIONES ===================== */
+@keyframes fundir{from{opacity:0}to{opacity:1}}
+@keyframes abrir{from{opacity:0;transform:translateY(26px) scale(.95)}to{opacity:1;transform:none}}
+@keyframes subir{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes bajar{from{opacity:0;transform:translateY(-14px)}to{opacity:1;transform:none}}
+.modal:not([hidden]){animation:fundir .25s ease-out}
+.modal:not([hidden]) .mbox{animation:abrir .45s cubic-bezier(.2,.9,.25,1)}
+.bar{animation:bajar .7s ease-out}
+.card{animation:subir .7s ease-out .2s both}
+.tts,#mNote,#mYearH,#mText,#mToYear,.mbody h3,#mExtra>p,#yWorld>p,#yList>li,#mVideos>*,#yVideos>*{animation:subir .5s ease-out both}
+.tts{animation-delay:.05s}#mNote{animation-delay:.1s}#mYearH{animation-delay:.14s}#mText{animation-delay:.18s}.mbody h3{animation-delay:.2s}#mVideos>*,#yVideos>*{animation-delay:.3s}
+#mExtra>p:nth-child(1),#yWorld>p:nth-child(1),#yList>li:nth-child(1){animation-delay:0.29s}
+#mExtra>p:nth-child(2),#yWorld>p:nth-child(2),#yList>li:nth-child(2){animation-delay:0.38s}
+#mExtra>p:nth-child(3),#yWorld>p:nth-child(3),#yList>li:nth-child(3){animation-delay:0.47s}
+#mExtra>p:nth-child(4),#yWorld>p:nth-child(4),#yList>li:nth-child(4){animation-delay:0.56s}
+#mExtra>p:nth-child(5),#yWorld>p:nth-child(5),#yList>li:nth-child(5){animation-delay:0.65s}
+#mExtra>p:nth-child(6),#yWorld>p:nth-child(6),#yList>li:nth-child(6){animation-delay:0.74s}
+#mExtra>p:nth-child(7),#yWorld>p:nth-child(7),#yList>li:nth-child(7){animation-delay:0.83s}
+#mExtra>p:nth-child(8),#yWorld>p:nth-child(8),#yList>li:nth-child(8){animation-delay:0.92s}
+#mExtra>p:nth-child(9),#yWorld>p:nth-child(9),#yList>li:nth-child(9){animation-delay:1.01s}
+#mExtra>p:nth-child(10),#yWorld>p:nth-child(10),#yList>li:nth-child(10){animation-delay:1.10s}
+#mExtra>p:nth-child(11),#yWorld>p:nth-child(11),#yList>li:nth-child(11){animation-delay:1.19s}
+#mExtra>p:nth-child(12),#yWorld>p:nth-child(12),#yList>li:nth-child(12){animation-delay:1.28s}
+#mExtra>p:nth-child(n+13),#yWorld>p:nth-child(n+13),#yList>li:nth-child(n+13){animation-delay:1.3s}
+.flash{animation:subir .45s ease-out both}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
