@@ -1127,6 +1127,211 @@ Etiopia: {
 "los territorios ocupados por Japón. Sin embargo, sus expectativas serían frustradas",
 "durante las negociaciones de paz."
 ]},
+   mongolia: {
+   1914: [
+" Mongolia Exterior mantenía una independencia proclamada en 1911, aunque su",
+"situación internacional todavía era incierta. Buscaba conservar su autonomía frente a",
+"las pretensiones territoriales de China. Rusia ejercía una importante influencia política",
+"y diplomática sobre el territorio. El gobierno estaba dirigido por el Bogd Khan. Mongolia",
+"no participó directamente en los principales enfrentamientos europeos. Su principal",
+"preocupación era conservar su autonomía política"
+],
+   1915: [
+" Mongolia firmó el Tratado de Kiachta con Rusia y China. Este acuerdo reconoció",
+"su autonomía política, pero no su independencia plena. China conservó la soberanía",
+"nominal sobre el territorio. Rusia mantuvo una importante influencia diplomática en la",
+"región. El gobierno del Bogd Khan continuó administrando los asuntos internos.",
+"Mongolia permaneció en una situación política dependiente de las grandes potencias",
+"vecinas."
+],
+   1916: [
+"Mongolia mantuvo su autonomía limitada y continuó bajo la influencia rusa. El",
+"gobierno del Bogd Khan conservó sus instituciones políticas y religiosas. La población",
+"continuó desarrollando sus actividades tradicionales, principalmente agrícolas y",
+"ganaderas. Su situación internacional permaneció relativamente estable. Mongolia",
+"intentó evitar una mayor intervención china. No participó directamente en las grandes",
+"campañas militares de la Primera Guerra Mundial."
+],
+   1917: [
+" La Revolución rusa transformó profundamente la situación política de la región.",
+"El debilitamiento del Imperio ruso redujo la protección diplomática que recibía",
+"Mongolia. Esto generó incertidumbre sobre su futuro político. China encontró nuevas",
+"oportunidades para recuperar influencia sobre Mongolia Exterior. El gobierno mongol",
+"tuvo dificultades para mantener su posición internacional. La autonomía del territorio",
+"comenzó a quedar más amenazada."
+],
+   1918: [
+"Mongolia continuó bajo el gobierno del Bogd Khan, aunque su autonomía era",
+"cada vez más vulnerable. La inestabilidad rusa debilitó su posición frente a China. Las",
+"autoridades chinas buscaron recuperar mayor control sobre el territorio. Mongolia no",
+"tuvo una participación militar importante en la guerra mundial. Su situación política",
+"dependió principalmente de los cambios ocurridos en Rusia y China. El conflicto",
+"terminó sin resolver definitivamente su independencia."
+]},
+   argelia: {
+   1914: [
+"Argelia, colonia francesa, aportó soldados al ejército de Francia desde el",
+"comienzo de la guerra. Muchos fueron incorporados a los llamados tirailleurs",
+"algériens. Estas tropas fueron enviadas principalmente al frente occidental europeo.",
+"Combatieron junto a los soldados franceses en diferentes operaciones militares.",
+"También se movilizaron recursos para sostener el esfuerzo bélico. Surgieron",
+"resistencias entre la población frente al reclutamiento obligatorio."
+],
+   1915: [
+" Continuó el reclutamiento de soldados argelinos para reforzar las fuerzas",
+"francesas. Muchos fueron enviados a combatir en las trincheras europeas.",
+"Participaron en diferentes operaciones militares junto al ejército francés. Las",
+"autoridades coloniales aumentaron las exigencias de movilización. La población sufrió",
+"dificultades económicas y sociales como consecuencia de la guerra. También creció el",
+"descontento frente a las políticas coloniales."
+],
+   1916: [
+" Francia continuó utilizando soldados argelinos en sus campañas militares. La",
+"movilización afectó especialmente a las comunidades rurales. Se intensificaron las",
+"exigencias del reclutamiento obligatorio. Surgieron resistencias frente a las",
+"autoridades coloniales y sus políticas. Muchos argelinos permanecieron desplegados",
+"en Europa. Argelia continuó siendo una fuente importante de soldados para el ejército",
+"francés."
+],
+   1917: [
+"Los soldados argelinos continuaron participando en las operaciones militares",
+"francesas. Aumentaron las tensiones relacionadas con el reclutamiento obligatorio. Se",
+"produjeron resistencias contra las autoridades coloniales, especialmente en algunas",
+"regiones rurales. La población enfrentó dificultades económicas durante el conflicto.",
+"Francia mantuvo sus exigencias militares sobre el territorio. Los soldados argelinos",
+"siguieron combatiendo en el frente europeo."
+],
+   1918: [
+"Argelia continuó proporcionando soldados y recursos a Francia durante la",
+"ofensiva final contra Alemania. Sus tropas participaron en diferentes operaciones",
+"militares hasta el armisticio. Muchos militares permanecieron desplegados en Europa.",
+"La población sufrió las consecuencias humanas y económicas de la movilización.",
+"Francia consiguió mantener el apoyo militar de su colonia. Al finalizar la guerra, Argelia",
+"continuó bajo dominio francés.",
+]},
+   aof : {
+1914: [
+"Francia comenzó a reclutar soldados en sus colonias africanas para combatir en",
+"Europa. Destacaron los llamados tirailleurs sénégalais, procedentes de distintos",
+"territorios de África Occidental. Estas tropas fueron incorporadas al ejército francés.",
+"También se utilizaron recursos locales para apoyar las operaciones militares. El",
+"reclutamiento provocó descontento entre algunas comunidades. África Occidental",
+"comenzó a contribuir directamente al esfuerzo bélico francés."
+],
+   1915: [
+" Continuó el envío de soldados africanos hacia los campos de batalla europeos.",
+"Francia aumentó sus exigencias de reclutamiento para reforzar sus tropas. Muchos",
+"soldados participaron en operaciones del frente occidental. Las autoridades coloniales",
+"exigieron mayores contribuciones humanas a las comunidades. Algunas poblaciones",
+"comenzaron a resistirse a las levas obligatorias. Los territorios africanos continuaron",
+"proporcionando soldados y recursos a Francia."
+],
+   1916: [
+"El reclutamiento militar se intensificó debido a las grandes pérdidas francesas en",
+"el frente occidental. Se exigieron más soldados y trabajadores a las colonias africanas.",
+"Muchos fueron enviados a Europa para reforzar las unidades francesas. Las",
+"autoridades aumentaron la presión sobre las comunidades locales. Se produjeron",
+"tensiones y resistencias en diferentes regiones. África Occidental siguió siendo una",
+"importante fuente de tropas para Francia."
+],
+   1917: [
+" El descontento contra el reclutamiento obligatorio aumentó considerablemente.",
+"Algunas comunidades africanas se opusieron a las autoridades coloniales y a las levas",
+"militares. Se produjeron resistencias en diferentes territorios. Francia tuvo dificultades",
+"para conseguir nuevos soldados debido a la oposición de la población. La situación",
+"evidenció el rechazo de muchos africanos a las exigencias coloniales. El reclutamiento",
+"continuó siendo un problema para la administración francesa"
+],
+   1918: [
+"Francia impulsó una nueva campaña de reclutamiento dirigida por Blaise Diagne,",
+"político senegalés. Su objetivo era movilizar más soldados africanos para reforzar las",
+"fuerzas francesas. Miles de hombres fueron reclutados en África Occidental. Muchos",
+"fueron enviados a participar en las operaciones finales de la guerra. Otros realizaron",
+"labores de transporte y apoyo militar. Al terminar el conflicto, numerosos soldados",
+"regresaron a sus territorios de origen."
+]},
+   congobelga : {
+   1914: [
+"El Congo belga participó mediante su fuerza militar, conocida como Force",
+"Publique. Sus tropas defendieron las fronteras frente a las fuerzas alemanas. También",
+"colaboraron con los Aliados en las operaciones militares de África central. Se",
+"organizaron recursos y suministros para apoyar las campañas. La colonia se convirtió",
+"en una base importante para las operaciones aliadas. Su participación contribuyó a",
+"debilitar la presencia alemana en África."
+],
+   1915: [
+"Las autoridades belgas comenzaron a preparar una ofensiva contra el África",
+"Oriental Alemana. Se reclutaron soldados congoleños para las futuras operaciones",
+"militares. También se movilizaron numerosos porteadores para transportar alimentos,",
+"armas y suministros. Se organizaron rutas de abastecimiento y preparación logística.",
+"La colonia fortaleció sus fuerzas militares. De esta manera, preparó una campaña para",
+"debilitar las posiciones alemanas en África Oriental."
+],
+   1916: [
+"La Force Publique inició una gran ofensiva contra las fuerzas alemanas en África",
+"Oriental. Las tropas congoleñas avanzaron junto a las fuerzas aliadas. Durante la",
+"campaña ocuparon Ruanda y Burundi. En septiembre consiguieron conquistar la",
+"ciudad de Tabora, una importante posición alemana. Estas victorias debilitaron",
+"considerablemente el dominio alemán en la región. Los soldados congoleños tuvieron",
+"un papel fundamental en la campaña."
+],
+   1917: [
+" Las tropas congoleñas continuaron sus operaciones militares junto a los Aliados.",
+"Participaron en la conquista de Mahenge, importante posición alemana, en octubre.",
+"Las fuerzas alemanas fueron obligadas a retroceder hacia el sur. Continuaron los",
+"enfrentamientos en diferentes regiones de África Oriental. La campaña redujo",
+"considerablemente la presencia militar alemana. La Force Publique mantuvo su",
+"participación hasta las últimas etapas del conflicto."
+],
+   1918: [
+"La Force Publique continuó colaborando con las fuerzas aliadas en África",
+"Oriental. Las tropas alemanas restantes siguieron resistiendo mediante operaciones",
+"de guerrilla. El conflicto en la región continuó incluso después del armisticio europeo.",
+"Las fuerzas alemanas dirigidas por Paul von Lettow-Vorbeck mantuvieron su",
+"resistencia hasta noviembre. Finalmente, se rindieron el 25 de noviembre de 1918. El",
+"Congo belga contribuyó decisivamente a la derrota colonial alemana en África Oriental."
+]},
+   egipto : {
+   1914: [
+"Egipto se encontraba bajo ocupación británica, aunque formalmente pertenecía",
+"al Imperio otomano. El 18 de diciembre, Gran Bretaña estableció oficialmente un",
+"protectorado sobre el territorio. De esta manera, Egipto quedó separado del dominio",
+"otomano. El canal de Suez adquirió una importancia estratégica fundamental para los",
+"británicos. El territorio se convirtió en una base militar para las operaciones aliadas. Su",
+"principal objetivo fue proteger las comunicaciones entre Europa y Asia."
+],
+   1915: [
+" El Imperio otomano lanzó una ofensiva contra el canal de Suez el 2 de febrero.",
+"Las tropas británicas organizaron la defensa de las posiciones cercanas al canal.",
+"Después de varios enfrentamientos, consiguieron rechazar el ataque otomano. Egipto",
+"continuó funcionando como una importante base de abastecimiento militar. Gran",
+"Bretaña reforzó sus posiciones en la región. Finalmente, mantuvo el control de esta",
+"importante ruta marítima."
+],
+   1916: [
+" Las tropas británicas avanzaron por la península del Sinaí para alejar la amenaza",
+"otomana del canal de Suez. Se construyeron ferrocarriles para facilitar el transporte de",
+"soldados y armamento. También se organizaron rutas de abastecimiento de agua y",
+"alimentos. Las fuerzas británicas fortalecieron sus posiciones militares. Egipto",
+"continuó siendo una base fundamental para las operaciones aliadas. La campaña",
+"permitió preparar nuevas ofensivas hacia Palestina."
+],
+   1917: [
+"Las fuerzas británicas comenzaron importantes ofensivas hacia Palestina desde",
+"Egipto. Después de varios enfrentamientos, conquistaron Gaza. En diciembre lograron",
+"ocupar Jerusalén, debilitando el dominio otomano en la región. Egipto sirvió como base",
+"para transportar soldados, armas y suministros. Las fuerzas aliadas ampliaron su",
+"control sobre Oriente Medio. La campaña representó un importante retroceso para el",
+"Imperio otomano"
+],
+   1918: [
+" Las fuerzas británicas continuaron avanzando hacia Siria y derrotaron a los",
+"otomanos en la batalla de Megido. La ofensiva permitió ocupar importantes territorios",
+"de Oriente Medio. El Imperio otomano firmó el armisticio el 30 de octubre de 1918.",
+"Egipto mantuvo su importancia como base militar británica durante las operaciones",
+"finales. El canal de Suez permaneció bajo control británico. Al finalizar la guerra, Egipto",
+"continuó siendo un protectorado británico ."
+]},
 "United Kingdom":X([
 "El Reino Unido entró el 4 de agosto al violarse la neutralidad de Bélgica, que había garantizado. Envió la Fuerza Expedicionaria Británica a Francia, que combatió en Mons y el Marne y sufrió grandes bajas en la primera batalla de Ypres. Su imperio aportó soldados y recursos desde India, Canadá, Australia y otros territorios, y Kitchener empezó a reclutar voluntarios.",
 "Churchill impulsó la campaña de Galípoli para abrir los Dardanelos; fracasó y fue evacuada entre diciembre de 1915 y enero de 1916. Por primera vez el país sufrió bombardeos de zepelines y el hundimiento del Lusitania despertó indignación. La falta de municiones (la «crisis de los obuses») provocó un gobierno de coalición.",
@@ -1264,25 +1469,25 @@ corea:{n:"Corea japonesa",cont:"Asia",l:1,c:["North Korea","South Korea"],x:"cor
   "Continúa bajo el dominio colonial japonés.",
   "El principio de autodeterminación de Wilson alimenta el movimiento independentista que estallará en marzo de 1919.")},
 china:{n:"China",cont:"Asia",l:1,c:["China"],x:"china",t:tl("China"),note:"China era una república desde 1912."},
-mongolia:{n:"Mongolia",cont:"Asia",l:1,c:["Mongolia"],t:T3(
+mongolia:{n:"Mongolia",cont:"Asia",l:1,c:["Mongolia"],x:"mongolia",t:T3(
   "Autónoma bajo influencia rusa desde 1911; el tratado de Kiajta (1915) reconoce su autonomía bajo soberanía china.",
   "La Revolución rusa debilita la influencia de Rusia en Mongolia.",
   "China aprovecha la guerra civil rusa y presiona para recuperar el control, que logra en 1919.")},
 /* ---- África ---- */
-argelia:{n:"Argelia francesa",cont:"África",l:1,c:["Algeria"],t:T3(
+argelia:{n:"Argelia francesa",cont:"África",l:1,c:["Algeria"],x:"argelia",t:T3(
   "Es parte de Francia: miles de argelinos son movilizados y combaten como tirailleurs en el frente occidental; en 1916 hay revueltas contra el reclutamiento.",
   "Se mantienen los reclutamientos y llegan trabajadores argelinos a las fábricas francesas.",
   "Más de 170.000 argelinos sirvieron en el ejército francés y unos 25.000 murieron.")},
-aof:{n:"África occidental francesa",cont:"África",l:1,c:["Mauritania","Senegal","Mali","Guinea","Burkina Faso","Côte d'Ivoire","Niger","Benin"],t:T3(
+aof:{n:"África occidental francesa",cont:"África",l:1,c:["Mauritania","Senegal","Mali","Guinea","Burkina Faso","Côte d'Ivoire","Niger","Benin"],x:"aof",t:T3(
   "Federación colonial francesa: miles de africanos son reclutados como «tiradores senegaleses» y enviados al frente occidental; en 1915-1916 estallan revueltas contra el reclutamiento.",
   "Siguen los reclutamientos y se envían materias primas y alimentos a Francia.",
   "Blaise Diagne, diputado de Senegal, dirige el reclutamiento de 1918; más de 170.000 soldados de la región sirvieron en la guerra."),
   note:"Se muestran los territorios de la AOF (Mauritania, Senegal, Mali, Guinea, Burkina Faso, Costa de Marfil, Níger y Benín), sin Argelia."},
-congobelga:{n:"Congo belga",cont:"África",l:1,c:["Dem. Rep. Congo"],t:T3(
+congobelga:{n:"Congo belga",cont:"África",l:1,c:["Dem. Rep. Congo"],x:"congobelga",t:T3(
   "Colonia de Bélgica que aporta caucho, cobre y marfil; su Fuerza Pública combate a los alemanes en África oriental y toma Tabora (1916).",
   "Continúa la campaña de África oriental: miles de congoleños sirven como soldados y cargadores.",
   "Tras la guerra, Bélgica recibirá un mandato sobre Ruanda-Urundi, antiguas posesiones alemanas.")},
-egipto:{n:"Egipto británico",cont:"África",l:2,c:["Egypt"],t:T3(
+egipto:{n:"Egipto británico",cont:"África",l:2,c:["Egypt"],x:"egipto",t:T3(
   "Es protectorado británico desde diciembre de 1914; el Canal de Suez es clave y los británicos lo defienden de un ataque otomano (1915).",
   "Egipto es la base de las fuerzas británicas que combaten a los otomanos; miles de egipcios trabajan para el ejército.",
   "Tras el armisticio crece el nacionalismo y en 1919 estalla la revolución egipcia.")},
