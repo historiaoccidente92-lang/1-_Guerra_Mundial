@@ -1171,7 +1171,7 @@ indochina:{n:"Indochina francesa",cont:"Asia",l:1,c:["Vietnam","Laos","Cambodia"
   "Colonia francesa en el sudeste asiático: aporta recursos y, desde 1915, soldados y trabajadores que viajan a Francia.",
   "Estalla la revuelta de Thái Nguyên (agosto) contra el dominio francés.",
   "Unos 100.000 vietnamitas e indochinos habían sido enviados a Francia como soldados o trabajadores.")},
-japon:{n:"Imperio japonés",cont:"Asia",l:2,c:["Japan","Taiwan"],t:DATA.Japan.t,
+japon:{n:"Imperio japonés",cont:"Asia",l:2,c:["Japan","Taiwan"],x:"japon",t:DATA.Japan.t,
   note:"Incluye Taiwán (Formosa), colonia japonesa. Corea se muestra aparte."},
 corea:{n:"Corea japonesa",cont:"Asia",l:1,c:["North Korea","South Korea"],t:T3(
   "Anexada por Japón en 1910, no participa como país en la guerra y su economía sirve a los intereses japoneses.",
