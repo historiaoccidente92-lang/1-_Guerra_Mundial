@@ -1098,7 +1098,7 @@ suecia:{n:"Suecia",cont:"Europa",l:1,c:["Sweden"],x:"suecia",t:[
    "Crecimiento de las dificultades económicas y comerciales",
    "Crisis alimentaria, protestas y cambios políticos",
    "Final de la guerra y reformas democráticas"]},
-dinamarca:{n:"Dinamarca",cont:"Europa",l:1,c:["Denmark"],X:"dinamarca",t:[
+dinamarca:{n:"Dinamarca",cont:"Europa",l:1,c:["Denmark"],x:"dinamarca",t:[
    "Declaración de neutralidad y defensa de los estrechos daneses",
    "Reforma constitucional y dificultades comerciales",
    "Venta de las Indias Occidentales Danesas y endurecimiento económico",
