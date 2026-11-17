@@ -999,6 +999,47 @@ Etiopia: {
 "1. Meyer, M. C. (2015). The Mexican-German conspiracy of 1915. The Americas, 22(1), 76–89. <a href='https://danmarkshistorien.lex.dk/1._verdenskrig_og_Danmark_1914-1918?utm_source=chatgpt.com' target='_blank' rel='noopener'>https://danmarkshistorien.lex.dk/1._verdenskrig_og_Danmark_1914-1918?utm_source=chatgpt.com</a>",
 "2. Meyer, M. C. (2015). The Mexican-German conspiracy of 1915. The Americas, 22(1), 76–89. <a href='https://journals.sagepub.com/doi/abs/10.1177/1611894419835753?utm_source=chatgpt.com' target='_blank' rel='noopener'>https://journals.sagepub.com/doi/abs/10.1177/1611894419835753?utm_source=chatgpt.com</a>"
 ]},
+   japon: {
+      1914: [
+"Japón entró en la Primera Guerra Mundial el 23 de agosto, del lado de los Aliados.",
+"Declaró la guerra a Alemania y atacó su base naval de Qingdao, ubicada en China.",
+"Después de un asedio, consiguió conquistarla en noviembre. También ocupó varias",
+"islas alemanas del océano Pacífico. Estas acciones debilitaron la presencia alemana",
+"en Asia. Japón aprovechó el conflicto para ampliar su influencia territorial y militar."
+],
+   1915: [
+"Japón presentó las llamadas 21 Demandas al gobierno chino, buscando ampliar",
+"su influencia política, económica y territorial. Exigió mayores privilegios en Manchuria y",
+"Shandong, además de otras concesiones. China terminó aceptando varias exigencias",
+"bajo presión. Este acontecimiento provocó un fuerte sentimiento nacionalista entre los",
+"chinos. Japón consiguió fortalecer su posición en el continente asiático. Así, aprovechó",
+"la guerra para aumentar su poder regional."
+],
+   1916: [
+" Japón continuó consolidando sus posiciones en China y las islas del Pacífico que",
+"había ocupado. Mantuvo su alianza con Gran Bretaña y colaboró con las operaciones",
+"navales aliadas. Mientras las potencias europeas concentraban sus recursos en el",
+"frente occidental, Japón fortaleció su economía industrial. Sus exportaciones",
+"aumentaron debido a la demanda de productos de guerra. De esta manera, consiguió",
+"mayores beneficios económicos y comerciales. También reforzó su posición como",
+"potencia internacional."
+   1917: [
+" Japón envió buques de guerra al mar Mediterráneo para apoyar a los Aliados. Sus",
+"embarcaciones colaboraron en la protección de los transportes marítimos frente a los",
+"submarinos alemanes. Esta participación permitió reforzar las comunicaciones entre",
+"las potencias aliadas. También demostró la capacidad naval japonesa fuera del",
+"continente asiático. Su cooperación fortaleció las relaciones militares con Gran",
+"Bretaña. Japón aumentó así su prestigio como potencia naval."
+],
+   1918: [
+"Japón participó en la intervención militar aliada en Siberia, aprovechando la",
+"inestabilidad provocada por la Revolución rusa. Envió tropas para apoyar a las fuerzas",
+"antibolcheviques y proteger los intereses aliados. Su presencia militar se extendió por",
+"diferentes regiones del territorio siberiano. También buscó aumentar su influencia",
+"sobre el extremo oriental ruso. Al finalizar la guerra, Japón conservaba sus territorios",
+"ocupados en Asia y el Pacífico. El conflicto terminó favoreciendo su expansión",
+"internacional."
+]},
 "United Kingdom":X([
 "El Reino Unido entró el 4 de agosto al violarse la neutralidad de Bélgica, que había garantizado. Envió la Fuerza Expedicionaria Británica a Francia, que combatió en Mons y el Marne y sufrió grandes bajas en la primera batalla de Ypres. Su imperio aportó soldados y recursos desde India, Canadá, Australia y otros territorios, y Kitchener empezó a reclutar voluntarios.",
 "Churchill impulsó la campaña de Galípoli para abrir los Dardanelos; fracasó y fue evacuada entre diciembre de 1915 y enero de 1916. Por primera vez el país sufrió bombardeos de zepelines y el hundimiento del Lusitania despertó indignación. La falta de municiones (la «crisis de los obuses») provocó un gobierno de coalición.",
