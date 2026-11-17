@@ -1041,6 +1041,92 @@ Etiopia: {
 "ocupados en Asia y el Pacífico. El conflicto terminó favoreciendo su expansión",
 "internacional."
 ]},
+   corea: {
+      1914:[
+"Corea permanecía anexada al Imperio japonés desde 1910, por lo que no",
+"participó como Estado independiente en la guerra. Su administración estaba",
+"controlada por las autoridades japonesas. La población estaba sometida a",
+"restricciones políticas y sociales. Japón aprovechó los recursos económicos de la",
+"península para fortalecer su imperio. Los movimientos nacionalistas coreanos",
+"continuaron siendo vigilados. Así, Corea permaneció bajo dominio colonial durante el",
+"conflicto."
+],
+   1915: [
+" Continuó el dominio colonial japonés sobre Corea y se mantuvo el control de las",
+"instituciones públicas. La economía coreana permaneció subordinada a los intereses",
+"del Imperio japonés. Las autoridades restringieron las actividades políticas contrarias a",
+"la anexión. También continuó la vigilancia sobre los movimientos independentistas. La",
+"población experimentó las consecuencias de la administración colonial. Corea no tuvo",
+"participación militar independiente en este año."
+],
+   1916: [
+" Japón continuó consolidando su dominio sobre la península coreana. Las",
+"autoridades coloniales reforzaron el control político y administrativo. Los recursos",
+"económicos coreanos siguieron integrándose a la economía japonesa. Se mantuvo la",
+"vigilancia sobre las organizaciones nacionalistas. El descontento de la población frente",
+"al dominio extranjero continuó creciendo. Corea permaneció sin autonomía política ni",
+"representación internacional independiente."
+],
+   1917: [
+"Corea continuó bajo el dominio político y militar japonés. Su población no tuvo",
+"representación independiente en las decisiones relacionadas con la guerra. Las",
+"autoridades mantuvieron restricciones contra los movimientos nacionalistas. Algunos",
+"independentistas buscaron apoyo internacional para recuperar la soberanía coreana.",
+"Japón conservó el control de las instituciones y los recursos del territorio. El",
+"sentimiento nacionalista continuó fortaleciéndose."
+],
+   1918: [
+" Corea seguía siendo una colonia japonesa durante el último año de la guerra. El",
+"descontento frente al dominio extranjero aumentó entre diferentes sectores de la",
+"población. Las ideas de autodeterminación difundidas internacionalmente influyeron",
+"en los nacionalistas coreanos. La derrota de las potencias centrales generó nuevas",
+"expectativas de independencia. Los movimientos nacionalistas comenzaron a",
+"organizar iniciativas de protesta. Este contexto precedió al Movimiento del 1 de Marzo",
+"de 1919."
+]},
+   china: {
+   1914: [
+"China se declaró neutral al comenzar la Primera Guerra Mundial. Sin embargo,",
+"su territorio se convirtió en escenario de enfrentamientos entre Japón y Alemania. Las",
+"tropas japonesas atacaron la concesión alemana de Qingdao. Después de varias",
+"semanas de combate, Alemania perdió su principal base naval en la región. China",
+"protestó por la ocupación de su territorio. Este acontecimiento evidenció su debilidad",
+"frente a las potencias extranjeras."
+],
+   1915: [
+"Japón presentó las llamadas 21 Demandas al gobierno chino para ampliar su",
+"influencia económica y territorial. Entre sus exigencias se encontraban mayores",
+"privilegios en Manchuria y Shandong. China intentó resistirse a las imposiciones",
+"japonesas, pero terminó aceptando varias concesiones. La población manifestó su",
+"rechazo a la intervención extranjera. El acontecimiento fortaleció el nacionalismo",
+"chino. La soberanía del país continuó amenazada por las potencias internacionales"
+],
+   1916: [
+" China permaneció oficialmente neutral durante la mayor parte del año. Su",
+"gobierno buscó fortalecer sus relaciones con las potencias aliadas. También comenzó",
+"a considerar una participación más activa en el conflicto. Se desarrollaron",
+"negociaciones para enviar trabajadores chinos a Europa. Mientras tanto, la situación",
+"política interna continuó siendo inestable. China empezó a acercarse progresivamente",
+"al bloque aliado"
+],
+   1917: [
+" China declaró la guerra a Alemania y Austria-Hungría el 14 de agosto. Rompió",
+"sus relaciones diplomáticas con las potencias centrales y se incorporó al bloque",
+"aliado. También organizó el envío de trabajadores chinos a Europa para apoyar las",
+"operaciones militares. Estos trabajadores participaron en labores de transporte,",
+"construcción y abastecimiento. Su contribución fue principalmente económica y",
+"logística. China buscaba obtener reconocimiento internacional y recuperar su",
+"soberanía"
+],
+   1918: [
+" China continuó apoyando a los Aliados mediante el Cuerpo Laboral Chino. Miles",
+"de trabajadores realizaron diferentes actividades en territorio europeo. Transportaron",
+"suministros, construyeron carreteras y repararon instalaciones militares. Aunque no",
+"participaron principalmente como soldados combatientes, fueron importantes para",
+"mantener las operaciones logísticas. Al finalizar la guerra, China esperaba recuperar",
+"los territorios ocupados por Japón. Sin embargo, sus expectativas serían frustradas",
+"durante las negociaciones de paz."
+]},
 "United Kingdom":X([
 "El Reino Unido entró el 4 de agosto al violarse la neutralidad de Bélgica, que había garantizado. Envió la Fuerza Expedicionaria Británica a Francia, que combatió en Mons y el Marne y sufrió grandes bajas en la primera batalla de Ypres. Su imperio aportó soldados y recursos desde India, Canadá, Australia y otros territorios, y Kitchener empezó a reclutar voluntarios.",
 "Churchill impulsó la campaña de Galípoli para abrir los Dardanelos; fracasó y fue evacuada entre diciembre de 1915 y enero de 1916. Por primera vez el país sufrió bombardeos de zepelines y el hundimiento del Lusitania despertó indignación. La falta de municiones (la «crisis de los obuses») provocó un gobierno de coalición.",
@@ -1173,11 +1259,11 @@ indochina:{n:"Indochina francesa",cont:"Asia",l:1,c:["Vietnam","Laos","Cambodia"
   "Unos 100.000 vietnamitas e indochinos habían sido enviados a Francia como soldados o trabajadores.")},
 japon:{n:"Imperio japonés",cont:"Asia",l:2,c:["Japan","Taiwan"],x:"japon",t:DATA.Japan.t,
   note:"Incluye Taiwán (Formosa), colonia japonesa. Corea se muestra aparte."},
-corea:{n:"Corea japonesa",cont:"Asia",l:1,c:["North Korea","South Korea"],t:T3(
+corea:{n:"Corea japonesa",cont:"Asia",l:1,c:["North Korea","South Korea"],x:"corea",t:T3(
   "Anexada por Japón en 1910, no participa como país en la guerra y su economía sirve a los intereses japoneses.",
   "Continúa bajo el dominio colonial japonés.",
   "El principio de autodeterminación de Wilson alimenta el movimiento independentista que estallará en marzo de 1919.")},
-china:{n:"China",cont:"Asia",l:1,c:["China"],t:tl("China"),note:"China era una república desde 1912."},
+china:{n:"China",cont:"Asia",l:1,c:["China"],x:"china",t:tl("China"),note:"China era una república desde 1912."},
 mongolia:{n:"Mongolia",cont:"Asia",l:1,c:["Mongolia"],t:T3(
   "Autónoma bajo influencia rusa desde 1911; el tratado de Kiajta (1915) reconoce su autonomía bajo soberanía china.",
   "La Revolución rusa debilita la influencia de Rusia en Mongolia.",
