@@ -1023,6 +1023,7 @@ Etiopia: {
 "aumentaron debido a la demanda de productos de guerra. De esta manera, consiguió",
 "mayores beneficios económicos y comerciales. También reforzó su posición como",
 "potencia internacional."
+],
    1917: [
 " Japón envió buques de guerra al mar Mediterráneo para apoyar a los Aliados. Sus",
 "embarcaciones colaboraron en la protección de los transportes marítimos frente a los",
