@@ -1493,7 +1493,7 @@ Russia : {
 "- Se creó un Gobierno Provisional, que decidió continuar la guerra.",
 "Revolución de Octubre:",
 "- Los bolcheviques, dirigidos por Vladímir Lenin, derrocaron al Gobierno Provisional.",
-"- Defendieron el fin de la guerra bajo la consigna de paz, pan y tierra”
+"- Defendieron el fin de la guerra bajo la consigna de paz, pan y tierra"
 ],
    1918: [
 "- 15 de diciembre de 1917: Rusia había firmado un armisticio con las Potencias Centrales.",
