@@ -1746,25 +1746,6 @@ Russia : {
 "BIBLIOGRAFIA",
 "1) International Encyclopedia of the First World War. https://historiageneral.com/2011/02/08/la-primera-guerra-mundial-en-el-imperio-aleman/"
 ]},
-"Kingdom":X([
-"El Reino Unido entró el 4 de agosto al violarse la neutralidad de Bélgica, que había garantizado. Envió la Fuerza Expedicionaria Británica a Francia, que combatió en Mons y el Marne y sufrió grandes bajas en la primera batalla de Ypres. Su imperio aportó soldados y recursos desde India, Canadá, Australia y otros territorios, y Kitchener empezó a reclutar voluntarios.",
-"Churchill impulsó la campaña de Galípoli para abrir los Dardanelos; fracasó y fue evacuada entre diciembre de 1915 y enero de 1916. Por primera vez el país sufrió bombardeos de zepelines y el hundimiento del Lusitania despertó indignación. La falta de municiones (la «crisis de los obuses») provocó un gobierno de coalición.",
-"Se aprobó el servicio militar obligatorio. El 1 de julio comenzó el Somme, con casi 60.000 bajas británicas el primer día, el más sangriento en la historia de su ejército, y en septiembre se usaron tanques por primera vez. En abril fue reprimido el Alzamiento de Pascua en Dublín y en diciembre Lloyd George llegó a primer ministro.",
-"Los submarinos alemanes pusieron al país al borde del desabastecimiento hasta que se adoptó el sistema de convoyes. Libró Passchendaele (julio–noviembre) entre el barro y con enormes pérdidas, y en Cambrai (noviembre) usó tanques en masa. En Oriente Próximo tomó Bagdad y Jerusalén, y la Declaración Balfour apoyó un «hogar nacional» judío en Palestina.",
-"Participó en la contraofensiva de los Cien Días, con batallas como la de Amiens (8 de agosto). En febrero las mujeres mayores de 30 años que cumplían ciertos requisitos obtuvieron el derecho a voto. Tras el armisticio el país celebró la victoria, pero había perdido cerca de 900.000 soldados."]),
-"France":X([
-"Francia aplicó el Plan XVII y atacó en Alsacia y Lorena, pero fue rechazada. Con los alemanes cerca de París, el gobierno se trasladó a Burdeos y, según la tradición, los taxis de París llevaron refuerzos al Marne, donde Joffre ganó la batalla (6–12 de septiembre). Los partidos políticos se unieron bajo la «Unión Sagrada».",
-"Lanzó ofensivas en Champaña y Artois para expulsar a los alemanes del norte del país, con pérdidas enormes y avances mínimos. Gran parte de sus regiones industriales del noreste estaba ocupada. Fue un año de aprendizaje: aparecieron el casco de acero, la artillería pesada y el uso masivo de granadas.",
-"En Verdún, entre febrero y diciembre, los franceses defendieron la fortaleza bajo la consigna «No pasarán». La «Vía Sagrada», la carretera que abastecía a los soldados, fue vital, y Pétain organizó el relevo constante de tropas. La batalla causó cientos de miles de bajas francesas.",
-"El general Nivelle prometió romper el frente en el Chemin des Dames (abril), pero la ofensiva fracasó con enormes bajas. Esto desató motines en decenas de divisiones; Pétain los calmó mejorando permisos y condiciones y evitando ataques costosos. En noviembre Clemenceau asumió el gobierno.",
-"En abril Foch fue nombrado comandante supremo aliado. Francia resistió las ofensivas alemanas, ganó la segunda batalla del Marne (julio) y participó en la ofensiva final. El armisticio se firmó en un vagón de tren en el bosque de Compiègne. Murieron cerca de 1,4 millones de franceses y Alsacia y Lorena volvieron a Francia."]),
-"Russia":X([
-"El imperio movilizó rápido en apoyo de Serbia. Invadió Prusia Oriental, pero fue derrotado por los alemanes en Tannenberg (agosto) y en los lagos Masurianos (septiembre). En Galitzia, en cambio, venció a Austria-Hungría y tomó Lemberg (Leópolis).",
-"La falta de fusiles, munición y transporte puso al ejército en graves dificultades. La ofensiva de Gorlice-Tarnów lo obligó a la «Gran Retirada»: perdió Polonia, Lituania y parte de Bielorrusia y Letonia. En septiembre el zar Nicolás II asumió el mando supremo, ligando su suerte a la del frente.",
-"La ofensiva Brusilov (junio), probablemente su mayor victoria de la guerra, obligó a Alemania a enviar refuerzos y ayudó indirectamente a Francia en Verdún y el Somme. Pero costó enormes bajas, y en las ciudades crecían el hambre y el descontento.",
-"En marzo, protestas por pan y la deserción de soldados provocaron la abdicación del zar y un Gobierno Provisional que continuó la guerra. La ofensiva Kérenski (julio) fracasó. Lenin y los bolcheviques, con el lema «paz, pan y tierra», tomaron el poder en octubre y pidieron un armisticio.",
-"El gobierno bolchevique firmó la paz de Brest-Litovsk (3 de marzo) y cedió grandes territorios, como Polonia, los países bálticos y Ucrania. Rusia quedó sumida en una guerra civil entre rojos y blancos, con intervención extranjera."]),
-"Austria":AHX,"Hungary":AHX,"Turkey":OTX,
 };
 const YEAR_DETAIL={
 1914:[
