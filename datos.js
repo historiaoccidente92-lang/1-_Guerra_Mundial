@@ -1746,6 +1746,285 @@ Russia : {
 "BIBLIOGRAFIA",
 "1) International Encyclopedia of the First World War. https://historiageneral.com/2011/02/08/la-primera-guerra-mundial-en-el-imperio-aleman/"
 ]},
+   peru: {
+   1914: [
+"1. Contexto general",
+"A comienzos del siglo XX, Perú era una república gobernada por una élite de dueños de haciendas azucareras y algodoneras, comerciantes y banqueros agrupados en el Partido Civilista. Este período se conoce como la República Aristocrática. Su economía dependía de exportar materias primas (azúcar, algodón, cobre y otros minerales) y del comercio con Europa, por lo que una guerra europea la afectaba de inmediato.",
+"Perú tenía además un problema pendiente con Chile. Desde la Guerra del Pacífico (1879-1884), Chile mantenía bajo su control las provincias de Tacna y Arica, y esa disputa condicionó toda la política exterior peruana durante la guerra mundial. Al mismo tiempo, el conflicto cambió el equilibrio del continente: con el comercio europeo alterado, Estados Unidos fue reemplazando a Gran Bretaña como principal socio económico y diplomático de América Latina.",
+"2. Desarrollo de la guerra, año por año",
+"A comienzos de 1914 un golpe militar derrocó al presidente Guillermo Billinghurst, y el coronel Óscar R. Benavides encabezó un gobierno provisional. Cuando estalló la guerra en Europa, en agosto, Perú se declaró neutral.",
+"La guerra sorprendió al país en medio de una crisis económica y financiera que se prolongó hasta fines de 1915. Perú no participó en los combates ni envió tropas: su situación fue la de un país neutral y exportador, atento a cómo el conflicto alteraba sus ventas y a su relación con Chile."
+ ],
+   1915: [
+"En agosto de 1915 asumió la presidencia José Pardo y Barreda, del Partido Civilista, quien gobernó hasta 1919. Perú mantuvo la neutralidad y la crisis económica continuó hasta fines de año.",
+"En el continente, Argentina, Brasil y Chile firmaron el Pacto ABC (25 de mayo de 1915), una alianza de cooperación en la que Perú no participó. Ese año también se discutió la propuesta del presidente estadounidense Woodrow Wilson de un pacto panamericano; el recelo de Chile por la cuestión de Tacna y Arica dificultaba cualquier acuerdo continental."
+ ],
+   1916: [
+"En 1916 la situación económica mejoró: las potencias en guerra demandaban algodón, azúcar y cobre a precios elevados, y Perú los exportaba. La guerra, que había comenzado con una crisis, se convirtió así en una oportunidad comercial.",
+"Perú siguió siendo neutral, pero la guerra submarina alemana ponía en riesgo la navegación y el comercio de los países neutrales. Los hundimientos de barcos mercantes serían la causa inmediata de su ruptura con Alemania al año siguiente."
+ ],
+   1917: [
+"El 31 de enero de 1917 Alemania anunció que reanudaba la guerra submarina sin restricciones y el 6 de abril Estados Unidos entró en la guerra. Washington inició entonces una campaña diplomática para que los países latinoamericanos se alinearan con su posición.",
+"El 25 de septiembre Perú envió un ultimátum a Alemania exigiendo reparaciones por barcos peruanos hundidos, entre ellos el Lorton, atacado por un submarino alemán. Al no recibir una respuesta satisfactoria, el Congreso aprobó el 6 de octubre la ruptura de relaciones diplomáticas con Alemania, por 105 votos contra 6. La prensa internacional registró la ruptura formal el 7 de octubre.",
+"El gobierno justificó la decisión en el respeto al derecho internacional, en los principios defendidos por Wilson y en la solidaridad entre los países americanos. En diciembre, Perú rechazó asistir a un congreso latinoamericano propuesto por Argentina: alegó que ya había fijado su posición al romper con Alemania y adherir a la solidaridad panamericana. Así se alineó con Estados Unidos y no con la neutralidad argentina."
+ ],
+   1918: [
+"Perú rompió relaciones con Alemania, pero no le declaró la guerra ni envió soldados. A mediados de junio de 1918 el gobierno incautó unas 50.000 toneladas de barcos alemanes que estaban internados en el Callao, según informó la prensa aliada de la época.",
+"En noviembre, pocos días antes del armisticio, volvió a agravarse la disputa con Chile. El 24 de noviembre fue expulsado el consulado peruano en Iquique, lo que provocó el retiro de los cónsules peruanos en Chile, y el 4 de diciembre Estados Unidos ofreció sus buenos oficios para mediar en el conflicto.",
+"3. Consecuencias de la Primera Guerra Mundial",
+"Perú no combatió ni tuvo bajas militares, pero la guerra dejó consecuencias importantes:",
+"•\tEconomía: desde 1916 aumentaron las exportaciones de materias primas, aunque la guerra había comenzado con una crisis financiera.",
+"•\tPolítica exterior: al romper con Alemania en 1917, Perú se acercó a Estados Unidos, que pasó a ser su principal socio comercial y diplomático.",
+"•\tTacna y Arica: la disputa con Chile siguió sin resolverse al terminar la guerra y volvió a tensarse en noviembre de 1918.",
+"•\tPolítica interna: en 1919 Augusto B. Leguía derrocó a Pardo y comenzó su largo gobierno, conocido como el Oncenio.",
+"4. Conclusión",
+"Perú fue un país neutral durante la mayor parte de la guerra y no participó en los combates. Su decisión más importante fue romper relaciones con Alemania en octubre de 1917, tras los hundimientos de barcos peruanos, y alinearse con Estados Unidos.",
+"La guerra benefició a su economía exportadora desde 1916, pero también mostró su dependencia de las potencias y dejó sin resolver el conflicto con Chile por Tacna y Arica.",
+"5. Fuentes bibliográficas (formato APA 7.ª edición)",
+"1. Office of the Historian. (s. f.). Papers relating to the foreign relations of the United States, 1917, Supplement 1, The World War (Vol. 1, documentos 498 y 538). Departamento de Estado de los Estados Unidos. <a href='https://history.state.gov/historicaldocuments/frus1917Supp01v01/d498' target='_blank' rel='noopener'>https://history.state.gov/historicaldocuments/frus1917Supp01v01/d498</a>",
+"2. Office of the Historian. (s. f.). Foreign relations of the United States: The Paris Peace Conference, 1919 (Vol. 1, cuestión de Tacna y Arica). Departamento de Estado de los Estados Unidos. <a href='https://history.state.gov/historicaldocuments/frus1919v01/ch8' target='_blank' rel='noopener'>https://history.state.gov/historicaldocuments/frus1919v01/ch8</a>",
+"3. Woodrow Wilson Presidential Library. (s. f.). Peru's action in regard to the war. <a href='https://presidentwilson.org/items/show/16616' target='_blank' rel='noopener'>https://presidentwilson.org/items/show/16616</a>",
+"4. The Spectator. (1917, 13 de octubre). Peru has broken off relations with Germany. <a href='https://archive.spectator.co.uk/article/13th-october-1917/2/peru-has-broken-off-relations-with-germany-after-f' target='_blank' rel='noopener'>https://archive.spectator.co.uk/article/13th-october-1917/2/peru-has-broken-off-relations-with-germany-after-f</a>",
+"5. Hokitika Guardian. (1917, 8 de octubre). [Noticia sobre la ruptura de relaciones de Perú con Alemania]. Papers Past, Biblioteca Nacional de Nueva Zelanda. <a href='https://paperspast.natlib.govt.nz/newspapers/HOG19171008.2.24' target='_blank' rel='noopener'>https://paperspast.natlib.govt.nz/newspapers/HOG19171008.2.24</a>",
+"6. Gisborne Times. (1918, 18 de junio). [Noticia sobre la incautación de barcos alemanes en el Callao]. Papers Past, Biblioteca Nacional de Nueva Zelanda. <a href='https://paperspast.natlib.govt.nz/newspapers/GIST19180618.2.36' target='_blank' rel='noopener'>https://paperspast.natlib.govt.nz/newspapers/GIST19180618.2.36</a>",
+"7. Evening Post. (1930, 26 de agosto). Romantic figure. Papers Past, Biblioteca Nacional de Nueva Zelanda. <a href='https://paperspast.natlib.govt.nz/newspapers/EP19300826.2.70.2' target='_blank' rel='noopener'>https://paperspast.natlib.govt.nz/newspapers/EP19300826.2.70.2</a>",
+"8. International Encyclopedia of the First World War. (s. f.). Pan-Americanism. Freie Universität Berlin. <a href='https://encyclopedia.1914-1918-online.net/article/pan-americanism/' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/pan-americanism/</a>",
+"9. Wikipedia. (s. f.). Manuel Prado Ugarteche y Aristocratic Republic (Peru) [fuente secundaria para los datos de 1914, 1915 y 1919]. <a href='https://www.wikipedia.com/wiki/Manuel_Prado' target='_blank' rel='noopener'>https://www.wikipedia.com/wiki/Manuel_Prado</a>"
+ ]},
+   brasil: {
+   1914: [
+"1. Contexto general",
+"En 1914 Brasil era la mayor economía agroexportadora de Sudamérica. Vendía sobre todo café y caucho, y dependía del crédito de bancos británicos y estadounidenses. Su gobierno, conocido como la República Velha, estaba dominado por las oligarquías cafetaleras de São Paulo y Minas Gerais. El presidente era Venceslau Brás (1914-1918) y el canciller, Lauro Müller.",
+"En política exterior, Estados Unidos había reemplazado a Gran Bretaña como principal socio comercial y diplomático de Brasil. Esa relación fue decisiva para su entrada en la guerra: cuando Washington declaró la guerra a Alemania en 1917, Brasil terminó siguiendo el mismo camino.",
+"2. Desarrollo de la guerra, año por año",
+"El 4 de agosto de 1914 Brasil declaró su neutralidad. Quería conservar sus mercados de café, caucho y carne, y no tenía intereses directos en el conflicto europeo.",
+"La guerra golpeó de inmediato su comercio exterior. El intercambio con Alemania se interrumpió y gran parte del café brasileño quedó retenido en puertos de las Potencias Centrales, un problema que reaparecería en 1919 durante las negociaciones de paz. Ese año el gobierno también tuvo que negociar una suspensión de pagos de su deuda externa."
+ ],
+   1915: [
+"Brasil siguió neutral. El 25 de mayo de 1915 firmó junto con Argentina y Chile el Pacto ABC, un acuerdo de cooperación entre las tres mayores potencias sudamericanas. El gobierno de Brás fortaleció así sus vínculos con ambos vecinos.",
+"La crisis de las exportaciones continuó durante el año, porque los barcos y los mercados europeos seguían alterados por la guerra."
+ ],
+   1916: [
+"En 1916 Brasil recuperó su comercio exterior y se benefició de la demanda aliada de productos de importancia para la guerra, como alimentos y materias primas. Mantuvo la neutralidad, pero su economía ya estaba ligada a los Aliados y a Estados Unidos."
+ ],
+   1917: [
+"1917 fue el año decisivo. Alemania reanudó la guerra submarina sin restricciones (enero) y Estados Unidos entró en la guerra (6 de abril). Tras el hundimiento del vapor brasileño Paraná, Brasil rompió relaciones con Alemania el 11 de abril. El gobierno incautó más de 40 barcos mercantes alemanes que estaban en sus puertos; las cifras varían según la fuente.",
+"El 3 de mayo renunció el canciller Lauro Müller, de ascendencia alemana y partidario de la neutralidad; lo reemplazó Nilo Peçanha. El 20 de mayo un submarino alemán torpedeó el vapor Tijuca frente a Francia, y el 22 de mayo fue atacado el Lapa. El 18 de octubre fue hundido el Macau y su capitán fue tomado prisionero.",
+"El 26 de octubre de 1917 Brasil declaró la guerra al Imperio alemán, con limitado apoyo popular. El 2 de noviembre fueron hundidos los vapores Acari y Guaíba. La declaración de guerra también sirvió al gobierno para decretar estado de emergencia y reprimir a la oposición tras la huelga general de ese año.",
+"En diciembre, tras la conferencia interaliada de París, Brasil ofreció ayuda naval, aviadores y médicos a los Aliados."
+ ],
+   1918: [
+"Brasil organizó la División Naval en Operaciones de Guerra (DNOG), formada por ocho buques, para unirse a las fuerzas británicas en el Atlántico. La flota zarpó de Río de Janeiro el 1 de agosto de 1918 y llegó a Gibraltar el 10 de noviembre, un día antes del armisticio.",
+"La gripe española golpeó a la DNOG en la costa africana y causó una alta mortalidad entre sus tripulantes. También gran parte del personal médico brasileño enviado a Europa murió a causa de la epidemia.",
+"3. Consecuencias de la Primera Guerra Mundial",
+"Brasil fue el único país sudamericano que participó activamente en la guerra, aunque su aporte no fue decisivo en el campo de batalla:",
+"•\tParticipación militar: su contribución fue naval, sanitaria y simbólica, más que de combate.",
+"•\tLa Conferencia de París: el 2 de enero de 1919 Epitácio Pessoa zarpó a la Conferencia de Paz con la mayor delegación sudamericana. Brasil obtuvo el pago del café retenido en puertos alemanes y conservó los barcos mercantes alemanes incautados (45 según una fuente, 70 según otra).",
+"•\tPolítica exterior: fue miembro fundador de la Sociedad de Naciones y miembro no permanente de su Consejo.",
+"•\tEconomía: la guerra mejoró su situación financiera y fortaleció el vínculo con Estados Unidos.",
+"4. Conclusión",
+"Brasil pasó de la neutralidad a la guerra por los hundimientos de sus barcos y por su alineamiento con Estados Unidos. Su aporte militar fue limitado, pero obtuvo prestigio diplomático y ventajas económicas.",
+"Su participación demostró que los países sudamericanos podían intervenir en un conflicto europeo, aunque con costos políticos internos, como la represión de la oposición durante el estado de emergencia de 1917.",
+"5. Fuentes bibliográficas (formato APA 7.ª edición)",
+"1. International Encyclopedia of the First World War. (s. f.). Brazil. Freie Universität Berlin. <a href='https://encyclopedia.1914-1918-online.net/article/brazil/' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/brazil/</a>",
+"2. International Encyclopedia of the First World War. (s. f.). Pessoa, Epitácio. Freie Universität Berlin. <a href='https://encyclopedia.1914-1918-online.net/article/pessoa_epitacio' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/pessoa_epitacio</a>",
+"3. International Encyclopedia of the First World War. (s. f.). Brazilian Naval Division for War Operations (DNOG). Freie Universität Berlin. <a href='https://encyclopedia.1914-1918-online.net/article/brazilian_naval_division_for_war_operations_dnog/' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/brazilian_naval_division_for_war_operations_dnog/</a>",
+"4. Revista Brasileira de Política Internacional. (s. f.). Coffee, ships, and peace: Brazilian and US diplomacy at the 1919 Paris Peace Conference. SciELO. <a href='https://www.scielo.br/j/rbpi/a/LBc5BNvQt3wrdZgk9bR3dVz/' target='_blank' rel='noopener'>https://www.scielo.br/j/rbpi/a/LBc5BNvQt3wrdZgk9bR3dVz/</a>",
+"5. Almeida, P. R. (s. f.). Brasil y la Conferencia de Paz de 1919 [artículo]. Superior Tribunal de Justicia de Brasil. <a href='https://bdjur.stj.jus.br/jspui/bitstream/2011/175319/brazil_1919_peace_almeida.pdf' target='_blank' rel='noopener'>https://bdjur.stj.jus.br/jspui/bitstream/2011/175319/brazil_1919_peace_almeida.pdf</a>",
+"6. International Encyclopedia of the First World War. (s. f.). Pan-Americanism. Freie Universität Berlin. <a href='https://encyclopedia.1914-1918-online.net/article/pan-americanism/' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/pan-americanism/</a>",
+"7. Wikipedia. (s. f.). Brazil during World War I [fuente secundaria para fechas de hundimientos y de la renuncia de Müller]. <a href='https://www.doc.surf/wiki/brazil-during-world-war-i' target='_blank' rel='noopener'>https://www.doc.surf/wiki/brazil-during-world-war-i</a>"
+ ]},
+argentina: {
+   1914: [
+"1. Contexto general",
+"Argentina era en 1914 uno de los países más ricos de América Latina. Su economía agroexportadora (trigo, carne) estaba muy ligada a Gran Bretaña, y casi el 30 % de su población eran inmigrantes, muchos de ellos italianos, españoles y alemanes. Esa mezcla dividió a la opinión pública entre quienes simpatizaban con los Aliados y quienes defendían la neutralidad.",
+"Argentina disputaba además a Estados Unidos el liderazgo de la región y desconfiaba del panamericanismo. Su neutralidad fue, en buena parte, una forma de afirmar su soberanía frente a Washington.",
+"2. Desarrollo de la guerra, año por año",
+"Al estallar la guerra, el vicepresidente Victorino de la Plaza ejercía el gobierno, porque el presidente titular, Roque Sáenz Peña, había delegado el mando por su enfermedad (murió el 9 de agosto de 1914). De la Plaza decretó una «estricta neutralidad».",
+"La guerra provocó medidas de emergencia y una fuerte contracción económica. Una tesis universitaria registra una caída del PIB de alrededor de 10 % en 1914, una cifra que conviene contrastar con otras fuentes."
+ ],
+   1915: [
+"Argentina continuó neutral. El 25 de mayo de 1915 firmó con Brasil y Chile el Pacto ABC, un acuerdo de cooperación entre las tres mayores potencias sudamericanas. Ese año la economía se mantuvo estancada."
+ ],
+   1916: [
+"Desde 1916 el gobierno impuso controles para reservar parte de las exportaciones al consumo de los Aliados, aunque sin entrar en la guerra. El 12 de octubre de 1916 terminó el mandato de De la Plaza y asumió Hipólito Yrigoyen, de la Unión Cívica Radical, que gobernó hasta 1922. Yrigoyen conservó la neutralidad."
+ ],
+   1917: [
+"En 1917 submarinos alemanes hundieron tres buques argentinos. En septiembre, Estados Unidos difundió los telegramas del encargado de negocios alemán, conde Karl von Luxburg, que recomendaba hundir los buques argentinos «sin dejar rastro». El escándalo causó indignación pública.",
+"El Senado votó el 20 de septiembre romper relaciones con Alemania y la Cámara de Diputados lo hizo el 25. Luxburg fue declarado persona non grata. Sin embargo, Yrigoyen se negó a ejecutar la medida y el 17 de diciembre reiteró su decisión de no romper relaciones.",
+"Yrigoyen promovió una posición común de los países latinoamericanos basada en el panhispanismo, como alternativa al panamericanismo de Estados Unidos, y propuso un congreso de países neutrales. Perú rechazó asistir a ese congreso.",
+"La economía sufrió: el desempleo en Buenos Aires superó el 19 % y los alimentos subieron cerca de un 50 % durante la guerra."
+ ],
+   1918: [
+"Argentina terminó la guerra como neutral, con comercio preferente con los Aliados. Los radicales ganaron las elecciones legislativas y, según la prensa de la época, Yrigoyen rechazó una invitación del presidente Wilson a visitar Estados Unidos al terminar el conflicto.",
+"3. Consecuencias de la Primera Guerra Mundial",
+"•\tEconomía: la guerra produjo inflación, desempleo y conflictos sociales, pese a que las exportaciones de alimentos continuaron.",
+"•\tSemana Trágica: entre el 7 y el 17 de enero de 1919, la represión de una huelga en Buenos Aires dejó más de un centenar de muertos, según una de las fuentes. Otras estimaciones son mayores.",
+"•\tPolítica exterior: Argentina se consolidó como el principal país neutral de América Latina y mantuvo su independencia frente a Estados Unidos.",
+"4. Conclusión",
+"Argentina fue el gran neutral latinoamericano. A pesar de los hundimientos de buques y del escándalo Luxburg, Yrigoyen mantuvo la neutralidad como afirmación de soberanía.",
+"La guerra fortaleció sus exportaciones, pero también agravó el desempleo y la inflación, y esas tensiones sociales estallaron en 1919.",
+"5. Fuentes bibliográficas (formato APA 7.ª edición)",
+"1. International Encyclopedia of the First World War. (s. f.). Yrigoyen, Hipólito. Freie Universität Berlin. <a href='https://encyclopedia.1914-1918-online.net/article/yrigoyen-hipolito/' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/yrigoyen-hipolito/</a>",
+"2. International Encyclopedia of the First World War. (s. f.). Luxburg affair. Freie Universität Berlin. <a href='https://encyclopedia.1914-1918-online.net/article/luxburg_affair' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/luxburg_affair</a>",
+"3. Alén Lascano, L. C. (s. f.). El principismo argentino ante la Primera Guerra Mundial. Res Gesta, 37. Pontificia Universidad Católica Argentina. <a href='https://e-revistas.uca.edu.ar/index.php/RGES/article/download/4515/4452/16105' target='_blank' rel='noopener'>https://e-revistas.uca.edu.ar/index.php/RGES/article/download/4515/4452/16105</a>",
+"4. Gravil, R. (s. f.). Argentina and the First World War. Revista de História, 108. Universidade de São Paulo. <a href='https://revhistoria2.webhostusp.sti.usp.br/wp-content/uploads/revistas/108/A003N108.pdf' target='_blank' rel='noopener'>https://revhistoria2.webhostusp.sti.usp.br/wp-content/uploads/revistas/108/A003N108.pdf</a>",
+"5. Office of the Historian. (s. f.). Papers relating to the foreign relations of the United States, 1917, Supplement 1, The World War (Vol. 1). Departamento de Estado de los Estados Unidos. <a href='https://history.state.gov/historicaldocuments/frus1917Supp01v01/papers-countries' target='_blank' rel='noopener'>https://history.state.gov/historicaldocuments/frus1917Supp01v01/papers-countries</a>",
+"6. Encyclopedia.com. (s. f.). Tragic Week. Encyclopedia of Latin American History and Culture. <a href='https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/tragic-week' target='_blank' rel='noopener'>https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/tragic-week</a>",
+"7. Diario de Cuyo. (s. f.). Neutrales en la I Guerra. <a href='https://www.diariodecuyo.com.ar/noticias/neutrales-en-la-i-guerra-650781.html' target='_blank' rel='noopener'>https://www.diariodecuyo.com.ar/noticias/neutrales-en-la-i-guerra-650781.html</a>"
+ ]},
+australia: {
+   1914: [
+"1. Contexto general",
+"En 1914 Australia era un dominio del Imperio Británico, con unos cinco millones de habitantes y una política exterior que dependía de Londres. Su preocupación estratégica era doble: temía la presencia alemana en el Pacífico, que incluía colonias cercanas como Nueva Guinea alemana, y, a más largo plazo, el ascenso de Japón, en medio de la política conocida como «Australia blanca».",
+"Esa preocupación explica que el gobierno australiano tuviera objetivos de guerra propios, y que después de la guerra buscara conservar las colonias alemanas del Pacífico Sur. El primer ministro Billy Hughes (desde octubre de 1915) fue su principal defensor.",
+"2. Desarrollo de la guerra, año por año",
+"El 5 de agosto de 1914 Australia declaró la guerra junto al Reino Unido. Ese mismo mes Gran Bretaña pidió que Australia destruyera las estaciones de radio alemanas del Pacífico, que servían a la flota alemana de Asia Oriental. El 19 de agosto zarpó de Sídney la Fuerza Expedicionaria Naval y Militar Australiana (AN&MEF), que ocupó Nueva Guinea alemana entre el 11 y el 17 de septiembre.",
+"El 23 de agosto Japón entró en la guerra del lado aliado. Australia había planeado ocupar las islas alemanas del norte del Pacífico, pero Japón se adelantó y las ocupó entre septiembre y octubre. El 9 de septiembre fue ocupada Nauru, el 22 de septiembre la flota alemana bombardeó Papeete y el 9 de octubre fue capturado el yate del gobernador alemán, el Komet.",
+"El 1 de noviembre zarpó de Albany el primer convoy del Cuerpo Expedicionario Imperial Australiano (AIF) rumbo a Egipto. A fines de año más de 52.000 australianos se habían enlistado como voluntarios."
+ ],
+   1915: [
+"El 25 de abril de 1915 las tropas australianas y neozelandesas (ANZAC) desembarcaron en Galípoli, en un intento aliado de sacar al Imperio otomano de la guerra. Más de 50.000 australianos sirvieron en esa campaña, que terminó en un fracaso. El día se conmemora hasta hoy como el Día de ANZAC.",
+"El 27 de octubre de 1915 Billy Hughes se convirtió en primer ministro, tras la renuncia de Andrew Fisher."
+ ],
+   1916: [
+"En 1916 el AIF se reorganizó y pasó al frente occidental. Su primera gran acción fue la batalla de Fromelles (19-20 de julio), en la que murieron o fueron heridos unos 5.500 australianos en una sola noche. Más tarde participó en la batalla del Somme.",
+"Ese año Hughes viajó a Londres, donde defendió los objetivos de guerra australianos. De regreso intentó imponer el servicio militar obligatorio por referéndum, pero el 28 de octubre de 1916 los australianos lo rechazaron. En noviembre fue expulsado del Partido Laborista y formó un gobierno con los liberales."
+ ],
+   1917: [
+"1917 fue el peor año del AIF. Las batallas de Bullecourt, Messines y Passchendaele dejaron más de 76.000 muertos y heridos.",
+"En el plano geopolítico, el Reino Unido llegó a un acuerdo con Japón que reconoció los reclamos japoneses al norte del Ecuador y los británicos al sur. Australia y Nueva Zelanda fueron consultadas y lo aceptaron. El 20 de diciembre de 1917 un segundo referéndum rechazó otra vez el servicio obligatorio."
+ ],
+   1918: [
+"En mayo de 1918 John Monash asumió el mando del Cuerpo Australiano. Sus tropas participaron en la ofensiva de los Cien Días: Le Hamel (4 de julio), Amiens (8 de agosto), la ruptura de la Línea Hindenburg (29 de septiembre) y Montbrehain (5 de octubre), última acción australiana.",
+"En agosto Hughes viajó a Londres vía Estados Unidos, donde chocó con Wilson por los Catorce Puntos. El 11 de noviembre se firmó el armisticio.",
+"3. Consecuencias de la Primera Guerra Mundial",
+"•\tPérdidas humanas: de unos 416.000 enlistados, murieron más de 60.000 y unos 156.000 fueron heridos, gaseados o capturados.",
+"•\tRepresentación propia: en la Conferencia de París de 1919 Australia estuvo representada de forma independiente por primera vez. Hughes dijo hablar en nombre de los 60.000 muertos.",
+"•\tMandatos: Australia obtuvo el mandato sobre Nueva Guinea alemana y las islas cercanas; Nueva Zelanda sobre Samoa Occidental; y Japón sobre las islas alemanas al norte del Ecuador.",
+"•\tIgualdad racial: Hughes bloqueó la cláusula de igualdad racial que Japón quería incluir en el Pacto de la Sociedad de Naciones.",
+"4. Conclusión",
+"Australia entró en la guerra como un dominio leal a Gran Bretaña y salió de ella con voz propia en la diplomacia internacional. Su aporte militar fue grande en relación con su población, pero dividió al país por el servicio obligatorio.",
+"La guerra también ligó su seguridad a la del Pacífico: ocupó Nueva Guinea alemana y logró conservar el mandato de ese territorio, aunque frente a un Japón que se había expandido por el norte.",
+"5. Fuentes bibliográficas (formato APA 7.ª edición)",
+"1. Australian War Memorial. (s. f.). First World War 1914-18. <a href='https://www.awm.gov.au/articles/atwar/first-world-war' target='_blank' rel='noopener'>https://www.awm.gov.au/articles/atwar/first-world-war</a>",
+"2. Department of Veterans' Affairs. (s. f.). Overview of Australia's involvement in the First World War. Gobierno de Australia. <a href='https://www.dva.gov.au/media/media-backgrounders/overview-australias-involvement-first-world-war' target='_blank' rel='noopener'>https://www.dva.gov.au/media/media-backgrounders/overview-australias-involvement-first-world-war</a>",
+"3. Department of Veterans' Affairs. (s. f.). After the war. Gobierno de Australia. <a href='https://dva.gov.au/media/media-backgrounders/after-war' target='_blank' rel='noopener'>https://dva.gov.au/media/media-backgrounders/after-war</a>",
+"4. Anzac Portal. (s. f.). Royal Australian Navy in World War I. Gobierno de Australia. <a href='https://anzacportal.dva.gov.au/node/2633' target='_blank' rel='noopener'>https://anzacportal.dva.gov.au/node/2633</a>",
+"5. Anzac Portal. (s. f.). Capture of German outposts in the Pacific 1914. Gobierno de Australia. <a href='https://anzacportal.dva.gov.au/wars-and-missions/ww1/where-australians-served/captured-german-outposts' target='_blank' rel='noopener'>https://anzacportal.dva.gov.au/wars-and-missions/ww1/where-australians-served/captured-german-outposts</a>",
+"6. National Museum of Australia. (s. f.). Conscription referendums. <a href='https://aws-digital-classroom.nma.gov.au/defining-moments/conscription-referendums' target='_blank' rel='noopener'>https://aws-digital-classroom.nma.gov.au/defining-moments/conscription-referendums</a>",
+"7. International Encyclopedia of the First World War. (s. f.). War aims and war aims discussions (Australia). Freie Universität Berlin. <a href='https://encyclopedia.1914-1918-online.net/article/war-aims-and-war-aims-discussions-australia/' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/war-aims-and-war-aims-discussions-australia/</a>",
+"8. Ministry for Culture and Heritage. (s. f.). Australia facts. NZHistory. <a href='https://nzhistory.govt.nz/war/australia-facts' target='_blank' rel='noopener'>https://nzhistory.govt.nz/war/australia-facts</a>",
+"9. Naval Historical Society of Australia. (s. f.). Royal Australian naval operations 1914. <a href='https://navyhistory.au/royal-australian-naval-operations-1914/' target='_blank' rel='noopener'>https://navyhistory.au/royal-australian-naval-operations-1914/</a>",
+"10. RealClearDefense. (2019, 25 de abril). 1919: The triumph of Billy Hughes. <a href='https://www.realcleardefense.com/articles/2019/04/25/1919_the_triumph_of_billy_hughes_114367.html' target='_blank' rel='noopener'>https://www.realcleardefense.com/articles/2019/04/25/1919_the_triumph_of_billy_hughes_114367.html</a>"
+ ]},
+   nuevazelanda: {
+   1914: [
+"1. Contexto general",
+"En 1914 Nueva Zelanda era un dominio del Imperio Británico con una prioridad estratégica clara: impedir que Alemania volviera a tener presencia en el Pacífico Sur. Su gobierno estaba encabezado por William Massey, del Partido Reformista, y entró en la guerra de forma automática junto al Reino Unido.",
+"Esa prioridad explica que Nueva Zelanda actuara muy pronto contra las colonias alemanas cercanas, en especial Samoa, y que más tarde se negara a devolverlas.",
+"2. Desarrollo de la guerra, año por año",
+"A pedido de Gran Bretaña, Nueva Zelanda ocupó Samoa Alemana el 30 de agosto de 1914, sin resistencia. La isla era clave por su estación de radio, que servía a la flota alemana de Asia Oriental.",
+"Entre el 16 de octubre y el 3 de noviembre el cuerpo expedicionario neozelandés partió rumbo a Egipto, en un convoy junto al australiano."
+ ],
+   1915: [
+"El 25 de abril de 1915 los soldados de Nueva Zelanda, junto a los australianos (ANZAC), desembarcaron en Galípoli. La campaña costó casi 7.500 bajas neozelandesas, incluidos 2.779 muertos. Las tropas fueron evacuadas entre el 15 y el 20 de diciembre.",
+"En agosto de 1915 se formó un gobierno de coalición de guerra, encabezado por Massey, que reunió al Partido Reformista y al Liberal."
+ ],
+   1916: [
+"En 1916 se formó la División Neozelandesa, que partió al frente occidental. Entre el 15 y el 22 de septiembre combatió en el Somme, donde sufrió 7.048 bajas en 23 días. Otra página oficial indica cerca de 8.000, de modo que la cifra varía según la fuente.",
+"El 1 de agosto de 1916 entró en vigor la ley de servicio militar obligatorio. El primer sorteo se realizó el 16 de noviembre."
+ ],
+   1917: [
+"El 7 de junio la división participó en la batalla de Messines. El 12 de octubre atacó Bellevue Spur, en Passchendaele, donde sufrió unas 3.700 bajas y cerca de 843 muertos, uno de los días más sangrientos de su historia militar.",
+"El 27 de diciembre Massey advirtió que Alemania buscaría recuperar sus colonias del Pacífico y que eso no debía permitirse. Japón conservaría las islas que había ocupado."
+ ],
+   1918: [
+"En marzo de 1918 la división regresó al Somme y luchó hasta el final de la guerra. Su última acción fue la toma de Le Quesnoy, en noviembre. La gripe española golpeó a Nueva Zelanda antes que a Australia y retrasó el viaje de Massey a París.",
+"3. Consecuencias de la Primera Guerra Mundial",
+"•\tPérdidas humanas: unos 18.000 neozelandeses murieron y 41.317 resultaron heridos. Uno de cada cuatro hombres de 20 a 45 años murió o fue herido.",
+"•\tSamoa Occidental: en la Conferencia de París Massey dijo que Nueva Zelanda nunca devolvería Samoa a Alemania. Obtuvo el mandato sobre ese territorio.",
+"•\tNauru: los fosfatos de esta isla se repartieron entre el Reino Unido, Australia y Nueva Zelanda.",
+"•\tIdentidad nacional: Galípoli y el Somme fortalecieron un sentimiento nacional propio dentro del Imperio.",
+"4. Conclusión",
+"Nueva Zelanda fue uno de los países que más sacrificios hizo en proporción a su población. Su aporte militar fue grande, pero su objetivo político fue concreto: mantener a Alemania fuera del Pacífico Sur y quedarse con Samoa.",
+"5. Fuentes bibliográficas (formato APA 7.ª edición)",
+"1. Ministry for Culture and Heritage. (s. f.). First World War timeline. NZHistory. <a href='https://nzhistory.govt.nz/page/first-world-war-timeline' target='_blank' rel='noopener'>https://nzhistory.govt.nz/page/first-world-war-timeline</a>",
+"2. Ministry for Culture and Heritage. (s. f.). New Zealand facts. NZHistory. <a href='https://nzhistory.govt.nz/node/14393' target='_blank' rel='noopener'>https://nzhistory.govt.nz/node/14393</a>",
+"3. Royal New Zealand Navy Museum. (s. f.). New Zealand's capture of German Samoa, August 1914. <a href='https://navymuseum.co.nz/new-zealand-s-capture-of-german-samoa-august-1914/' target='_blank' rel='noopener'>https://navymuseum.co.nz/new-zealand-s-capture-of-german-samoa-august-1914/</a>",
+"4. Anzac Portal. (s. f.). Capture of German outposts in the Pacific 1914. Gobierno de Australia. <a href='https://anzacportal.dva.gov.au/wars-and-missions/ww1/where-australians-served/captured-german-outposts' target='_blank' rel='noopener'>https://anzacportal.dva.gov.au/wars-and-missions/ww1/where-australians-served/captured-german-outposts</a>",
+"5. Dominion. (1917, 27 de diciembre). [Declaración de Massey sobre las colonias del Pacífico]. Papers Past, Biblioteca Nacional de Nueva Zelanda. <a href='https://dynamic-rsnz.natlib.govt.nz/newspapers/DOM19171227.2.16' target='_blank' rel='noopener'>https://dynamic-rsnz.natlib.govt.nz/newspapers/DOM19171227.2.16</a>",
+"6. Otago Daily Times. (1919, 28 de enero). The Pacific Islands. Papers Past, Biblioteca Nacional de Nueva Zelanda. <a href='https://paperspast.natlib.govt.nz/newspapers/ODT19190128.2.36' target='_blank' rel='noopener'>https://paperspast.natlib.govt.nz/newspapers/ODT19190128.2.36</a>",
+"7. Watson, J. (s. f.). William Massey [reseña de libro]. Akademika. <a href='https://www.akademika.no/william-massey/watson-james/9781905791835' target='_blank' rel='noopener'>https://www.akademika.no/william-massey/watson-james/9781905791835</a>"
+ ]},
+   png_br: {
+   1914: [
+"1. Contexto general",
+"Tras la Ley de Papúa de 1905, Australia asumió la administración de la antigua Nueva Guinea británica, que desde 1906 pasó a llamarse Territorio de Papúa. Hubert Murray fue su vicegobernador de 1908 a 1940. Era un territorio pequeño, de economía basada en plantaciones, con una población indígena mucho mayor que la europea.",
+"Papúa limitaba al norte con la colonia alemana de Nueva Guinea, de modo que la guerra convirtió una frontera colonial entre potencias europeas en una frontera de guerra. Advertencia de las fuentes: la documentación específica sobre Papúa durante 1914-1918 es escasa, por lo que este texto se limita a lo que las fuentes permiten afirmar.",
+"2. Desarrollo de la guerra, año por año",
+"Papúa quedó bajo la sombra de la expedición australiana que ocupó Nueva Guinea alemana en septiembre de 1914. La guerra desvió recursos y personal de Australia hacia Europa, y australianos que vivían en Papúa se alistaron como voluntarios."
+ ],
+   1915: [
+"Papúa continuó bajo administración australiana y el vicegobernador Murray siguió al frente del territorio. Las decisiones principales de la guerra las tomaba Australia, cuyas prioridades en 1915 eran Galípoli y el envío de tropas a Europa."
+ ],
+   1916: [
+"Como territorio australiano, Papúa quedó dentro del debate sobre la guerra que vivía Australia, incluido el referéndum de octubre de 1916 sobre el servicio militar obligatorio. No hay registro de unidades papúes combatiendo en la guerra."
+ ],
+   1917: [
+"En 1917 el acuerdo entre el Reino Unido y Japón sobre las colonias alemanas del Pacífico (Japón al norte del Ecuador, Gran Bretaña al sur) confirmó que Australia podía esperar conservar la antigua Nueva Guinea alemana."
+ ],
+   1918: [
+"La guerra terminó sin cambios internos importantes en Papúa. Tras el armisticio, la frontera con la antigua colonia alemana dejó de ser una frontera entre potencias.",
+"3. Consecuencias de la Primera Guerra Mundial",
+"•\tAdministración: Australia recibió el mandato de la antigua Nueva Guinea alemana y administró los dos territorios por separado hasta después de la Segunda Guerra Mundial.",
+"•\tParticipación militar: el Batallón de Infantería Papú se creó recién en 1940, durante la Segunda Guerra Mundial.",
+"4. Conclusión",
+"Papúa no fue escenario de combates ni aportó unidades militares conocidas a la Primera Guerra Mundial. Su importancia fue indirecta: era el territorio vecino de la colonia alemana y quedó dentro de la política de seguridad australiana en el Pacífico.",
+"5. Fuentes bibliográficas (formato APA 7.ª edición)",
+"1. ANU Press. (s. f.). Capítulo 2 [historia de Papúa y Nueva Guinea]. Universidad Nacional de Australia. <a href='https://press-files.anu.edu.au/downloads/press/n6294/html/ch02.xhtml' target='_blank' rel='noopener'>https://press-files.anu.edu.au/downloads/press/n6294/html/ch02.xhtml</a>",
+"2. Anzac Portal. (s. f.). Australian Naval and Military Expeditionary Force. Gobierno de Australia. <a href='https://anzacportal.dva.gov.au/wars-and-missions/ww1/military-organisation/anmef' target='_blank' rel='noopener'>https://anzacportal.dva.gov.au/wars-and-missions/ww1/military-organisation/anmef</a>",
+"3. National Museum of Australia. (s. f.). Conscription referendums. <a href='https://aws-digital-classroom.nma.gov.au/defining-moments/conscription-referendums' target='_blank' rel='noopener'>https://aws-digital-classroom.nma.gov.au/defining-moments/conscription-referendums</a>",
+"4. Wikipedia. (s. f.). Papuan Infantry Battalion [fuente secundaria]. <a href='https://en.wikipedia.com/wiki/Papuan_Infantry_Battalion' target='_blank' rel='noopener'>https://en.wikipedia.com/wiki/Papuan_Infantry_Battalion</a>"
+ ]},
+   png_al: {
+   1914: [
+"1. Contexto general",
+"Alemania controlaba directamente la Nueva Guinea alemana desde 1899. El territorio incluía Kaiser-Wilhelmsland y el Archipiélago de Bismarck, con capital en Rabaul, y formaba parte de los protectorados alemanes del Pacífico, junto con las Carolinas, las Marianas, las Marshall y Nauru. Su economía se basaba en las plantaciones de coco (copra).",
+"Rabaul era valiosa para Alemania porque tenía abundante carbón y dos estaciones de radio, Bitapaka y Herbertshöhe, que servían a la flota alemana de Asia Oriental. Pero la colonia tenía poca defensa propia, y una fuente señala que Alemania no tenía planes formales para defenderla.",
+"2. Desarrollo de la guerra, año por año",
+"El 6 de agosto de 1914 Gran Bretaña pidió a Australia destruir las estaciones de radio alemanas del Pacífico. El 7 de septiembre zarpó hacia Nueva Guinea la Fuerza Expedicionaria Naval y Militar Australiana (AN&MEF). El 9 de septiembre fue ocupada Nauru.",
+"El 11 de septiembre se libró el combate de Bita Paka, en torno a la estación de radio, donde murieron siete australianos, un alemán y treinta melanesios. Entre el 14 y el 17 de septiembre hubo un asedio en Toma. El 17 de septiembre se firmaron los términos de rendición y el 21 se rindieron las tropas restantes. Madang fue ocupada el 24 de septiembre.",
+"El gobernador interino, Eduard Haber, fue deportado a Australia bajo palabra el 17 de octubre. Los civiles alemanes pudieron quedarse en la colonia si juraban neutralidad. En el norte del Pacífico, Japón ocupó entre septiembre y octubre las islas alemanas de Micronesia."
+ ],
+   1915: [
+"Desde 1915 la colonia quedó bajo administración militar australiana, que se mantendría hasta 1921. La policía nativa alemana pasó a mando australiano y los colonos alemanes que habían jurado neutralidad continuaron en sus plantaciones."
+ ],
+   1916: [
+"Durante 1916 el territorio continuó ocupado por Australia y aislado de Alemania. Ya no tenía importancia militar, porque la flota alemana de Asia Oriental había sido destruida o dispersada a fines de 1914."
+ ],
+   1917: [
+"En 1917 el acuerdo entre el Reino Unido y Japón sobre las colonias alemanas del Pacífico dejó claro que Nueva Guinea alemana pasaría a Australia, y no a Alemania. El territorio siguió bajo ocupación militar."
+ ],
+   1918: [
+"La colonia permaneció bajo administración militar australiana hasta el final de la guerra. Una fuente secundaria señala que las plantaciones europeas ganaron peso frente a los productores locales después de 1914.",
+"3. Consecuencias de la Primera Guerra Mundial",
+"•\tTratado de paz: Alemania renunció a sus colonias en el Tratado de Versalles (1919).",
+"•\tMandato: Australia obtuvo el mandato sobre el territorio, que la prensa de la época llamó el mandato por «999 años».",
+"•\tExpropiación: desde 1921 las plantaciones alemanas fueron expropiadas.",
+"4. Conclusión",
+"Nueva Guinea alemana cayó en pocas semanas, en septiembre de 1914, porque estaba aislada y casi sin defensa. Su valor para Alemania era sobre todo la estación de radio y el carbón de Rabaul.",
+"Aunque la colonia no pesó en el resultado de la guerra, su ocupación mostró el interés de Australia por controlar el Pacífico Sur y fue el origen del futuro Territorio de Nueva Guinea.",
+"5. Fuentes bibliográficas (formato APA 7.ª edición)",
+"1. Naval Historical Society of Australia. (s. f.). Battle of Bita Paka, 11 September 1914. <a href='https://navyhistory.au/occasional-paper-15-battle-of-bita-paka-11-september-1914-2/' target='_blank' rel='noopener'>https://navyhistory.au/occasional-paper-15-battle-of-bita-paka-11-september-1914-2/</a>",
+"2. Anzac Portal. (s. f.). Australian Naval and Military Expeditionary Force. Gobierno de Australia. <a href='https://anzacportal.dva.gov.au/wars-and-missions/ww1/military-organisation/anmef' target='_blank' rel='noopener'>https://anzacportal.dva.gov.au/wars-and-missions/ww1/military-organisation/anmef</a>",
+"3. Anzac Portal. (s. f.). Capture of German outposts in the Pacific 1914. Gobierno de Australia. <a href='https://anzacportal.dva.gov.au/wars-and-missions/ww1/where-australians-served/captured-german-outposts' target='_blank' rel='noopener'>https://anzacportal.dva.gov.au/wars-and-missions/ww1/where-australians-served/captured-german-outposts</a>",
+"4. Biblioteca Estatal de Nueva Gales del Sur. (s. f.). General William Holmes papers regarding capitulation, September-October 1914. <a href='https://transcripts.sl.nsw.gov.au/page/item-03-general-william-holmes-papers-regarding-capitulation-september-october-1914-page-108' target='_blank' rel='noopener'>https://transcripts.sl.nsw.gov.au/page/item-03-general-william-holmes-papers-regarding-capitulation-september-october-1914-page-108</a>",
+"5. Business News. (s. f.). [Nota sobre Rabaul y el escuadrón alemán de Asia Oriental]. <a href='https://www.businessnews.com.au/node/62458' target='_blank' rel='noopener'>https://www.businessnews.com.au/node/62458</a>",
+"6. OMNIATLAS. (s. f.). Asia Pacific 1914: Conquest of the German Pacific. <a href='https://test.omniatlas.com/maps/asia-pacific/19141010/' target='_blank' rel='noopener'>https://test.omniatlas.com/maps/asia-pacific/19141010/</a>",
+"7. RealClearDefense. (2019, 25 de abril). 1919: The triumph of Billy Hughes. <a href='https://www.realcleardefense.com/articles/2019/04/25/1919_the_triumph_of_billy_hughes_114367.html' target='_blank' rel='noopener'>https://www.realcleardefense.com/articles/2019/04/25/1919_the_triumph_of_billy_hughes_114367.html</a>",
+"8. Wikipedia. (s. f.). Territory of New Guinea [fuente secundaria para la administración militar y la expropiación de 1921]. <a href='https://en.wikipedia.org/wiki/Territory_of_New_Guinea' target='_blank' rel='noopener'>https://en.wikipedia.org/wiki/Territory_of_New_Guinea</a>"
+ ]},
 };
 const YEAR_DETAIL={
 1914:[
@@ -1934,24 +2213,24 @@ mexico:{n:"México",cont:"América",l:1,c:["Mexico"],x:"mexico",t:[
    "Ataque de Pancho Villa e intervención estadounidense",
    "Constitución mexicana y Telegrama Zimmermann",
    "Neutralidad, petróleo y presiones internacionales"]},
-peru:{n:"Perú",cont:"América",l:1,c:["Peru"],t:tl("Peru")},
-brasil:{n:"Brasil",cont:"América",l:1,c:["Brazil"],t:tl("Brazil")},
-argentina:{n:"Argentina",cont:"América",l:1,c:["Argentina"],t:tl("Argentina")},
+peru:{n:"Perú",cont:"América",l:1,c:["Peru"],x:"peru",t:tl("Peru")},
+brasil:{n:"Brasil",cont:"América",l:1,c:["Brazil"],x:"brasil",t:tl("Brazil")},
+argentina:{n:"Argentina",cont:"América",l:1,c:["Argentina"],x:"argentina",t:tl("Argentina")},
 /* ---- Oceanía ---- */
-australia:{n:"Australia británica",cont:"Oceanía",l:2,c:["Australia"],t:T3(
+australia:{n:"Australia británica",cont:"Oceanía",l:2,c:["Australia"],x:"australia",t:T3(
   "Entra en guerra con el Imperio británico. El ANZAC desembarca en Galípoli (1915) y luego combate en Francia; un referendo rechaza el servicio militar obligatorio (octubre de 1916).",
   "Combate en Passchendaele; un segundo referendo vuelve a rechazar el servicio militar obligatorio (diciembre).",
   "Participa en los Cien Días (Hamel, Amiens). Más de 60.000 australianos murieron en la guerra.")},
-nuevazelanda:{n:"Nueva Zelanda británica",cont:"Oceanía",l:1,c:["New Zealand"],t:T3(
+nuevazelanda:{n:"Nueva Zelanda británica",cont:"Oceanía",l:1,c:["New Zealand"],x:"nuevazelanda",t:T3(
   "Entra en guerra con el Imperio británico, ocupa Samoa Alemana (agosto de 1914) y sus tropas ANZAC combaten en Galípoli y el Somme.",
   "Sufre grandes bajas en Passchendaele (octubre).",
   "Participa en las batallas finales en Francia; unos 18.000 neozelandeses murieron en la guerra.")},
-png_br:{n:"Papúa Nueva Guinea británica",cont:"Oceanía",l:1,c:["Papua New Guinea"],t:T3(
+png_br:{n:"Papúa Nueva Guinea británica",cont:"Oceanía",l:1,c:["Papua New Guinea"],x:"png_br",t:T3(
   "Territorio de Papúa, administrado por Australia dentro del Imperio británico. Australia ocupa la vecina Nueva Guinea alemana en septiembre de 1914.",
   "Sigue bajo administración australiana y aporta trabajadores y recursos.",
   "Tras la guerra, Australia recibe el mandato sobre la antigua Nueva Guinea alemana y ambos territorios se administran juntos."),
   note:"La frontera con la parte alemana está dibujada de forma aproximada (cerca de los 8° de latitud sur)."},
-png_al:{n:"Papúa Nueva Guinea alemana",cont:"Oceanía",l:1,c:["Papua New Guinea"],t:T3(
+png_al:{n:"Papúa Nueva Guinea alemana",cont:"Oceanía",l:1,c:["Papua New Guinea"],x:"png_al",t:T3(
   "Colonia alemana (Kaiser-Wilhelmsland y archipiélago de Bismarck). Una fuerza australiana la ocupa en septiembre de 1914, tras breves combates en Bita Paka.",
   "Queda bajo ocupación militar australiana.",
   "En 1920 la Sociedad de Naciones concederá a Australia el mandato sobre el territorio."),
