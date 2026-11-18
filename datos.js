@@ -1703,7 +1703,7 @@ Russia : {
 "- Alemania avanzó hacia Francia, pero fue detenida en la Primera batalla del Marne en septiembre.",
 "- La derrota impidió una victoria rápida y llevó a una guerra prolongada en el frente occidental.",
 "- En el frente oriental, Alemania obtuvo una importante victoria sobre Rusia en Tannenberg."
-]
+],
    1915: [
 "- Alemania continuó combatiendo en dos grandes frentes:",
 "- Frente occidental contra Francia y Reino Unido.",
