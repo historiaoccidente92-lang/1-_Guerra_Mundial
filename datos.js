@@ -1513,9 +1513,240 @@ Russia : {
 ]},
    Austria : {
    1914: [
-"
-   
-"United Kingdom":X([
+"- Austria-Hungría estaba gobernada por el emperador Francisco José I.",
+"- El 28 de junio, Francisco Fernando y su esposa Sofía fueron asesinados en Sarajevo.",
+"- Austria-Hungría culpó políticamente a Serbia.",
+"- El 23 de julio presentó un ultimátum a Serbia.",
+"- 28 de julio: declaró la guerra a Serbia.",
+"- Intentó invadir Serbia, pero sufrió derrotas en Cer y Kolubara.",
+"- También combatió contra Rusia en el frente oriental."
+],
+   1915: [
+"- Continuó combatiendo contra Rusia.",
+"- Participó junto con Alemania en la Batalla de Gorlice-Tarnów, que obligó a los rusos a retroceder.",
+"- Italia entró en la guerra contra Austria-Hungría en mayo de 1915.",
+"- Comenzó la campaña en el frente italiano, especialmente en la región del río Isonzo y los Alpes."
+],
+   1916: [
+"- Murió el emperador Francisco José I.",
+"- Fue sucedido por Carlos I.",
+"- Carlos intentó negociar la paz y realizar reformas para conservar unido el imperio.",
+"- Austria-Hungría continuó combatiendo contra Italia y Rusia."
+],
+   1917: [
+"- Continuaron los combates contra Italia.",
+"- En octubre, las fuerzas austrohúngaras y alemanas obtuvieron una importante victoria contra Italia en la Batalla de Caporetto.",
+"- Italia tuvo que retirarse considerablemente."
+],
+   1918: [
+"- Austria-Hungría estaba gravemente debilitada.",
+"- En junio lanzó una ofensiva contra Italia en el río Piave, pero fue derrotada.",
+"- Aumentaron la escasez de alimentos, las huelgas y las rebeliones.",
+"- Los distintos pueblos del imperio comenzaron a exigir independencia.",
+"- 3 de noviembre: Austria-Hungría firmó un armisticio con los Aliados en Villa Giusti.",
+"- El imperio se desintegró.",
+"Consecuencias",
+"- Desapareció el Imperio austrohúngaro.",
+"- Surgieron nuevos Estados, entre ellos:",
+"- Austria.",
+"- Hungría.",
+"- Checoslovaquia.",
+"- Reino de los Serbios, Croatas y Eslovenos.",
+"- Austria y Hungría perdieron numerosos territorios.",
+"- Posteriormente se firmaron el Tratado de Saint-Germain (1919) y el Tratado de Trianon (1920).",
+"BIBLIOGRAFIA",
+"1) https://es.wikipedia.org/wiki/Imperio_austrohúngaro_durante_la_Primera_Guerra_Mundial"
+]},
+   Italy : {
+   1914 : [
+"- Italia pertenecía a la Triple Alianza junto con Alemania y Austria-Hungría.",
+"- Sin embargo, decidió permanecer neutral.",
+"- Consideró que Austria-Hungría había iniciado una guerra ofensiva y que la alianza no la obligaba a participar.",
+"- Además, Italia tenía conflictos territoriales con Austria-Hungría por Trentino, Trieste e Istria."
+],
+   1915: [
+"- Italia negoció con los Aliados.",
+"- 26 de abril: firmó el Tratado de Londres con Reino Unido, Francia y Rusia.",
+"- Los Aliados prometieron territorios a Italia a cambio de su entrada en la guerra.",
+"- 23 de mayo: Italia declaró la guerra a Austria-Hungría.",
+"- Se incorporó al bando aliado.",
+"- Comenzaron las ofensivas italianas en el frente del río Isonzo."
+],
+   1916: [
+"- Italia continuó realizando ofensivas en el río Isonzo.",
+"- Las batallas produjeron grandes pérdidas debido a las trincheras y al terreno montañoso.",
+"- Italia no consiguió una victoria decisiva."
+],
+   1917: [
+"- Continuaron las batallas del Isonzo.",
+"- En octubre ocurrió la Batalla de Caporetto.",
+"- Austria-Hungría y Alemania rompieron las líneas italianas.",
+"- Italia sufrió una retirada desorganizada y enormes pérdidas.",
+"- Luigi Cadorna fue reemplazado por Armando Díaz."
+],
+   1918: [
+"- En octubre Italia lanzó la Batalla de Vittorio Veneto.",
+"- Italia obtuvo una importante victoria sobre Austria-Hungría.",
+"- El ejército austrohúngaro quedó gravemente debilitado.",
+"- 3 de noviembre: se firmó el armisticio de Villa Giusti entre Italia y Austria-Hungría.",
+"Consecuencias",
+"- Italia estuvo entre los países vencedores.",
+"- Obtuvo Trentino, Tirol del Sur, Trieste e Istria.",
+"- Murieron aproximadamente 650 000 militares italianos.",
+"- El país quedó con grandes deudas.",
+"- Creció la inestabilidad política y social.",
+"- Surgió el sentimiento de “victoria mutilada”, porque muchos italianos consideraron que no recibieron todos los territorios que esperaban.",
+"BIBLIOGRAFIA",
+"1) International Encyclopedia of the First World War – Italy.",
+"https://sites.google.com/site/iguerramundial14/los-primeros-anos-1914---1916/j-la-participacion-de-italia"
+]},
+   belgica: {
+   1914: [
+"- Bélgica era neutral y no pertenecía a ninguno de los grandes bloques militares.",
+"- Su ubicación era estratégica porque se encontraba entre Francia, Alemania y el Reino Unido.",
+"- 4 de agosto: Alemania invadió Bélgica para utilizarla como ruta hacia Francia.",
+"- Alemania intentaba ejecutar el Plan Schlieffen.",
+"- El gobierno belga rechazó permitir el paso de las tropas alemanas.",
+"- El rey Alberto I permaneció junto a sus tropas.",
+"- Bélgica resistió en lugares como Lieja y Amberes.",
+"- En octubre, las tropas belgas se retiraron hacia el río Yser.",
+"- En la Batalla del Yser, los belgas lograron detener el avance alemán.",
+"- Aproximadamente el 90 % del territorio belga quedó bajo ocupación alemana.",
+"- La destrucción de Lovaina provocó una gran conmoción internacional."
+],
+   1915: [
+"- Gran parte de Bélgica continuó bajo ocupación alemana.",
+"- Alemania controló las actividades económicas y políticas.",
+"- Se requisaron alimentos, materias primas y maquinaria.",
+"- La población sufrió hambre y escasez.",
+"- Muchos civiles fueron detenidos, deportados o utilizados en trabajos forzados.",
+"- El ejército belga mantuvo una zona libre en el extremo occidental del país y continuó combatiendo junto a los Aliados."
+],
+   1916: [
+"- Continuó la ocupación alemana.",
+"- Bélgica siguió enfrentando escasez de alimentos y dificultades económicas.",
+"- Los Aliados continuaron utilizando el territorio belga y francés como escenario principal del frente occidental."
+],
+   1917: [
+"- Bélgica permaneció ocupada.",
+"- El ejército belga continuó colaborando con las fuerzas aliadas.",
+"- La población siguió sufriendo las consecuencias económicas y sociales de la ocupación."
+],
+   1918: [
+"- Los Aliados comenzaron grandes ofensivas contra Alemania.",
+"- En septiembre comenzó la ofensiva aliada de Flandes.",
+"- Las tropas belgas recuperaron territorios ocupados.",
+"- 11 de noviembre: Alemania firmó el armisticio.",
+"- Las tropas alemanas comenzaron a retirarse.",
+"- Bélgica recuperó su territorio y comenzó la reconstrucción.",
+"Consecuencias",
+"- Miles de soldados y civiles murieron.",
+"- Fábricas, minas, viviendas, carreteras y ferrocarriles fueron destruidos o dañados.",
+"- Cerca de 1,5 millones de belgas habían huido de sus hogares durante la invasión de 1914.",
+"- Bélgica recibió reparaciones de Alemania por los daños sufridos.",
+"BIBLIOGRAFIA",
+"1)  International Encyclopedia of the First World War – Belgium. https://encyclopedia.1914-1918-online.net/article/warfare-1914-1918-belgium/"
+]},
+   Kingdom: {
+   1914: [
+"- El 28 de junio fue asesinado Francisco Fernando.",
+"- Alemania invadió Bélgica.",
+"- 4 de agosto: el Reino Unido declaró la guerra a Alemania debido a la invasión de Bélgica.",
+"- Se unió a Francia y Rusia contra las Potencias Centrales.",
+"- Las tropas británicas combatieron principalmente en Francia y Bélgica.",
+"- Participaron en la Primera batalla de Ypres, donde ayudaron a detener el avance alemán."
+],
+   1915: [
+"- Continuó la guerra en el frente occidental.",
+"- El Reino Unido mantuvo el bloqueo naval contra Alemania.",
+"- La marina británica buscó impedir la llegada de alimentos, materias primas y suministros a Alemania.",
+"- También continuó movilizando recursos y tropas de su imperio."
+],
+   1916: [
+"- Participó en la Batalla del Somme junto con Francia.",
+"- Fue una de las ofensivas más sangrientas de la guerra.",
+"- El Reino Unido participó en la Batalla de Jutlandia, el mayor enfrentamiento naval entre las flotas británica y alemana.",
+"- Se introdujo el servicio militar obligatorio.",
+"- En el Somme, los británicos utilizaron tanques por primera vez en combate."
+],
+   1917: [
+"- Continuó combatiendo en el frente occidental.",
+"- Participó en la Batalla de Passchendaele, también conocida como Tercera batalla de Ypres.",
+"- La batalla estuvo marcada por el barro, el mal clima y las enormes pérdidas.",
+"- Reino Unido también participó en campañas contra el Imperio otomano en Oriente Medio.",
+"- Estados Unidos entró en la guerra del lado de los Aliados."
+],
+   1918: [
+"- Las fuerzas británicas participaron en las grandes ofensivas aliadas.",
+"- Los Aliados hicieron retroceder progresivamente al ejército alemán.",
+"- 11 de noviembre: Alemania firmó el armisticio.",
+"- Finalizaron los combates de la Primera Guerra Mundial.",
+"Consecuencias",
+"- Reino Unido fue uno de los países vencedores.",
+"- Sufrió cientos de miles de muertos y heridos.",
+"- Terminó la guerra con enormes deudas.",
+"- Las mujeres adquirieron una mayor participación laboral y política.",
+"- En 1918 se aprobó una reforma electoral que permitió votar a determinadas mujeres mayores de 30 años.",
+"- Reino Unido obtuvo mandatos sobre antiguos territorios del Imperio otomano, como Palestina e Irak.",
+"- Aunque ganó la guerra, quedó económicamente debilitado frente al crecimiento de Estados Unidos.",
+"BIBLIOGRAFIA",
+"1) Imperial War Museums – First World War.",
+"https://sites.google.com/site/iguerramundial14/2-las-potencias-beligerantes/el-imperio-britanico"
+]},
+   Germany : {
+   1914: [
+"- Alemania estaba gobernada por el káiser Guillermo II.",
+"- Era una de las principales potencias industriales y militares del mundo.",
+"- Puso en marcha el Plan Schlieffen para derrotar rápidamente a Francia.",
+"- 4 de agosto: invadió Bélgica.",
+"- La invasión provocó la entrada del Reino Unido en la guerra.",
+"- Alemania avanzó hacia Francia, pero fue detenida en la Primera batalla del Marne en septiembre.",
+"- La derrota impidió una victoria rápida y llevó a una guerra prolongada en el frente occidental.",
+"- En el frente oriental, Alemania obtuvo una importante victoria sobre Rusia en Tannenberg."
+]
+   1915: [
+"- Alemania continuó combatiendo en dos grandes frentes:",
+"- Frente occidental contra Francia y Reino Unido.",
+"- Frente oriental contra Rusia.",
+"- Participó junto con Austria-Hungría en ofensivas que obligaron a los rusos a retroceder.",
+"- Intensificó la guerra submarina mediante los submarinos U-Boote.",
+"- Intentó debilitar el comercio y abastecimiento británico."
+],
+   1916: [
+"- Alemania participó en la Batalla de Verdún contra Francia.",
+"- También combatió en la Batalla del Somme.",
+"- Continuó la guerra de trincheras.",
+"- Utilizó ametralladoras, artillería pesada, gases tóxicos y aviones.",
+"- El bloqueo naval británico comenzó a provocar graves dificultades económicas."
+],
+   1917: [
+"- Alemania reanudó en febrero la guerra submarina sin restricciones.",
+"- Los submarinos atacaron incluso barcos neutrales que se dirigían hacia puertos enemigos.",
+"- Esta política contribuyó a que Estados Unidos declarara la guerra a Alemania el 6 de abril de 1917.",
+"- La Revolución rusa debilitó al ejército ruso.",
+"- Alemania continuó combatiendo en el frente oriental."
+],
+   1918: [
+"- Alemania intentó aprovechar la retirada rusa para concentrar tropas en el frente occidental.",
+"- 3 de marzo: se firmó el Tratado de Brest-Litovsk con el gobierno bolchevique.",
+"- Alemania lanzó en marzo una gran ofensiva en el frente occidental para conseguir una victoria antes de que llegaran más tropas estadounidenses.",
+"- La ofensiva fracasó.",
+"- En septiembre, los mandos militares reconocieron que Alemania ya no podía ganar la guerra.",
+"- En octubre, el gobierno alemán pidió iniciar negociaciones de paz.",
+"- En noviembre comenzaron rebeliones de marineros y levantamientos populares.",
+"- 9 de noviembre: Guillermo II abdicó y se proclamó la República alemana.",
+"- 11 de noviembre: Alemania firmó el armisticio de Compiègne.",
+"Consecuencias",
+"- Desapareció el Imperio alemán.",
+"- Comenzó la República de Weimar",
+"- Alemania perdió territorios y todas sus colonias.",
+"- Se redujo considerablemente su poder militar.",
+"- La economía quedó gravemente afectada.",
+"- En 1919 Alemania tuvo que aceptar el Tratado de Versalles, que impuso reparaciones y otras condiciones.",
+"BIBLIOGRAFIA",
+"1) International Encyclopedia of the First World War. https://historiageneral.com/2011/02/08/la-primera-guerra-mundial-en-el-imperio-aleman/"
+]},
+"Kingdom":X([
 "El Reino Unido entró el 4 de agosto al violarse la neutralidad de Bélgica, que había garantizado. Envió la Fuerza Expedicionaria Británica a Francia, que combatió en Mons y el Marne y sufrió grandes bajas en la primera batalla de Ypres. Su imperio aportó soldados y recursos desde India, Canadá, Australia y otros territorios, y Kitchener empezó a reclutar voluntarios.",
 "Churchill impulsó la campaña de Galípoli para abrir los Dardanelos; fracasó y fue evacuada entre diciembre de 1915 y enero de 1916. Por primera vez el país sufrió bombardeos de zepelines y el hundimiento del Lusitania despertó indignación. La falta de municiones (la «crisis de los obuses») provocó un gobierno de coalición.",
 "Se aprobó el servicio militar obligatorio. El 1 de julio comenzó el Somme, con casi 60.000 bajas británicas el primer día, el más sangriento en la historia de su ejército, y en septiembre se usaron tanques por primera vez. En abril fue reprimido el Alzamiento de Pascua en Dublín y en diciembre Lloyd George llegó a primer ministro.",
@@ -1571,9 +1802,9 @@ const ENT={
 alemania:{n:"Imperio Alemán",cont:"Europa",l:3,c:["Germany"],t:DATA.Germany.t,x:"Germany",
   note:"En el mapa se muestra la actual Alemania. El imperio incluía además partes de las actuales Polonia, Francia (Alsacia-Lorena), Dinamarca y Lituania."},
 francia:{n:"Francia",cont:"Europa",l:3,c:["France"],t:DATA.France.t,x:"France"},
-reinounido:{n:"Reino Unido",cont:"Europa",l:3,c:["United Kingdom","Ireland"],t:DATA["United Kingdom"].t,x:"United Kingdom",
+reinounido:{n:"Reino Unido",cont:"Europa",l:3,c:["United Kingdom","Ireland"],t:DATA["United Kingdom"].t,x:"Kingdom",
   note:"Incluye Irlanda, que en 1914 formaba parte del Reino Unido."},
-belgica:{n:"Bélgica",cont:"Europa",l:2,c:["Belgium"],t:DATA.Belgium.t},
+belgica:{n:"Bélgica",cont:"Europa",l:2,c:["Belgium"],x:"belgica",t:DATA.Belgium.t},
 italia:{n:"Italia",cont:"Europa",l:2,c:["Italy"],t:DATA.Italy.t,x:"Italy"},
 austriahungria:{n:"Austria-Hungría",cont:"Europa",l:3,c:["Austria","Hungary","Czechia","Slovakia","Slovenia","Croatia","Bosnia and Herz."],t:AH.t,x:"Austria",
   note:"Se muestran las actuales Austria, Hungría, Chequia, Eslovaquia, Eslovenia, Croacia y Bosnia. El imperio incluía además partes de las actuales Polonia, Ucrania, Rumania, Italia, Serbia y Montenegro."},
