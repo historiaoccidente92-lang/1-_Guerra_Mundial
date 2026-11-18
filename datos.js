@@ -1039,7 +1039,14 @@ Etiopia: {
 "diferentes regiones del territorio siberiano. También buscó aumentar su influencia",
 "sobre el extremo oriental ruso. Al finalizar la guerra, Japón conservaba sus territorios",
 "ocupados en Asia y el Pacífico. El conflicto terminó favoreciendo su expansión",
-"internacional."
+"internacional.",
+"BIBLIOGRAFIA",
+"1) Dickinson, F. R. (2014). The Japanese Empire. En R. Gerwarth y E. Manela (Eds.),", 
+"Empires at war: 1911–1923. Oxford University Press.", 
+"https://doi.org/10.1093/acprof:oso/9780198702511.003.00112",      
+"2)Danner, L. K. (2018). Occupation during and after the war (China). International", 
+"Encyclopedia of the First World War. https://encyclopedia.1914-1918-", 
+"online.net/article/occupation-during-and-after-the-war-china/"
 ]},
    corea: {
       1914:[
@@ -1125,7 +1132,14 @@ Etiopia: {
 "participaron principalmente como soldados combatientes, fueron importantes para",
 "mantener las operaciones logísticas. Al finalizar la guerra, China esperaba recuperar",
 "los territorios ocupados por Japón. Sin embargo, sus expectativas serían frustradas",
-"durante las negociaciones de paz."
+"durante las negociaciones de paz.",
+"BIBLIOGRAFIA",
+"1) Dickinson, F. R. (2014). The Japanese Empire. En R. Gerwarth y E. Manela (Eds.),",
+"Empires at war: 1911–1923. Oxford University Press.",
+"https://doi.org/10.1093/acprof:oso/9780198702511.003.0011",
+"Danner, L. K. (2018). Occupation during and after the war (China). International",
+"2) Encyclopedia of the First World War. https://encyclopedia.1914-1918-",
+"online.net/article/occupation-during-and-after-the-war-china/"
 ]},
    mongolia: {
    1914: [
@@ -1166,7 +1180,9 @@ Etiopia: {
 "autoridades chinas buscaron recuperar mayor control sobre el territorio. Mongolia no",
 "tuvo una participación militar importante en la guerra mundial. Su situación política",
 "dependió principalmente de los cambios ocurridos en Rusia y China. El conflicto",
-"terminó sin resolver definitivamente su independencia."
+"terminó sin resolver definitivamente su independencia.",
+"BIBLIGRAFIA",
+"1) Pesek, M. (s. f.). The Force Publique in the First World War, 1914–18. Academia.edu."
 ]},
    argelia: {
    1914: [
@@ -1208,6 +1224,12 @@ Etiopia: {
 "La población sufrió las consecuencias humanas y económicas de la movilización.",
 "Francia consiguió mantener el apoyo militar de su colonia. Al finalizar la guerra, Argelia",
 "continuó bajo dominio francés.",
+"BIBLIOGRAFIA",
+"1) Michel, M. (2003). Les Africains et la Grande Guerre: L’appel à l’Afrique (1914–1918).",
+"Éditions Karthala.",
+"2) Strachan, H. (2004). The First World War in Africa. Oxford University Press.",
+"3) Callahan, M. D. (2008). Mandates and empire: The League of Nations and Africa, 1914–",
+"1931. Liverpool University Press. https://doi.org/10.2307/jj.4116445"
 ]},
    aof : {
 1914: [
@@ -1248,7 +1270,13 @@ Etiopia: {
 "fuerzas francesas. Miles de hombres fueron reclutados en África Occidental. Muchos",
 "fueron enviados a participar en las operaciones finales de la guerra. Otros realizaron",
 "labores de transporte y apoyo militar. Al terminar el conflicto, numerosos soldados",
-"regresaron a sus territorios de origen."
+"regresaron a sus territorios de origen.",
+"BIBLIOGRAFIA",
+"1) Michel, M. (2003). Les Africains et la Grande Guerre: L’appel à l’Afrique (1914–1918).",
+"Éditions Karthala.",
+"2) Strachan, H. (2004). The First World War in Africa. Oxford University Press.",
+"3) Callahan, M. D. (2008). Mandates and empire: The League of Nations and Africa, 1914–",
+"1931. Liverpool University Press. https://doi.org/10.2307/jj.4116445"
 ]},
    congobelga : {
    1914: [
@@ -1289,7 +1317,13 @@ Etiopia: {
 "de guerrilla. El conflicto en la región continuó incluso después del armisticio europeo.",
 "Las fuerzas alemanas dirigidas por Paul von Lettow-Vorbeck mantuvieron su",
 "resistencia hasta noviembre. Finalmente, se rindieron el 25 de noviembre de 1918. El",
-"Congo belga contribuyó decisivamente a la derrota colonial alemana en África Oriental."
+"Congo belga contribuyó decisivamente a la derrota colonial alemana en África Oriental.",
+"BIBLIOGRAFIA",
+"1) Michel, M. (2003). Les Africains et la Grande Guerre: L’appel à l’Afrique (1914–1918).",
+"Éditions Karthala.",
+"2) Strachan, H. (2004). The First World War in Africa. Oxford University Press.",
+"3) Callahan, M. D. (2008). Mandates and empire: The League of Nations and Africa, 1914–",
+"1931. Liverpool University Press. https://doi.org/10.2307/jj.4116445"
 ]},
    egipto : {
    1914: [
@@ -1330,8 +1364,157 @@ Etiopia: {
 "de Oriente Medio. El Imperio otomano firmó el armisticio el 30 de octubre de 1918.",
 "Egipto mantuvo su importancia como base militar británica durante las operaciones",
 "finales. El canal de Suez permaneció bajo control británico. Al finalizar la guerra, Egipto",
-"continuó siendo un protectorado británico ."
+"continuó siendo un protectorado británico .",
+"BIBLIOGRAFIA",
+"1) Michel, M. (2003). Les Africains et la Grande Guerre: L’appel à l’Afrique (1914–1918).",
+"Éditions Karthala.",
+"2) Strachan, H. (2004). The First World War in Africa. Oxford University Press.",
+"3) Callahan, M. D. (2008). Mandates and empire: The League of Nations and Africa, 1914–",
+"1931. Liverpool University Press. https://doi.org/10.2307/jj.4116445"
 ]},
+   France :{
+   1914: [
+"- Francia entró en la guerra en agosto de 1914, después de que Alemania le declarara la guerra el 3 de agosto.",
+"- Alemania intentó derrotar rápidamente a Francia mediante el Plan Schlieffen, avanzando por Bélgica.",
+"- Francia sufrió derrotas iniciales durante la Batalla de las Fronteras.",
+"- En septiembre, las fuerzas francesas y británicas lograron detener el avance alemán en la Primera batalla del Marne.",
+"- A finales de 1914 comenzó la guerra de trincheras en el frente occidental.",
+"- Las condiciones fueron extremadamente duras: frío, barro, enfermedades, hambre, bombardeos y ataques con armas químicas."
+],
+   1915: [
+"- Francia permaneció principalmente en una guerra de posiciones y trincheras contra Alemania.",
+"- El frente occidental quedó prácticamente estancado.",
+"- Los soldados franceses sufrieron numerosas bajas y el desgaste psicológico aumentó."
+],
+   1916: [
+"- Batalla de Verdún (febrero-diciembre): Alemania intentó desgastar al ejército francés mediante ataques constantes.",
+"- Francia resistió bajo el liderazgo inicial del general Philippe Pétain.",
+"- Verdún se convirtió en un símbolo de la resistencia francesa.",
+"- Francia también participó en la Batalla del Somme junto con Gran Bretaña."
+],
+   1917: [
+"- Francia atravesó una grave crisis militar y social.",
+"- Las enormes pérdidas provocaron desmoralización y motines en algunas unidades del ejército.",
+"- Philippe Pétain reorganizó el ejército y mejoró las condiciones de los soldados.",
+"- Se redujeron las ofensivas innecesarias y se mejoraron los permisos y el abastecimiento.",
+"- Georges Clemenceau se convirtió en primer ministro y dirigió el gobierno durante la etapa final de la guerra."
+],
+   1918: [
+"- Alemania lanzó nuevas ofensivas en el frente occidental.",
+"- Francia recibió un importante apoyo de Reino Unido, Estados Unidos y otros Aliados.",
+"- En marzo, Ferdinand Foch fue nombrado comandante supremo de los ejércitos aliados.",
+"- En julio tuvo lugar la Segunda batalla del Marne, donde los Aliados detuvieron una nueva ofensiva alemana.",
+"- Después comenzaron los contraataques aliados que obligaron a Alemania a retroceder.",
+"- 11 de noviembre: Alemania firmó el armisticio de Compiègne.",
+"Consecuencias",
+"- Francia fue uno de los países vencedores.",
+"- Murieron aproximadamente 1,4 millones de soldados franceses.",
+"- El norte y noreste del país quedaron gravemente destruidos.",
+"- Francia recuperó Alsacia y Lorena.",
+"- En 1919 participó en el Tratado de Versalles y defendió condiciones estrictas para Alemania.",
+"BILIOGRAFIA",
+"1)  International Encyclopedia of the First World War – France.",
+"https://encyclopedia.1914-1918-online.net/article/france/"
+]},
+serbia: {
+   1914: [
+"- El 28 de junio fue asesinado en Sarajevo el archiduque Francisco Fernando, heredero del Imperio austrohúngaro.",
+"- El asesino fue Gavrilo Princip, un nacionalista serbobosnio.",
+"- Austria-Hungría responsabilizó políticamente a Serbia.",
+"- El 28 de julio de 1914, Austria-Hungría declaró la guerra a Serbia.",
+"- Serbia organizó su defensa.",
+"- En agosto consiguió una importante victoria en la Batalla de Cer.",
+"- En diciembre, Serbia recuperó Belgrado después de la Batalla de Kolubara.",
+"- Serbia también sufrió epidemias, especialmente de tifus."
+],
+   1915: [
+"- En octubre, Alemania, Austria-Hungría y Bulgaria lanzaron una ofensiva conjunta contra Serbia.",
+"- El ejército serbio fue superado y tuvo que abandonar gran parte del territorio.",
+"- Comenzó la Gran Retirada Serbia hacia Albania.",
+"- Soldados y civiles atravesaron montañas durante el invierno sufriendo hambre, frío, enfermedades y ataques enemigos."
+],
+   1916: [
+"- Los supervivientes llegaron al Adriático y fueron evacuados principalmente hacia Corfú con ayuda de los Aliados.",
+"- El ejército serbio fue reorganizado y equipado en Corfú.",
+"- Posteriormente fue trasladado al frente de Salónica, en Grecia.",
+"- Serbia continuó combatiendo junto a los Aliados."
+],
+   1917: [
+"- El ejército serbio permaneció desplegado principalmente en el frente de Salónica.",
+"- Continuó preparándose para futuras operaciones contra las Potencias Centrales."
+],
+   1918: [
+"- En septiembre comenzó una gran ofensiva aliada en el frente de Salónica.",
+"- Serbia participó en la batalla de Dobro Pole, que ayudó a romper las líneas enemigas.",
+"- 29 de septiembre: Bulgaria se rindió.",
+"- Las tropas serbias avanzaron rápidamente.",
+"- 1 de noviembre: Serbia recuperó Belgrado.",
+"- 1 de diciembre: se creó el Reino de los Serbios, Croatas y Eslovenos, que posteriormente sería conocido como Yugoslavia.",
+"Consecuencias",
+"- Serbia sufrió enormes pérdidas humanas.",
+"- Gran parte de su territorio estuvo ocupado entre 1915 y 1918.",
+"- Su economía, agricultura y comunicaciones quedaron gravemente dañadas.",
+"- Participó en la formación del nuevo Estado de los eslavos del sur.",
+"BIBLIOGRAFIA",
+"1) International Encyclopedia of the First World War – Serbia, de Mile Bjelajac. https://encyclopedia.1914-1918-online.net/article/serbia/"
+]},
+Russia : {
+
+   1914: [
+"- Rusia estaba gobernada por el zar Nicolás II.",
+"- Rusia apoyaba a Serbia debido a sus vínculos históricos y culturales con los pueblos eslavos.",
+"- Entró en la guerra en julio de 1914.",
+"- 1 de agosto: Alemania declaró la guerra a Rusia.",
+"- Rusia invadió Prusia Oriental.",
+"- Entre el 26 y el 30 de agosto, sufrió una importante derrota en la Batalla de Tannenberg.",
+"- También obtuvo éxitos iniciales contra Austria-Hungría durante la Batalla de Galitzia."
+],
+   1915: [
+"- Alemania y Austria-Hungría lanzaron grandes ofensivas contra Rusia.",
+"- El ejército ruso tuvo que realizar el Gran Retiro ruso.",
+"- Rusia perdió grandes cantidades de territorio, incluyendo Polonia y partes de las regiones bálticas.",
+"- Aumentaron las pérdidas humanas y los problemas de abastecimiento."
+],
+   1916: [
+"- En junio comenzó la Ofensiva Brusílov, dirigida por el general Alekséi Brusílov.",
+"- Rusia consiguió importantes avances contra Austria-Hungría.",
+"- Sin embargo, también sufrió enormes pérdidas.",
+"- La situación económica y social continuó deteriorándose."
+],
+   1917: [
+"- Rusia sufrió una grave crisis política y social.",
+"- Escaseaban los alimentos y aumentaba la inflación.",
+"- Los soldados, obreros y campesinos protestaban contra el gobierno.",
+"Revolución de Febrero:",
+"- Comenzaron protestas y huelgas en Petrogrado.",
+"- Los soldados se unieron a los manifestantes.",
+"- Nicolás II abdicó en marzo.",
+"- Terminó el gobierno de la dinastía Romanov.",
+"- Se creó un Gobierno Provisional, que decidió continuar la guerra.",
+"Revolución de Octubre:",
+"- Los bolcheviques, dirigidos por Vladímir Lenin, derrocaron al Gobierno Provisional.",
+"- Defendieron el fin de la guerra bajo la consigna de paz, pan y tierra”
+],
+   1918: [
+"- 15 de diciembre de 1917: Rusia había firmado un armisticio con las Potencias Centrales.",
+"- 3 de marzo de 1918: se firmó el Tratado de Brest-Litovsk.",
+"- Rusia abandonó oficialmente la Primera Guerra Mundial.",
+"- Perdió importantes territorios y parte de su influencia en Europa oriental.",
+"- Alemania pudo trasladar tropas del frente oriental al occidental.",
+"Consecuencias",
+"- Desaparición del Imperio ruso.",
+"- Caída de la monarquía zarista.",
+"- Surgimiento de un gobierno bolchevique.",
+"- Pérdidas territoriales y humanas.",
+"- Comienzo de la Guerra Civil rusa.",
+"- Posteriormente, en 1922, se formaría la Unión Soviética.",
+"BIBLIOGRAFIA",
+"1)  https://es.wikipedia.org/wiki/Rusia_durante_la_Primera_Guerra_Mundial"
+]},
+   Austria : {
+   1914: [
+"
+   
 "United Kingdom":X([
 "El Reino Unido entró el 4 de agosto al violarse la neutralidad de Bélgica, que había garantizado. Envió la Fuerza Expedicionaria Británica a Francia, que combatió en Mons y el Marne y sufrió grandes bajas en la primera batalla de Ypres. Su imperio aportó soldados y recursos desde India, Canadá, Australia y otros territorios, y Kitchener empezó a reclutar voluntarios.",
 "Churchill impulsó la campaña de Galípoli para abrir los Dardanelos; fracasó y fue evacuada entre diciembre de 1915 y enero de 1916. Por primera vez el país sufrió bombardeos de zepelines y el hundimiento del Lusitania despertó indignación. La falta de municiones (la «crisis de los obuses») provocó un gobierno de coalición.",
@@ -1397,7 +1580,7 @@ austriahungria:{n:"Austria-Hungría",cont:"Europa",l:3,c:["Austria","Hungary","C
 imperioruso:{n:"Imperio ruso",cont:"Europa",l:3,t:DATA.Russia.t,x:"Russia",
   c:["Russia","Poland","Ukraine","Belarus","Lithuania","Latvia","Estonia","Moldova","Georgia","Armenia","Azerbaijan","Kazakhstan","Uzbekistan","Turkmenistan","Kyrgyzstan","Tajikistan"],
   note:"Se muestran la actual Rusia y los territorios que controlaba en 1914: Ucrania, Bielorrusia, los países bálticos, Moldavia, el Cáucaso y Asia central. Polonia estaba repartida entre Rusia, Alemania y Austria-Hungría; aquí se muestra con Rusia, que controlaba la mayor parte. Finlandia aparece aparte."},
-serbia:{n:"Serbia",cont:"Europa",l:2,c:["Serbia","Kosovo","North Macedonia","Macedonia"],t:DATA.Serbia.t,
+serbia:{n:"Serbia",cont:"Europa",l:2,c:["Serbia","Kosovo","North Macedonia","Macedonia"],x:"serbia",t:DATA.Serbia.t,
   note:"Incluye Kosovo y Macedonia del Norte, que Serbia había ganado en las guerras balcánicas de 1912-1913."},
 grecia:{n:"Grecia",cont:"Europa",l:2,c:["Greece"],t:T3(
   "Comienza neutral: el rey Constantino I, cuñado del Káiser, se opone a entrar en la guerra, mientras el primer ministro Venizelos quiere unirse a los Aliados. En 1915 los Aliados desembarcan en Salónica y el país se divide (el «Cisma Nacional»).",
