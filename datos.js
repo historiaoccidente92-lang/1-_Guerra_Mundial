@@ -2376,7 +2376,7 @@ australia: {
 "25 de enero de 1916: rendición del ejército montenegrino",
 "El 25 de enero de 1916, el general Janko Vukotić ordenó a los restos del ejército montenegrino entregar las armas y dispersarse.",
 "De esta manera, terminó la resistencia militar organizada del país frente a Austria-Hungría.",
-"Aunque algunos soldados consiguieron escapar y otros continuaron realizando actividades de resistencia, Montenegro quedó prácticamente conquistado.
+"Aunque algunos soldados consiguieron escapar y otros continuaron realizando actividades de resistencia, Montenegro quedó prácticamente conquistado.",
 "La ocupación austrohúngara",
 "Después de la rendición, Austria-Hungría estableció un gobierno militar en Montenegro.",
 "Las autoridades ocupantes comenzaron a controlar las instituciones, las comunicaciones y los recursos del país.",
