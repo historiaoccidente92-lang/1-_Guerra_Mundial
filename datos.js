@@ -135,6 +135,7 @@ const LAT={
    Por país/entidad y año (usa el id de la entidad, ej. "alemania", "francia", "peru"):  "alemania":{1914:["ID1","ID2"]}
    Para todos los países en un año:  VIDEOS_YEAR={1914:["ID"]} */
 const VIDEOS_ALEMANIA=["https://www.youtube.com/shorts/l0fhHzBeVSo"];
+const VIDEOS={"alemania": { 1914: VIDEOS_ALEMANIA, 1915: VIDEOS_ALEMANIA, 1916: VIDEOS_ALEMANIA, 1917: VIDEOS_ALEMANIA, 1918: VIDEOS_ALEMANIA} }; 
 const VIDEOS_YEAR={
    1914:["8Ks_TAhkGGk"],
    1915:["8Ks_TAhkGGk"],
