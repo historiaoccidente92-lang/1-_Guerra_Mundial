@@ -136,7 +136,7 @@ const LAT={
    Para todos los países en un año:  VIDEOS_YEAR={1914:["ID"]} */
 const VIDEOS={};
 const VIDEOS_YEAR={
-   1914:[8Ks_TAhkGGk]
+   1914:["8Ks_TAhkGGk"]
 };
 /* INFO EXTRA (párrafos largos). Se asocia con la clave "x" de cada entidad (ver ENT más abajo).
    Ejemplo:  "Germany":{1914:["Primer párrafo...","Segundo párrafo..."]} */
