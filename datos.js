@@ -134,7 +134,7 @@ const LAT={
 /* VIDEOS: pega el ID de YouTube (lo que va después de v= en el enlace).
    Por país/entidad y año (usa el id de la entidad, ej. "alemania", "francia", "peru"):  "alemania":{1914:["ID1","ID2"]}
    Para todos los países en un año:  VIDEOS_YEAR={1914:["ID"]} */
-const VIDEOS={};
+const VIDEOS={"Germany": {1914:["https://www.youtube.com/shorts/l0fhHzBeVSo"] };
 const VIDEOS_YEAR={
    1914:["8Ks_TAhkGGk"],
    1915:["8Ks_TAhkGGk"],
