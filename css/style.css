@@ -155,3 +155,6 @@ button:hover{transform:translateY(-2px);box-shadow:0 6px 16px rgba(0,0,0,.35)}
 #mExtra>p:nth-child(n+13),#yWorld>p:nth-child(n+13),#yList>li:nth-child(n+13){animation-delay:1.3s}
 .flash{animation:subir .45s ease-out both}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
+
+/* Videos verticales (YouTube Shorts) */
+.vid.short{aspect-ratio:9/16;width:100%;max-width:340px;margin-left:auto;margin-right:auto}
