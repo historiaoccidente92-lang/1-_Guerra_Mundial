@@ -136,8 +136,22 @@ const LAT={
    Para todos los países en un año:  VIDEOS_YEAR={1914:["ID"]} */
 const VIDEOS_ALEMANIA=["https://www.youtube.com/shorts/l0fhHzBeVSo"];
 const VIDEOS_RUSO=["https://www.youtube.com/shorts/aL2EnG_STGM"];
+const VIDEOS_BULGARIA=["https://www.youtube.com/shorts/oOwSUzDLQWU"];
+const VIDEOS_AUSTO_HUNGRIA=["https://www.youtube.com/shorts/o8Q3b1Vk2Os"];
+const VIDEOS_EEUU=["https://www.youtube.com/shorts/wkbGv-3pwH4"];
+const VIDEOS_SERBIA=["https://www.youtube.com/shorts/CWA8TjpNQ0M"];
+const VIDEOS_OTAMANO=["https://www.youtube.com/shorts/KXiyiljfHDw"];
+const VIDEOS_FRANCIA=["https://www.youtube.com/shorts/bj3R8Z5YCMo"];
+const VIDEOS_REINOUNIDO=["https://www.youtube.com/shorts/Zs0FnTbVKnQ"]
 const VIDEOS={"alemania": { 1914: VIDEOS_ALEMANIA, 1915: VIDEOS_ALEMANIA, 1916: VIDEOS_ALEMANIA, 1917: VIDEOS_ALEMANIA, 1918: VIDEOS_ALEMANIA},
-              "imperioruso": {1914: VIDEOS_RUSO, 1915: VIDEOS_RUSO, 1916:VIDEOS_RUSO , 1917: VIDEOS_RUSO, 1918: VIDEOS_RUSO } }; 
+              "imperioruso": {1914: VIDEOS_RUSO, 1915: VIDEOS_RUSO, 1916:VIDEOS_RUSO , 1917: VIDEOS_RUSO, 1918: VIDEOS_RUSO },
+               "bulgaria": {1914:VIDEOS_BULGARIA, 1915: VIDEOS_BULGARIA, 1916: VIDEOS_BULGARIA, 1917: VIDEOS_BULGARIA, 1918: VIDEOS_BULGARIA },
+               "austriahungria": {1914:VIDEOS_AUSTO_HUNGRIA, 1915:VIDEOS_AUSTO_HUNGRIA, 1916: VIDEOS_AUSTO_HUNGRIA, 1917: VIDEOS_AUSTO_HUNGRIA, 1918: VIDEOS_AUSTO_HUNGRIA},
+               "eeuu": {1914:VIDEOS_EEUU, 1915:VIDEOS_EEUU, 1916:VIDEOS_EEUU, 1917:VIDEOS_EEUU, 1918:VIDEOS_EEUU}, 
+               "serbia": {1914:VIDEOS_SERBIA,1915:VIDEOS_SERBIA, 1916:VIDEOS_SERBIA, 1917:VIDEOS_SERBIA, 1918:VIDEOS_SERBIA},
+               "otomano": {1914:VIDEOS_OTAMANO, 1915:VIDEOS_OTAMANO, 1916:VIDEOS_OTAMANO,1917: VIDEOS_OTAMANO, 1918:VIDEOS_OTAMANO},   
+               "francia": {1914:VIDEOS_FRANCIA, 1915:VIDEOS_FRANCIA, 1916: VIDEOS_FRANCIA, 1917: VIDEOS_FRANCIA, 1918:VIDEOS_FRANCIA},
+                "reinounido": {1914:VIDEOS_REINOUNIDO,1915: VIDEOS_REINOUNIDO,1916:VIDEOS_REINOUNIDO, 1917:VIDEOS_REINOUNIDO, 1918:VIDEOS_REINOUNIDO} }; 
 const VIDEOS_YEAR={
    1914:["8Ks_TAhkGGk"],
    1915:["8Ks_TAhkGGk"],
