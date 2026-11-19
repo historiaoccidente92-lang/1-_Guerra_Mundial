@@ -1043,10 +1043,9 @@ Etiopia: {
 "BIBLIOGRAFIA",
 "1) Dickinson, F. R. (2014). The Japanese Empire. En R. Gerwarth y E. Manela (Eds.),", 
 "Empires at war: 1911–1923. Oxford University Press.", 
-"https://doi.org/10.1093/acprof:oso/9780198702511.003.00112",      
+"<a href='https://doi.org/10.1093/acprof:oso/9780198702511.003.00112' target='_blank' rel='noopener'>https://doi.org/10.1093/acprof:oso/9780198702511.003.00112</a>",      
 "2)Danner, L. K. (2018). Occupation during and after the war (China). International", 
-"Encyclopedia of the First World War. https://encyclopedia.1914-1918-", 
-"online.net/article/occupation-during-and-after-the-war-china/"
+"Encyclopedia of the First World War.<a href='https://encyclopedia.1914-1918-online.net/article/occupation-during-and-after-the-war-china/' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/occupation-during-and-after-the-war-china/</a>"
 ]},
    corea: {
       1914:[
@@ -1138,8 +1137,7 @@ Etiopia: {
 "Empires at war: 1911–1923. Oxford University Press.",
 "https://doi.org/10.1093/acprof:oso/9780198702511.003.0011",
 "Danner, L. K. (2018). Occupation during and after the war (China). International",
-"2) Encyclopedia of the First World War. https://encyclopedia.1914-1918-",
-"online.net/article/occupation-during-and-after-the-war-china/"
+"2) Encyclopedia of the First World War.<a href='https://encyclopedia.1914-1918-online.net/article/occupation-during-and-after-the-war-china/' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/occupation-during-and-after-the-war-china/</a>"
 ]},
    mongolia: {
    1914: [
@@ -1229,7 +1227,7 @@ Etiopia: {
 "Éditions Karthala.",
 "2) Strachan, H. (2004). The First World War in Africa. Oxford University Press.",
 "3) Callahan, M. D. (2008). Mandates and empire: The League of Nations and Africa, 1914–",
-"1931. Liverpool University Press. https://doi.org/10.2307/jj.4116445"
+"1931. Liverpool University Press. <a href='https://doi.org/10.2307/jj.4116445' target='_blank' rel='noopener'>https://doi.org/10.2307/jj.4116445</a>"
 ]},
    aof : {
 1914: [
@@ -1276,7 +1274,7 @@ Etiopia: {
 "Éditions Karthala.",
 "2) Strachan, H. (2004). The First World War in Africa. Oxford University Press.",
 "3) Callahan, M. D. (2008). Mandates and empire: The League of Nations and Africa, 1914–",
-"1931. Liverpool University Press. https://doi.org/10.2307/jj.4116445"
+"1931. Liverpool University Press. <a href='https://doi.org/10.2307/jj.4116445' target='_blank' rel='noopener'>https://doi.org/10.2307/jj.4116445</a>"
 ]},
    congobelga : {
    1914: [
@@ -1323,7 +1321,7 @@ Etiopia: {
 "Éditions Karthala.",
 "2) Strachan, H. (2004). The First World War in Africa. Oxford University Press.",
 "3) Callahan, M. D. (2008). Mandates and empire: The League of Nations and Africa, 1914–",
-"1931. Liverpool University Press. https://doi.org/10.2307/jj.4116445"
+"1931. Liverpool University Press.<a href='https://doi.org/10.2307/jj.4116445' target='_blank' rel='noopener'>https://doi.org/10.2307/jj.4116445</a>"
 ]},
    egipto : {
    1914: [
@@ -1370,7 +1368,7 @@ Etiopia: {
 "Éditions Karthala.",
 "2) Strachan, H. (2004). The First World War in Africa. Oxford University Press.",
 "3) Callahan, M. D. (2008). Mandates and empire: The League of Nations and Africa, 1914–",
-"1931. Liverpool University Press. https://doi.org/10.2307/jj.4116445"
+"1931. Liverpool University Press.<a href='https://doi.org/10.2307/jj.4116445' target='_blank' rel='noopener'>https://doi.org/10.2307/jj.4116445</a>"
 ]},
    France :{
    1914: [
@@ -1414,7 +1412,7 @@ Etiopia: {
 "- En 1919 participó en el Tratado de Versalles y defendió condiciones estrictas para Alemania.",
 "BILIOGRAFIA",
 "1)  International Encyclopedia of the First World War – France.",
-"https://encyclopedia.1914-1918-online.net/article/france/"
+"<a href='https://encyclopedia.1914-1918-online.net/article/france/' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/france/</a>"
 ]},
 serbia: {
    1914: [
@@ -1456,7 +1454,7 @@ serbia: {
 "- Su economía, agricultura y comunicaciones quedaron gravemente dañadas.",
 "- Participó en la formación del nuevo Estado de los eslavos del sur.",
 "BIBLIOGRAFIA",
-"1) International Encyclopedia of the First World War – Serbia, de Mile Bjelajac. https://encyclopedia.1914-1918-online.net/article/serbia/"
+"1) International Encyclopedia of the First World War – Serbia, de Mile Bjelajac.<a href='https://encyclopedia.1914-1918-online.net/article/serbia/' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/serbia/</a>"
 ]},
 Russia : {
 
@@ -1509,7 +1507,7 @@ Russia : {
 "- Comienzo de la Guerra Civil rusa.",
 "- Posteriormente, en 1922, se formaría la Unión Soviética.",
 "BIBLIOGRAFIA",
-"1)  https://es.wikipedia.org/wiki/Rusia_durante_la_Primera_Guerra_Mundial"
+"1) <a href='https://es.wikipedia.org/wiki/Rusia_durante_la_Primera_Guerra_Mundial' target='_blank' rel='noopener'>https://es.wikipedia.org/wiki/Rusia_durante_la_Primera_Guerra_Mundial</a>"
 ]},
    Austria : {
    1914: [
@@ -1555,7 +1553,7 @@ Russia : {
 "- Austria y Hungría perdieron numerosos territorios.",
 "- Posteriormente se firmaron el Tratado de Saint-Germain (1919) y el Tratado de Trianon (1920).",
 "BIBLIOGRAFIA",
-"1) https://es.wikipedia.org/wiki/Imperio_austrohúngaro_durante_la_Primera_Guerra_Mundial"
+"1) <a href='https://es.wikipedia.org/wiki/Imperio_austrohúngaro_durante_la_Primera_Guerra_Mundial' target='_blank' rel='noopener'>https://es.wikipedia.org/wiki/Imperio_austrohúngaro_durante_la_Primera_Guerra_Mundial</a>"
 ]},
    Italy : {
    1914 : [
@@ -1598,7 +1596,7 @@ Russia : {
 "- Surgió el sentimiento de “victoria mutilada”, porque muchos italianos consideraron que no recibieron todos los territorios que esperaban.",
 "BIBLIOGRAFIA",
 "1) International Encyclopedia of the First World War – Italy.",
-"https://sites.google.com/site/iguerramundial14/los-primeros-anos-1914---1916/j-la-participacion-de-italia"
+"<a href='https://sites.google.com/site/iguerramundial14/los-primeros-anos-1914---1916/j-la-participacion-de-italia' target='_blank' rel='noopener'>https://sites.google.com/site/iguerramundial14/los-primeros-anos-1914---1916/j-la-participacion-de-italia</a>"
 ]},
    belgica: {
    1914: [
@@ -1645,7 +1643,7 @@ Russia : {
 "- Cerca de 1,5 millones de belgas habían huido de sus hogares durante la invasión de 1914.",
 "- Bélgica recibió reparaciones de Alemania por los daños sufridos.",
 "BIBLIOGRAFIA",
-"1)  International Encyclopedia of the First World War – Belgium. https://encyclopedia.1914-1918-online.net/article/warfare-1914-1918-belgium/"
+"1)  International Encyclopedia of the First World War – Belgium. <a href='https://encyclopedia.1914-1918-online.net/article/warfare-1914-1918-belgium/' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/warfare-1914-1918-belgium/</a>"
 ]},
    Kingdom: {
    1914: [
@@ -1690,8 +1688,7 @@ Russia : {
 "- Reino Unido obtuvo mandatos sobre antiguos territorios del Imperio otomano, como Palestina e Irak.",
 "- Aunque ganó la guerra, quedó económicamente debilitado frente al crecimiento de Estados Unidos.",
 "BIBLIOGRAFIA",
-"1) Imperial War Museums – First World War.",
-"https://sites.google.com/site/iguerramundial14/2-las-potencias-beligerantes/el-imperio-britanico"
+"1. El Imperio Británico. (s. f.). La Primera Guerra Mundial (1914–1918) [Sitio web]. Google Sites. <a href='https://sites.google.com/site/iguerramundial14/2-las-potencias-beligerantes/el-imperio-britanico' target='_blank' rel='noopener'>https://sites.google.com/site/iguerramundial14/2-las-potencias-beligerantes/el-imperio-britanico</a>"
 ]},
    Germany : {
    1914: [
@@ -1744,7 +1741,7 @@ Russia : {
 "- La economía quedó gravemente afectada.",
 "- En 1919 Alemania tuvo que aceptar el Tratado de Versalles, que impuso reparaciones y otras condiciones.",
 "BIBLIOGRAFIA",
-"1) International Encyclopedia of the First World War. https://historiageneral.com/2011/02/08/la-primera-guerra-mundial-en-el-imperio-aleman/"
+"1. Ferrandiz, G. (2011, 8 de febrero). La Primera Guerra Mundial en el Imperio Alemán. Historia General. <a href='https://historiageneral.com/2011/02/08/la-primera-guerra-mundial-en-el-imperio-aleman/' target='_blank' rel='noopener'>https://historiageneral.com/2011/02/08/la-primera-guerra-mundial-en-el-imperio-aleman/</a>"
 ]},
    peru: {
    1914: [
