@@ -2798,7 +2798,7 @@ australia: {
 "El 14 de mayo se produjo una rebelión organizada por sectores militares, marineros y civiles republicanos. El movimiento consiguió derrocar al Gobierno de Pimenta de Castro, que había llegado al poder sin respetar plenamente el procedimiento constitucional.",
 "Después de estos acontecimientos, los republicanos favorables a la intervención recuperaron fuerza política.",
 "Diciembre de 1915: regreso de Afonso Costa",
-"En diciembre, Afonso Costa regresó al Gobierno y comenzó a impulsar una política más favorable a la participación en la guerra.
+"En diciembre, Afonso Costa regresó al Gobierno y comenzó a impulsar una política más favorable a la participación en la guerra.",
 "Portugal también continuó fortaleciendo la defensa de sus colonias africanas, especialmente Mozambique, donde existía el peligro de que las fuerzas alemanas intentaran avanzar desde sus territorios vecinos.",
 "Consecuencias durante 1915:",
 "- Se produjo una fuerte división política sobre la participación en la guerra.",
