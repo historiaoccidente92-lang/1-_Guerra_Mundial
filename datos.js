@@ -2598,7 +2598,7 @@ australia: {
 "En noviembre de 1917, Themistokli Gërmenji fue ejecutado por las autoridades francesas después de ser acusado de colaborar con los enemigos de Francia.",
 "Su muerte provocó indignación entre diferentes sectores nacionalistas albaneses, que consideraban que había sido una figura importante en la defensa de la autonomía de Korçë.",
 "La influencia griega en el sur",
-"Durante este periodo, Grecia también aumentó su influencia sobre el sur de Albania.v
+"Durante este periodo, Grecia también aumentó su influencia sobre el sur de Albania.",
 "Las autoridades griegas mantenían intereses territoriales en la región de Epiro del Norte, especialmente en áreas donde existían comunidades de habla griega.",
 "La presencia griega y las intervenciones italianas y francesas provocaron nuevas tensiones sobre quién debía controlar las regiones meridionales.",
 "Las dificultades de la población",
