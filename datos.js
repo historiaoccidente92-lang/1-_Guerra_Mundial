@@ -2979,7 +2979,7 @@ australia: {
 "Además, aumentaron las dificultades de las industrias, que necesitaban energía y materias primas para continuar funcionando.",
 "Presión internacional y neutralidad",
 "Durante 1917, Alemania intensificó la guerra submarina sin restricciones, lo que aumentó los peligros para los barcos mercantes neerlandeses.",
-"Al mismo tiempo, los Aliados continuaron controlando el comercio marítimo para impedir que Alemania recibiera productos a través de Países Bajos.
+"Al mismo tiempo, los Aliados continuaron controlando el comercio marítimo para impedir que Alemania recibiera productos a través de Países Bajos.",
 "El Gobierno de Pieter Cort van der Linden tuvo que negociar constantemente con ambos bloques para evitar que el país terminara involucrado en la guerra.",
 "Consecuencias durante 1917:",
 "- Se agravó la escasez de alimentos y combustible.",
