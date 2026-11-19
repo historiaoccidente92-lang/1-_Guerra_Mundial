@@ -3161,6 +3161,128 @@ australia: {
 "2) Berg, Roald (2024). Foreign Policy (Norway). International Encyclopedia of the First World War.<a href='https://encyclopedia.1914-1918-online.net/article/foreign-policy-norway/' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/foreign-policy-norway/</a>",
 "3) Tenold, Stig (2019). The First World War: The Neutral Ally. En Norwegian Shipping in the 20th Century, pp. 63-89. Palgrave Macmillan. <a href='https://link.springer.com/chapter/10.1007/978-3-319-95639-8_3' target='_blank' rel='noopener'>https://link.springer.com/chapter/10.1007/978-3-319-95639-8_3</a>"
 ]},
+   raj: {
+   1914:[
+"Cuando comenzó la Primera Guerra Mundial, en julio de 1914, India se encontraba bajo el control británico. El virrey Lord Hardinge anunció que el territorio apoyaría al Imperio británico, sin consultar previamente a todos los dirigentes políticos indios.",
+"- Participación militar: el ejército indio comenzó a movilizar soldados para enviarlos a diferentes frentes. En septiembre llegaron tropas indias a Marsella, Francia, para apoyar a los británicos en el frente occidental.",
+"- Francia y Bélgica: los soldados indios participaron en los primeros combates contra Alemania. Tuvieron que adaptarse a condiciones muy difíciles, como el frío, las trincheras y el uso de nuevas armas.",
+"- Mesopotamia (actual Irak): en noviembre, tropas indias desembarcaron para proteger los intereses británicos relacionados con el petróleo y las rutas comerciales del golfo Pérsico. El 22 de noviembre ocuparon Basora.",
+"- Egipto: varias brigadas indias fueron enviadas para reforzar la defensa del canal de Suez, una ruta fundamental para el comercio y las comunicaciones británicas.",
+"- Apoyo económico: India comenzó a proporcionar alimentos, materias primas, dinero y otros recursos para sostener el esfuerzo militar.",
+"Al principio, algunos dirigentes y sectores de la población apoyaron la participación india, pues esperaban que su colaboración fuera recompensada con mayores derechos políticos. Sin embargo, otros cuestionaban que India tuviera que participar en una guerra decidida por el gobierno británico."
+],
+   1915: [
+"Durante 1915, la participación de India aumentó considerablemente. Sus soldados fueron enviados a diferentes regiones y tuvieron que combatir contra las fuerzas alemanas y otomanas.",
+"- Batalla de Neuve Chapelle: en marzo, las tropas indias participaron en esta ofensiva en Francia. Aunque los británicos consiguieron avances, sufrieron numerosas bajas. Fue uno de los enfrentamientos más importantes para las unidades indias en el frente occidental.",
+"- Campaña de Galípoli: en abril, una brigada india y unidades de artillería de montaña participaron en la campaña contra el Imperio otomano. Sus tropas apoyaron a las fuerzas británicas, australianas y neozelandesas.",
+"- Mesopotamia: las fuerzas indias avanzaron hacia Bagdad siguiendo los ríos Tigris y Éufrates. Sin embargo, encontraron una resistencia mayor de la esperada.",
+"- Derrota de Ctesifonte: en noviembre, las fuerzas británicas e indias fueron derrotadas cerca de Ctesifonte y tuvieron que retirarse hacia Kut, donde quedaron rodeadas por el ejército otomano.",
+"- Problemas militares: la campaña reveló dificultades en el abastecimiento de alimentos, medicamentos y municiones. Muchos soldados sufrieron enfermedades, agotamiento y falta de recursos.",
+"- Movimiento nacionalista: Bal Gangadhar Tilak y Annie Besant impulsaron el movimiento por el Home Rule, que buscaba que India pudiera gobernarse a sí misma dentro del Imperio británico.",
+"La guerra comenzó a generar mayores tensiones. Mientras los soldados arriesgaban sus vidas en el extranjero, una parte de la población india esperaba que el gobierno británico reconociera sus sacrificios y permitiera una mayor participación en las decisiones políticas."
+],
+   1916: [
+"En 1916, India continuó aportando tropas y recursos, pero también enfrentó una de las mayores derrotas militares de la campaña de Mesopotamia.",
+"- Asedio de Kut: las fuerzas británicas e indias permanecieron rodeadas en Kut durante aproximadamente 147 días. Finalmente, el 29 de abril de 1916, tuvieron que rendirse ante los otomanos.",
+"- Prisioneros de guerra: alrededor de 18.000 hombres quedaron bajo custodia otomana. Muchos sufrieron hambre, enfermedades y condiciones muy duras durante el cautiverio.",
+"- Reorganización militar: después de la derrota, los británicos reorganizaron sus fuerzas en Mesopotamia, enviaron refuerzos y mejoraron los sistemas de abastecimiento.",
+"- Campaña en África oriental: soldados procedentes de India también participaron en operaciones contra las fuerzas alemanas en África oriental, en territorios que hoy corresponden principalmente a Tanzania.",
+"- Movimiento Home Rule: Tilak y Annie Besant aumentaron sus actividades para exigir el autogobierno. Sus organizaciones ayudaron a difundir estas ideas entre estudiantes, profesionales y sectores urbanos.",
+"- Gandhi: Mahatma Gandhi comenzó a adquirir mayor presencia en la política india. Aunque todavía no dirigía un movimiento nacional contra el dominio británico, sus ideas y actividades empezaban a tener importancia.",
+"La derrota de Kut mostró que el ejército británico no siempre estaba preparado para las dificultades de una guerra tan extensa. Al mismo tiempo, el nacionalismo indio se fortalecía y las demandas de autogobierno se hacían cada vez más visibles."
+],
+   1917: [
+"En 1917, la participación india alcanzó una dimensión todavía mayor. Mientras sus tropas continuaban combatiendo en Oriente Medio, el movimiento nacionalista aumentaba sus exigencias de autogobierno.",
+"- Conquista de Bagdad: en marzo, las fuerzas británicas e indias consiguieron ocupar Bagdad, después de reorganizarse tras la derrota de Kut. Esta victoria fue importante para debilitar el control otomano en Mesopotamia.",
+"- Campaña de Palestina: soldados indios participaron en las operaciones contra el Imperio otomano. En noviembre, las fuerzas británicas y sus aliados consiguieron importantes avances en la batalla de Gaza.",
+"- Arresto de Annie Besant: en junio, las autoridades británicas detuvieron a Annie Besant y a otros dirigentes del movimiento Home Rule debido a sus actividades políticas. La medida provocó protestas y aumentó el descontento.",
+"- Declaración de Montagu: el 20 de agosto, Edwin Montagu anunció que el objetivo británico sería desarrollar progresivamente instituciones de autogobierno en India. Fue una promesa importante, aunque no significaba que el territorio obtendría independencia inmediata.",
+"- Apoyo económico: India realizó una enorme contribución financiera a la guerra. En 1917 ofreció alrededor de 100 millones de libras esterlinas para cubrir los gastos militares británicos",
+"- Reclutamiento: continuó la incorporación de soldados y trabajadores para las campañas militares. Muchas comunidades rurales tuvieron que aportar hombres, animales y recursos.",
+"La declaración de Montagu fue recibida con esperanza por algunos sectores, pero otros consideraron que las promesas británicas eran demasiado limitadas. Los nacionalistas comenzaron a exigir cambios más rápidos y una participación real en el gobierno."
+],
+   1918: [
+"Durante 1918, India continuó siendo uno de los principales apoyos militares y económicos del Imperio británico. Sus soldados participaron en las últimas ofensivas contra las fuerzas otomanas, mientras que dentro del territorio aumentaban los problemas sociales y económicos.",
+"- Campaña de Palestina: las tropas indias participaron en las operaciones que permitieron a los Aliados avanzar por Palestina. En septiembre, las fuerzas británicas y sus aliados lanzaron una ofensiva decisiva contra el ejército otomano.",
+"- Mesopotamia: los soldados indios siguieron participando en la campaña que buscaba consolidar el control británico sobre Irak. En octubre, más de la mitad de las tropas presentes en Mesopotamia eran indias.",
+"- Contribución militar: hacia el final de la guerra, alrededor de 1,4 millones de hombres de India habían sido movilizados durante el conflicto, y más de un millón habían servido fuera del territorio.",
+"- Problemas económicos: los precios de los alimentos y otros productos continuaron aumentando. La guerra había provocado mayores impuestos, dificultades de abastecimiento y una presión importante sobre las familias.",
+"- Reformas Montagu-Chelmsford: en 1918 se publicaron propuestas para ampliar la participación de los indios en el gobierno. Sin embargo, estas reformas no concedían el autogobierno completo que reclamaban muchos nacionalistas.",
+"- Epidemia de gripe: durante 1918 se extendió la pandemia de gripe, conocida como gripe española. India fue uno de los territorios más afectados y sufrió una enorme cantidad de muertes. La enfermedad perjudicó a las familias, la agricultura y las actividades económicas.",
+"- Final de la guerra: el 11 de noviembre de 1918 se firmó el armisticio con Alemania. Los soldados indios habían contribuido de manera importante a la victoria aliada, pero India continuaba bajo el dominio británico.",
+"La guerra terminó dejando una situación complicada. Muchos indios consideraban injusto haber entregado tantos recursos y soldados sin recibir a cambio una verdadera libertad política. ",
+
+"Consecuencias generales de la Primera Guerra Mundial en la Raj británica",
+"La Primera Guerra Mundial produjo cambios importantes en India, tanto en el ámbito militar como en el económico y político.",
+"1. Gran participación militar: aproximadamente 1,4 millones de hombres fueron movilizados durante la guerra. Cerca de 1,1 millones sirvieron fuera de India, en lugares como Francia, Bélgica, Mesopotamia, Egipto y Palestina.",
+"2. Pérdidas humanas: miles de soldados indios murieron o resultaron heridos durante las campañas militares. La participación también significó que numerosas familias perdieran a sus hijos, padres y hermanos.",
+"3. Problemas económicos: los gastos de la guerra aumentaron la presión sobre la economía india. Hubo inflación, escasez de productos y dificultades para muchas familias.",
+"4. Crecimiento del nacionalismo: los movimientos que exigían el autogobierno ganaron fuerza. Dirigentes como Gandhi, Tilak y Annie Besant tuvieron una mayor influencia política.",
+"5. Promesas británicas: el gobierno británico anunció reformas para permitir una mayor participación india en la administración, pero estas medidas fueron consideradas insuficientes por muchos nacionalistas.",
+"6. Crisis sanitaria: la gripe de 1918 provocó una enorme cantidad de muertes y agravó las dificultades sociales que ya existían.",
+"7. Mayor desconfianza hacia Reino Unido: después de colaborar durante cuatro años, muchos indios comenzaron a cuestionar con más fuerza el dominio colonial y a exigir cambios políticos.",
+"Bibliografía",
+"1) Morton-Jack, George. Warfare 1914-1918 (India). International Encyclopedia of the First World War.  <a href='https://encyclopedia.1914-1918-online.net/article/warfare-1914-1918-india/?format=pdf' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/warfare-1914-1918-india/?format=pdf</a>",
+"2) New Zealand History. British India. Ministry for Culture and Heritage <a href='https://nzhistory.govt.nz/war/british-india-facts?utm' target='_blank' rel='noopener'>https://nzhistory.govt.nz/war/british-india-facts?utm</a>",
+"3) Roy, Kaushik (2018). Indian Army and the First World War: 1914–18. Oxford University Press. <a href='https://www.prio.org/publications/11182?utm' target='_blank' rel='noopener'>https://www.prio.org/publications/11182?utm</a>"
+]},
+   indochina: {
+   1914: [
+"Cuando comenzó la Primera Guerra Mundial, Francia necesitó enviar soldados desde sus colonias para reforzar sus ejércitos en Europa. Indochina tuvo que colaborar con esta movilización.",
+"- Declaración de guerra: las autoridades francesas establecieron el estado de guerra en Indochina. Aunque el territorio estaba lejos de Europa, sus habitantes quedaron afectados por las decisiones militares de Francia.",
+"- Retirada de tropas francesas: alrededor de 7.000 soldados franceses que se encontraban en Indochina fueron enviados a Europa para combatir contra Alemania.",
+"- Problemas comerciales: la guerra dificultó el transporte marítimo entre Europa y Asia. Las exportaciones e importaciones con Francia disminuyeron considerablemente, por lo que comenzaron a faltar algunos productos europeos.",
+"- Cambios económicos: los comerciantes tuvieron que buscar nuevos proveedores en países asiáticos, como China y Japón. También se modificaron las rutas comerciales y los precios de distintos productos.",
+"- Control colonial: las autoridades francesas expulsaron a ciudadanos alemanes y austrohúngaros que vivían en Indochina y tomaron medidas contra empresas relacionadas con capital alemán.",
+"- Resistencia en Laos: a finales de 1914, grupos armados de la región de Yunnan atacaron puestos franceses en Xam Neua y Sơn La. Estos movimientos reunieron a habitantes de distintas comunidades que se oponían a la presencia francesa.",
+"Durante este primer año, Francia comenzó a utilizar cada vez más los recursos de Indochina. La población todavía no participaba masivamente en los combates europeos, pero la economía y la vida cotidiana ya estaban siendo afectadas."
+],
+   1915: [
+"En 1915, Francia necesitaba más hombres para continuar la guerra. Por ello, comenzó a organizar el reclutamiento de habitantes de Indochina para enviarlos a Europa.",
+"- Reclutamiento de trabajadores: Francia necesitaba mano de obra para sus fábricas de armas, municiones y otros materiales militares. Se comenzó a reclutar a vietnamitas para trabajar en territorio francés.",
+"- Primeros trabajadores en Francia: durante este año comenzaron a llegar trabajadores procedentes de Indochina. Muchos fueron empleados en fábricas y actividades relacionadas con el esfuerzo militar.",
+"- Reclutamiento militar: las autoridades francesas también comenzaron a preparar el envío de soldados vietnamitas. Algunos se incorporaron voluntariamente, mientras que otros fueron reclutados bajo una fuerte presión de las autoridades coloniales.",
+"- Inundaciones y hambre: durante el verano, las inundaciones afectaron los campos de arroz del norte de Vietnam. Muchas familias campesinas sufrieron dificultades para conseguir alimentos.",
+"- Aprovechamiento de la crisis: las autoridades francesas utilizaron la situación de pobreza y hambre para facilitar el reclutamiento de trabajadores y soldados. Algunos campesinos fueron enviados a centros donde recibían alimentos y pequeños pagos a cambio de trabajar.",
+"- Mayor presión económica: Indochina tuvo que financiar una parte importante de los gastos relacionados con sus soldados y trabajadores. También se incrementaron los impuestos y las contribuciones de productos como el arroz.",
+"La guerra comenzó a cambiar la vida de miles de familias. Muchos hombres dejaron sus comunidades para viajar a Francia, mientras que otros tuvieron que enfrentar la pobreza y las dificultades provocadas por las inundaciones."
+],
+   1916: [
+"Durante 1916, Indochina vivió importantes levantamientos contra las autoridades coloniales. El envío de hombres y recursos a Europa, junto con los impuestos y los trabajos obligatorios, aumentó el descontento de la población.",
+"- Llegada de soldados a Europa: comenzaron a llegar importantes contingentes de soldados indochinos a Francia. Fueron utilizados en unidades militares, labores de apoyo, transporte y otros servicios.",
+"- Rebelión de Phan Xích Long: en febrero, alrededor de 300 seguidores de este dirigente marcharon hacia la prisión de Saigón para intentar liberarlo. El movimiento fue reprimido por las autoridades francesas.",
+"- Rebelión del emperador Duy Tân: en Annam, el emperador Duy Tân participó en un plan para expulsar a los franceses junto con el dirigente Trần Cao Vân y otros colaboradores. El levantamiento fracasó y sus participantes fueron capturados.",
+"- Exilio de Duy Tân: después del fracaso de la rebelión, el emperador fue obligado a abandonar el trono y enviado al exilio en la isla de Reunión, en el océano Índico. Su padre también había sido exiliado anteriormente.",
+"- Protestas en Camboya: miles de campesinos se movilizaron contra los impuestos y el trabajo obligatorio conocido como corvée. Las protestas se extendieron por Phnom Penh y otras provincias. Algunas estimaciones sitúan la participación entre 30.000 y 100.000 personas.",
+"- Mayor control francés: las autoridades aumentaron la vigilancia sobre los movimientos políticos y las personas sospechosas de organizar rebeliones.",
+"Estos acontecimientos demostraron que la guerra no solo enfrentaba a las potencias europeas, sino que también generaba conflictos dentro de sus colonias. Los habitantes de Indochina comenzaron a cuestionar con mayor fuerza el dominio francés"
+],
+   1917: [
+"En 1917, Indochina continuó proporcionando soldados y trabajadores a Francia. Sin embargo, también se produjeron nuevas rebeliones y aumentó la vigilancia sobre los movimientos nacionalistas.",
+"- Rebelión de Thái Nguyên: el 30 de agosto comenzó una importante sublevación en el norte de Vietnam. Un grupo de prisioneros y guardias de la prisión de Thái Nguyên se rebeló contra las autoridades francesas y recibió el apoyo de habitantes de la ciudad.",
+"- Desarrollo de la rebelión: los insurgentes tomaron instalaciones y atacaron posiciones francesas. La resistencia se prolongó durante varios meses y se convirtió en uno de los levantamientos anticoloniales más importantes de la época.",
+"- Represión francesa: las fuerzas coloniales necesitaron aproximadamente seis meses para controlar la rebelión. La sublevación terminó siendo derrotada, pero demostró que el dominio francés seguía siendo cuestionado.",
+"- Phan Bội Châu: este importante dirigente nacionalista fue arrestado en China por autoridades locales en 1917. Su actividad política y sus contactos con otros movimientos preocupaban a los franceses.",
+"- Regreso de Albert Sarraut: volvió a ocupar el cargo de gobernador general de Indochina. Promovió una política de colaboración con ciertos sectores de la población local, pero también reforzó la vigilancia contra los grupos considerados peligrosos.",
+"- Mayor producción económica: las exportaciones de Indochina alcanzaron niveles muy elevados. Esto se debió en parte a la inflación y a las buenas cosechas de arroz en Cochinchina y Camboya.",
+"- Control de trabajadores y soldados: Francia creó mecanismos especiales para vigilar a los indochinos que estaban en Europa y evitar que difundieran ideas nacionalistas o revolucionarias.",
+"La rebelión de Thái Nguyên fue una señal de que el descontento contra Francia continuaba creciendo. Aunque las autoridades lograron controlar el levantamiento, no consiguieron eliminar las ideas independentistas"
+],
+   1918: [
+"En 1918, la Primera Guerra Mundial llegó a su último año. Indochina continuó colaborando con Francia hasta el final del conflicto, mientras que sus habitantes comenzaban a desarrollar nuevas ideas sobre la independencia y los derechos políticos.",
+"- Continuación del apoyo militar: los soldados indochinos permanecieron en Europa y participaron en tareas de combate y apoyo. Otros trabajadores siguieron empleados en fábricas, hospitales, transportes y actividades agrícolas.",
+"- Trabajo en las fábricas: los trabajadores vietnamitas fueron importantes para mantener la producción de municiones y otros materiales necesarios para el ejército francés. Sus condiciones laborales variaban, pero muchos vivieron en alojamientos provisionales y estuvieron sometidos a una estricta supervisión.",
+"- Experiencia en Europa: los soldados y trabajadores conocieron nuevas formas de organización social y política. Algunos entraron en contacto con sindicatos, periódicos y movimientos que defendían los derechos de los trabajadores.",
+"- Mayor conciencia nacionalista: estas experiencias permitieron que muchos indochinos compararan las ideas francesas de libertad e igualdad con la discriminación que sufrían en las colonias.",
+"- Regreso de trabajadores y soldados: al finalizar las operaciones militares, comenzó el proceso de retorno de los contingentes a Indochina. Muchos llevaron consigo conocimientos, experiencias e ideas que posteriormente influyeron en los movimientos políticos.",
+"- Final de la guerra: el 11 de noviembre de 1918 se firmó el armisticio que puso fin a los combates entre Alemania y los Aliados. Francia había ganado la guerra, pero Indochina continuaba bajo su dominio.",
+"- Descontento político: muchos habitantes esperaban recibir mayores derechos después de haber colaborado con Francia. Sin embargo, las autoridades no concedieron la independencia ni los cambios políticos que esperaban los nacionalistas.",
+"La guerra terminó, pero sus consecuencias continuaron. Los habitantes que habían viajado a Europa regresaron con una visión diferente del mundo y con mayores expectativas de participación política.",
+"Bibliografía",
+"1) Trần, Claire Thi Liên (2022). Indochina. International Encyclopedia of the First World War. <a href='https://encyclopedia.1914-1918-online.net/wp-content/uploads/2023/01/ams/959502/pdf/1914-1918-Online-indochina-2022-01-11.pdf?utm' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/wp-content/uploads/2023/01/ams/959502/pdf/1914-1918-Online-indochina-2022-01-11.pdf?utm</a>",
+"2) Vu-Hill, Kimloan (2014). Indochinese Workers in France (Indochina). International Encyclopedia of the First <a href='https://encyclopedia.1914-1918-online.net/article/indochinese-workers-in-france-indochina/?format=pdf&utm' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/indochinese-workers-in-france-indochina/?format=pdf&utm</a>",
+"3) Peters, Erica J. (2014). Food and Nutrition (Indochina). International Encyclopedia of the First World War.<a href='https://encyclopedia.1914-1918-online.net/article/food-and-nutrition-indochina/?format=pdf&utm' target='_blank' rel='noopener'>https://encyclopedia.1914-1918-online.net/article/food-and-nutrition-indochina/?format=pdf&utm</a>"
+]},      
 };
 const YEAR_DETAIL={
 1914:[
@@ -3263,12 +3385,12 @@ rumania:{n:"Rumania",cont:"Europa",l:2,c:["Romania"],t:[
 /* ---- Asia ---- */
 otomano:{n:"Imperio otomano",cont:"Asia",l:2,c:["Turkey","Iraq","Syria","Lebanon","Israel","Palestine","Jordan"],t:OT.t,x:"Turkey",
   note:"Se muestran Turquía, Irak, Siria, Líbano, Israel, Palestina y Jordania. El imperio incluía además la franja occidental de Arabia (Hiyaz) y partes de Yemen."},
-raj:{n:"Raj británico (India)",cont:"Asia",l:2,c:["India","Pakistan","Bangladesh","Myanmar"],t:T3(
+raj:{n:"Raj británico (India)",cont:"Asia",l:2,c:["India","Pakistan","Bangladesh","Myanmar"],x:"raj",t:T3(
   "La India británica entra en guerra con el Imperio británico: más de un millón de soldados indios sirven fuera del país, en Francia, Galípoli, Mesopotamia y África oriental.",
   "Siguen los envíos de soldados y recursos; Gandhi inicia en Champarán su primera campaña de desobediencia civil.",
   "Unos 74.000 soldados indios murieron en la guerra; la epidemia de gripe mata a millones de personas en la India."),
   note:"Incluye las actuales India, Pakistán, Bangladesh y Myanmar (Birmania). Ceilán era una colonia aparte."},
-indochina:{n:"Indochina francesa",cont:"Asia",l:1,c:["Vietnam","Laos","Cambodia"],t:T3(
+indochina:{n:"Indochina francesa",cont:"Asia",l:1,c:["Vietnam","Laos","Cambodia"],x:"indochina",t:T3(
   "Colonia francesa en el sudeste asiático: aporta recursos y, desde 1915, soldados y trabajadores que viajan a Francia.",
   "Estalla la revuelta de Thái Nguyên (agosto) contra el dominio francés.",
   "Unos 100.000 vietnamitas e indochinos habían sido enviados a Francia como soldados o trabajadores.")},
