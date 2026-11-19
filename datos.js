@@ -135,7 +135,9 @@ const LAT={
    Por país/entidad y año (usa el id de la entidad, ej. "alemania", "francia", "peru"):  "alemania":{1914:["ID1","ID2"]}
    Para todos los países en un año:  VIDEOS_YEAR={1914:["ID"]} */
 const VIDEOS={};
-const VIDEOS_YEAR={};
+const VIDEOS_YEAR={
+   1914:[8Ks_TAhkGGk]
+};
 /* INFO EXTRA (párrafos largos). Se asocia con la clave "x" de cada entidad (ver ENT más abajo).
    Ejemplo:  "Germany":{1914:["Primer párrafo...","Segundo párrafo..."]} */
 const X=a=>Object.fromEntries(a.map((t,i)=>[1914+i,[t]]));
