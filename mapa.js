@@ -32,7 +32,8 @@ $("infl").onclick=()=>setMode("infl");
 
 function renderEvents(){const ev=EVENTS[year];$("evTitle").textContent=ev.title;$("evSub").textContent=ev.items[0];reanimar($("evTitle"),$("evSub"))}
 function reanimar(...els){els.forEach(e=>{if(!e)return;e.classList.remove("flash");void e.offsetWidth;e.classList.add("flash")})}
-function vids(ids,txt){return ids.length?ids.map(id=>`<iframe class="vid" src="https://www.youtube-nocookie.com/embed/${id}" title="Video" allowfullscreen loading="lazy"></iframe>`).join(""):`<div class="ph">${txt}</div>`}
+function ytId(x){const r=String(x).match(/(?:shorts\/|[?&]v=|youtu\.be\/|embed\/)([\w-]{11})/);return r?r[1]:String(x).replace(/^short:/i,"").trim()}   // acepta el ID o el enlace completo
+function vids(ids,txt){return ids.length?ids.map(x=>{const corto=/^short:/i.test(x)||/\/shorts\//.test(x);return `<iframe class="vid${corto?" short":""}" src="https://www.youtube-nocookie.com/embed/${ytId(x)}" title="Video" allowfullscreen loading="lazy"></iframe>`}).join(""):`<div class="ph">${txt}</div>`}
 function yearTabs(el){el.innerHTML="";YEARS.forEach(y=>{const b=document.createElement("button");b.textContent=y;b.setAttribute("aria-pressed",y===year);b.onclick=()=>{year=y;$("year").value=y;refresh()};el.appendChild(b)})}
 function renderYear(){
   yearTabs($("yYears"));$("ymodal").style.setProperty("--acc","#f2c94c");$("ymodal").style.setProperty("--acc-soft","rgba(242,201,76,.32)");$("yTitle").textContent=EVENTS[year].title;
