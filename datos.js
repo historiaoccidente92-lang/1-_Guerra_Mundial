@@ -2925,7 +2925,7 @@ australia: {
 "Mayo de 1915: construcción de una barrera eléctrica en la frontera",
 "Uno de los acontecimientos más particulares fue la construcción, por parte de las autoridades alemanas, de una barrera electrificada a lo largo de la frontera entre Bélgica y Países Bajos.",
 "Esta instalación tenía aproximadamente 300 kilómetros y buscaba impedir que los habitantes de Bélgica cruzaran hacia el territorio neerlandés y que otras personas pasaran información o mercancías entre ambos países.",
-"La barrera era extremadamente peligrosa. Miles de personas intentaron atravesarla y alrededor de 3.000 murieron electrocutadas durante su funcionamiento.v
+"La barrera era extremadamente peligrosa. Miles de personas intentaron atravesarla y alrededor de 3.000 murieron electrocutadas durante su funcionamiento.",
 "Organización de los refugiados",
 "Los refugiados belgas que permanecieron en Países Bajos fueron trasladados a diferentes campamentos. Entre los más conocidos estuvieron los de Nunspeet, Ede y Uden.",
 "En estos lugares se organizaron escuelas, talleres, hospitales, comedores y otros servicios. Aunque las condiciones eran difíciles, algunos refugiados consiguieron desarrollar actividades culturales y laborales.",
