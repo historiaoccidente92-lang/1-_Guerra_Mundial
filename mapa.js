@@ -63,7 +63,7 @@ function renderModal(){
   $("mText").textContent=d.t[i];reanimar($("mText"),$("mYearH"),$("mNote"));
   $("mExtra").innerHTML=((EXTRA[d.x]||{})[year]||[]).map(t=>`<p>${t}</p>`).join("");
   $("mToYear").textContent="Ver "+year+" en el mundo";
-  $("mVideos").innerHTML=vids((VIDEOS[id]||{})[year]||[],"Aquí irá el video de "+d.n+" en "+year+". Agrega su ID de YouTube en la sección VIDEOS del código.");
+  $("mVideos").innerHTML=vids([...((VIDEOS[id]||{})[year]||[]),...((typeof VIDEOS_PAISES!=="undefined"&&VIDEOS_PAISES[year])||[])],"Aquí irá el video de "+d.n+" en "+year+". Agrega su ID de YouTube en la sección VIDEOS del código.");
 }
 function openModal(id){selected=id;$("modal").hidden=false;renderModal();if(is2D)paint2D();$("mClose").focus()}
 function closeModal(){$("modal").hidden=true;selected=null;if(is2D)paint2D()}
