@@ -159,6 +159,16 @@ const VIDEOS_YEAR={
    1917:["8Ks_TAhkGGk"],
    1918:["8Ks_TAhkGGk"]
 };
+
+const VIDEO_COMUN=["8Ks_TAhkGGk"];
+
+const VIDEOS_PAISES={
+   1914:VIDEO_COMUN,
+   1915:VIDEO_COMUN,
+   1916:VIDEO_COMUN,
+   1917:VIDEO_COMUN,
+   1918:VIDEO_COMUN
+};
 /* INFO EXTRA (párrafos largos). Se asocia con la clave "x" de cada entidad (ver ENT más abajo).
    Ejemplo:  "Germany":{1914:["Primer párrafo...","Segundo párrafo..."]} */
 const X=a=>Object.fromEntries(a.map((t,i)=>[1914+i,[t]]));
